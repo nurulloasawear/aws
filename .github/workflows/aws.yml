@@ -1,52 +1,27 @@
 # Fayl manzili: .github/workflows/aws.yml
 
-name: Sync Frontend and Project Files to Server
+name: Deploy to EC2 Server
 
 on:
   push:
     branches:
-      - main  # Agar asosiy branch nomi "main" bo'lmasa, mos ravishda o'zgartiring
+      - main  # agar branchingiz boshqacha bo‘lsa, shu yerga yozing
 
 jobs:
-  sync-files:
+  deploy:
     runs-on: ubuntu-latest
 
     steps:
-      # 1. GitHub repositoriyni klonlash (checkout)
-      - name: Kodni olish (checkout)
-        uses: actions/checkout@v3
+      - name: GitHub'dan kodni olish
+        uses: actions/checkout@v2
 
-      # 2. Serverga SSH orqali ulanish va fayllarni yuborish
-      - name: Fayllarni serverga yuborish
+      - name: Frontend va src fayllarni serverga yuborish
         uses: appleboy/scp-action@v0.1.4
-        with:
-          host: ${{ secrets.HOST }}
-          username: ubuntu
-          key: ${{ secrets.KEY }}
-          port: 22
-          source: "./frontend/*"
-          target: "/home/ubuntu/frontend"
-
-      # 3. (Ixtiyoriy) - src/ yoki boshqa papkani ham yuborish
-      - name: Loyihani src/ papkasini yuborish
-        uses: appleboy/scp-action@v0.1.4
-        with:
-          host: ${{ secrets.HOST }}
-          username: ubuntu
-          key: ${{ secrets.KEY }}
-          port: 22
-          source: "./src/*"
-          target: "/home/ubuntu/project/src"
-
-      # 4. (Ixtiyoriy) - serverda script ishga tushirish
-      - name: Serverda scriptni ishga tushirish
-        uses: appleboy/ssh-action@v1.0.0
         with:
           host: ${{ secrets.HOST }}
           username: ubuntu
           key: ${{ secrets.SSH_PRIVATE_KEY }}
           port: 22
-          script: |
-            cd /home/ubuntu/frontend
-            npm install
-            npm run build
+          source: "frontend/*,src/*"
+          target: "/home/ubuntu/resabmittion"
+          rm: true
