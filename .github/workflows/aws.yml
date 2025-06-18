@@ -1,0 +1,45 @@
+# Fayl manzili: .github/workflows/ssh_deploy.yml
+
+# Workflow (ish oqimi) nomi
+name: Sync Frontend and Project Files to Server
+
+# Workflow qachon ishga tushishini belgilovchi qoida
+on:
+  # "main" nomli branchga har safar yangi kod "push" qilinganda ishga tushadi
+  push:
+    branches:
+      - main # Agar sizning asosiy branch nomingiz "master" bo'lsa, shunga o'zgartiring
+
+# Bajariladigan vazifalar (jobs) ro'yxati
+jobs:
+  sync-files:
+    # Vazifa ishlaydigan virtual mashina operatsion tizimi
+    runs-on: ubuntu-latest
+
+    # Vazifa qadamlari (steps)
+    steps:
+      - name: 1. Serverga ulanish va faqat fayllarni yangilash
+        # Ushbu action serverga ulanib, faqat "git pull" buyrug'ini bajaradi
+        uses: appleboy/ssh-action@v1.0.3
+        with:
+          # --- GitHub Secrets'dan olinadigan ma'lumotlar ---
+          host: ${{ secrets.HOST }}                  # SECRET: Serveringizning IP manzili yoki domeni
+          key: ${{ secrets.SSH_PRIVATE_KEY }}        # SECRET: Serverga kirish uchun maxfiy SSH kalit
+          
+          # --- To'g'ridan-to'g'ri yozilgan (hardcoded) ma'lumotlar ---
+          username: ubuntu                         # DEFAULT: Foydalanuvchi nomi "ubuntu" deb belgilandi
+          port: 22                                 # DEFAULT: SSH porti "22" deb belgilandi
+
+          # --- Serverda bajariladigan YAGONA buyruqlar ---
+          script: |
+            # MUHIM: Loyiha papkasiga to'g'ri yo'lni ko'rsating!
+            cd /home/ubuntu/bogcha_dasturi
+
+            # Eng so'nggi o'zgarishlarni GitHub'dan tortib olish
+            echo ">>> Pulling latest file changes from GitHub..."
+            git pull origin main
+
+            echo ">>> Fayllarni sinxronizatsiya qilish muvaffaqiyatli yakunlandi!"
+            echo ">>> DIQQAT: Serverdagi 'nohup' jarayoniga tegilmadi."
+            echo ">>> Frontend o'zgarishlari brauzer keshini tozalagandan so'ng ko'rinishi kerak."
+            echo ">>> Agar backend (Python/Django) kodiga o'zgartirish kiritgan bo'lsangiz, u holda jarayonni qo'lda qayta ishga tushirishingiz kerak bo'ladi."
