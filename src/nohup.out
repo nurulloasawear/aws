@@ -1,0 +1,924 @@
+Watching for file changes with StatReloader
+Error: That port is already in use.
+
+Usage:
+ kill [options] <pid> [...]
+
+Options:
+ <pid> [...]            send signal to every <pid> listed
+ -<signal>, -s, --signal <signal>
+                        specify the <signal> to be sent
+ -q, --queue <value>    integer value to be sent with the signal
+ -l, --list=[<signal>]  list all signal names, or convert one to a name
+ -L, --table            list all signal names in a nice table
+
+ -h, --help     display this help and exit
+ -V, --version  output version information and exit
+
+For more details see kill(1).
+Watching for file changes with StatReloader
+Error: That port is already in use.
+Watching for file changes with StatReloader
+Error: That port is already in use.
+Watching for file changes with StatReloader
+Invalid HTTP_HOST header: '13.60.5.226:8000'. You may need to add '13.60.5.226' to ALLOWED_HOSTS.
+Traceback (most recent call last):
+  File "/home/ubuntu/venv/lib/python3.12/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/venv/lib/python3.12/site-packages/django/utils/deprecation.py", line 119, in __call__
+    response = self.process_request(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/venv/lib/python3.12/site-packages/django/middleware/common.py", line 48, in process_request
+    host = request.get_host()
+           ^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/venv/lib/python3.12/site-packages/django/http/request.py", line 191, in get_host
+    raise DisallowedHost(msg)
+django.core.exceptions.DisallowedHost: Invalid HTTP_HOST header: '13.60.5.226:8000'. You may need to add '13.60.5.226' to ALLOWED_HOSTS.
+[12/Jun/2025 20:21:40] "GET / HTTP/1.1" 400 65070
+Invalid HTTP_HOST header: '13.60.5.226:8000'. You may need to add '13.60.5.226' to ALLOWED_HOSTS.
+Traceback (most recent call last):
+  File "/home/ubuntu/venv/lib/python3.12/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/venv/lib/python3.12/site-packages/django/utils/deprecation.py", line 119, in __call__
+    response = self.process_request(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/venv/lib/python3.12/site-packages/django/middleware/common.py", line 48, in process_request
+    host = request.get_host()
+           ^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/venv/lib/python3.12/site-packages/django/http/request.py", line 191, in get_host
+    raise DisallowedHost(msg)
+django.core.exceptions.DisallowedHost: Invalid HTTP_HOST header: '13.60.5.226:8000'. You may need to add '13.60.5.226' to ALLOWED_HOSTS.
+[12/Jun/2025 20:21:43] "GET /favicon.ico HTTP/1.1" 400 65013
+Performing system checks...
+
+System check identified no issues (0 silenced).
+June 12, 2025 - 20:21:03
+Django version 5.2.3, using settings 'src.settings'
+Starting development server at http://0.0.0.0:8000/
+Quit the server with CONTROL-C.
+
+WARNING: This is a development server. Do not use it in a production setting. Use a production WSGI or ASGI server instead.
+For more information on production servers see: https://docs.djangoproject.com/en/5.2/howto/deployment/
+Watching for file changes with StatReloader
+Invalid HTTP_HOST header: '13.60.5.226:8000'. You may need to add '13.60.5.226' to ALLOWED_HOSTS.
+Traceback (most recent call last):
+  File "/home/ubuntu/venv/lib/python3.12/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/venv/lib/python3.12/site-packages/django/utils/deprecation.py", line 119, in __call__
+    response = self.process_request(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/venv/lib/python3.12/site-packages/django/middleware/common.py", line 48, in process_request
+    host = request.get_host()
+           ^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/venv/lib/python3.12/site-packages/django/http/request.py", line 191, in get_host
+    raise DisallowedHost(msg)
+django.core.exceptions.DisallowedHost: Invalid HTTP_HOST header: '13.60.5.226:8000'. You may need to add '13.60.5.226' to ALLOWED_HOSTS.
+[12/Jun/2025 20:23:16] "GET / HTTP/1.1" 400 65207
+Invalid HTTP_HOST header: '13.60.5.226:8000'. You may need to add '13.60.5.226' to ALLOWED_HOSTS.
+Traceback (most recent call last):
+  File "/home/ubuntu/venv/lib/python3.12/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/venv/lib/python3.12/site-packages/django/utils/deprecation.py", line 119, in __call__
+    response = self.process_request(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/venv/lib/python3.12/site-packages/django/middleware/common.py", line 48, in process_request
+    host = request.get_host()
+           ^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/venv/lib/python3.12/site-packages/django/http/request.py", line 191, in get_host
+    raise DisallowedHost(msg)
+django.core.exceptions.DisallowedHost: Invalid HTTP_HOST header: '13.60.5.226:8000'. You may need to add '13.60.5.226' to ALLOWED_HOSTS.
+[12/Jun/2025 20:23:19] "GET /favicon.ico HTTP/1.1" 400 65013
+Performing system checks...
+
+System check identified no issues (0 silenced).
+June 12, 2025 - 20:23:13
+Django version 5.2.3, using settings 'src.settings'
+Starting development server at http://0.0.0.0:8000/
+Quit the server with CONTROL-C.
+
+WARNING: This is a development server. Do not use it in a production setting. Use a production WSGI or ASGI server instead.
+For more information on production servers see: https://docs.djangoproject.com/en/5.2/howto/deployment/
+Watching for file changes with StatReloader
+Invalid HTTP_HOST header: '13.60.5.226:8000'. You may need to add '13.60.5.226' to ALLOWED_HOSTS.
+Traceback (most recent call last):
+  File "/home/ubuntu/venv/lib/python3.12/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/venv/lib/python3.12/site-packages/django/utils/deprecation.py", line 119, in __call__
+    response = self.process_request(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/venv/lib/python3.12/site-packages/django/middleware/common.py", line 48, in process_request
+    host = request.get_host()
+           ^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/venv/lib/python3.12/site-packages/django/http/request.py", line 191, in get_host
+    raise DisallowedHost(msg)
+django.core.exceptions.DisallowedHost: Invalid HTTP_HOST header: '13.60.5.226:8000'. You may need to add '13.60.5.226' to ALLOWED_HOSTS.
+[12/Jun/2025 20:23:46] "GET / HTTP/1.1" 400 65207
+Invalid HTTP_HOST header: '13.60.5.226:8000'. You may need to add '13.60.5.226' to ALLOWED_HOSTS.
+Traceback (most recent call last):
+  File "/home/ubuntu/venv/lib/python3.12/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/venv/lib/python3.12/site-packages/django/utils/deprecation.py", line 119, in __call__
+    response = self.process_request(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/venv/lib/python3.12/site-packages/django/middleware/common.py", line 48, in process_request
+    host = request.get_host()
+           ^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/venv/lib/python3.12/site-packages/django/http/request.py", line 191, in get_host
+    raise DisallowedHost(msg)
+django.core.exceptions.DisallowedHost: Invalid HTTP_HOST header: '13.60.5.226:8000'. You may need to add '13.60.5.226' to ALLOWED_HOSTS.
+[12/Jun/2025 20:23:49] "GET /favicon.ico HTTP/1.1" 400 65013
+Invalid HTTP_HOST header: '13.60.5.226:8000'. You may need to add '13.60.5.226' to ALLOWED_HOSTS.
+Traceback (most recent call last):
+  File "/home/ubuntu/venv/lib/python3.12/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/venv/lib/python3.12/site-packages/django/utils/deprecation.py", line 119, in __call__
+    response = self.process_request(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/venv/lib/python3.12/site-packages/django/middleware/common.py", line 48, in process_request
+    host = request.get_host()
+           ^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/venv/lib/python3.12/site-packages/django/http/request.py", line 191, in get_host
+    raise DisallowedHost(msg)
+django.core.exceptions.DisallowedHost: Invalid HTTP_HOST header: '13.60.5.226:8000'. You may need to add '13.60.5.226' to ALLOWED_HOSTS.
+[12/Jun/2025 20:23:53] "GET / HTTP/1.1" 400 65207
+Invalid HTTP_HOST header: '13.60.5.226:8000'. You may need to add '13.60.5.226' to ALLOWED_HOSTS.
+Traceback (most recent call last):
+  File "/home/ubuntu/venv/lib/python3.12/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/venv/lib/python3.12/site-packages/django/utils/deprecation.py", line 119, in __call__
+    response = self.process_request(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/venv/lib/python3.12/site-packages/django/middleware/common.py", line 48, in process_request
+    host = request.get_host()
+           ^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/venv/lib/python3.12/site-packages/django/http/request.py", line 191, in get_host
+    raise DisallowedHost(msg)
+django.core.exceptions.DisallowedHost: Invalid HTTP_HOST header: '13.60.5.226:8000'. You may need to add '13.60.5.226' to ALLOWED_HOSTS.
+[12/Jun/2025 20:23:54] "GET /favicon.ico HTTP/1.1" 400 65013
+Performing system checks...
+
+System check identified no issues (0 silenced).
+June 12, 2025 - 20:23:41
+Django version 5.2.3, using settings 'src.settings'
+Starting development server at http://0.0.0.0:8000/
+Quit the server with CONTROL-C.
+
+WARNING: This is a development server. Do not use it in a production setting. Use a production WSGI or ASGI server instead.
+For more information on production servers see: https://docs.djangoproject.com/en/5.2/howto/deployment/
+Traceback (most recent call last):
+  File "/home/ubuntu/resabmittion/src/manage.py", line 22, in <module>
+    main()
+  File "/home/ubuntu/resabmittion/src/manage.py", line 18, in main
+    execute_from_command_line(sys.argv)
+  File "/home/ubuntu/venv/lib/python3.12/site-packages/django/core/management/__init__.py", line 442, in execute_from_command_line
+    utility.execute()
+  File "/home/ubuntu/venv/lib/python3.12/site-packages/django/core/management/__init__.py", line 382, in execute
+    settings.INSTALLED_APPS
+  File "/home/ubuntu/venv/lib/python3.12/site-packages/django/conf/__init__.py", line 81, in __getattr__
+    self._setup(name)
+  File "/home/ubuntu/venv/lib/python3.12/site-packages/django/conf/__init__.py", line 68, in _setup
+    self._wrapped = Settings(settings_module)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/venv/lib/python3.12/site-packages/django/conf/__init__.py", line 166, in __init__
+    mod = importlib.import_module(self.SETTINGS_MODULE)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/importlib/__init__.py", line 90, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "<frozen importlib._bootstrap>", line 1387, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1360, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1331, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 935, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 991, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 1129, in get_code
+  File "<frozen importlib._bootstrap_external>", line 1059, in source_to_code
+  File "<frozen importlib._bootstrap>", line 488, in _call_with_frames_removed
+  File "/home/ubuntu/resabmittion/src/src/settings.py", line 1
+    4"""
+     ^^^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "/home/ubuntu/resabmittion/src/manage.py", line 22, in <module>
+    main()
+  File "/home/ubuntu/resabmittion/src/manage.py", line 18, in main
+    execute_from_command_line(sys.argv)
+  File "/home/ubuntu/venv/lib/python3.12/site-packages/django/core/management/__init__.py", line 442, in execute_from_command_line
+    utility.execute()
+  File "/home/ubuntu/venv/lib/python3.12/site-packages/django/core/management/__init__.py", line 382, in execute
+    settings.INSTALLED_APPS
+  File "/home/ubuntu/venv/lib/python3.12/site-packages/django/conf/__init__.py", line 81, in __getattr__
+    self._setup(name)
+  File "/home/ubuntu/venv/lib/python3.12/site-packages/django/conf/__init__.py", line 68, in _setup
+    self._wrapped = Settings(settings_module)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/venv/lib/python3.12/site-packages/django/conf/__init__.py", line 166, in __init__
+    mod = importlib.import_module(self.SETTINGS_MODULE)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/importlib/__init__.py", line 90, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "<frozen importlib._bootstrap>", line 1387, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1360, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1331, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 935, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 991, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 1129, in get_code
+  File "<frozen importlib._bootstrap_external>", line 1059, in source_to_code
+  File "<frozen importlib._bootstrap>", line 488, in _call_with_frames_removed
+  File "/home/ubuntu/resabmittion/src/src/settings.py", line 1
+    4"""
+     ^^^
+SyntaxError: invalid syntax
+Watching for file changes with StatReloader
+[12/Jun/2025 20:25:47] "GET / HTTP/1.1" 200 5230
+[12/Jun/2025 20:25:48] "GET /static/rest_framework/css/bootstrap-tweaks.css HTTP/1.1" 200 3426
+[12/Jun/2025 20:25:48] "GET /static/rest_framework/css/prettify.css HTTP/1.1" 200 817
+[12/Jun/2025 20:25:48] "GET /static/rest_framework/css/default.css HTTP/1.1" 200 1152
+[12/Jun/2025 20:25:48] "GET /static/rest_framework/css/bootstrap.min.css HTTP/1.1" 200 121457
+[12/Jun/2025 20:25:48] "GET /static/rest_framework/img/grid.png HTTP/1.1" 200 1458
+[12/Jun/2025 20:25:48] "GET /static/rest_framework/js/jquery-3.7.1.min.js HTTP/1.1" 200 87533
+[12/Jun/2025 20:25:48] "GET /static/rest_framework/js/ajax-form.js HTTP/1.1" 200 3796
+[12/Jun/2025 20:25:48] "GET /static/rest_framework/js/csrf.js HTTP/1.1" 200 1793
+[12/Jun/2025 20:25:48] "GET /static/rest_framework/js/bootstrap.min.js HTTP/1.1" 200 39680
+[12/Jun/2025 20:25:48] "GET /static/rest_framework/js/prettify-min.js HTTP/1.1" 200 13632
+[12/Jun/2025 20:25:48] "GET /static/rest_framework/js/default.js HTTP/1.1" 200 1268
+[12/Jun/2025 20:25:48] "GET /static/rest_framework/js/load-ajax-form.js HTTP/1.1" 200 59
+[12/Jun/2025 20:25:48] "GET /static/rest_framework/js/ajax-form.js HTTP/1.1" 200 3796
+[12/Jun/2025 20:25:48] "GET /static/rest_framework/js/csrf.js HTTP/1.1" 200 1793
+[12/Jun/2025 20:25:48] "GET /static/rest_framework/js/bootstrap.min.js HTTP/1.1" 200 39680
+[12/Jun/2025 20:25:48] "GET /static/rest_framework/js/prettify-min.js HTTP/1.1" 200 13632
+[12/Jun/2025 20:25:48] "GET /static/rest_framework/js/default.js HTTP/1.1" 200 1268
+[12/Jun/2025 20:25:48] "GET /static/rest_framework/js/jquery-3.7.1.min.js HTTP/1.1" 200 87533
+[12/Jun/2025 20:25:48] "GET /static/rest_framework/js/load-ajax-form.js HTTP/1.1" 200 59
+Not Found: /favicon.ico
+[12/Jun/2025 20:25:50] "GET /favicon.ico HTTP/1.1" 404 5606
+[12/Jun/2025 20:59:55] "GET / HTTP/1.1" 200 5230
+[12/Jun/2025 20:59:55] "GET /static/rest_framework/css/bootstrap.min.css HTTP/1.1" 304 0
+[12/Jun/2025 20:59:55] "GET /static/rest_framework/css/default.css HTTP/1.1" 304 0
+[12/Jun/2025 20:59:55] "GET /static/rest_framework/css/bootstrap-tweaks.css HTTP/1.1" 304 0
+[12/Jun/2025 20:59:55] "GET /static/rest_framework/css/prettify.css HTTP/1.1" 304 0
+[12/Jun/2025 20:59:55] "GET /static/rest_framework/js/jquery-3.7.1.min.js HTTP/1.1" 304 0
+[12/Jun/2025 20:59:56] "GET /static/rest_framework/js/ajax-form.js HTTP/1.1" 304 0
+[12/Jun/2025 20:59:56] "GET /static/rest_framework/js/csrf.js HTTP/1.1" 304 0
+[12/Jun/2025 20:59:56] "GET /static/rest_framework/js/bootstrap.min.js HTTP/1.1" 304 0
+[12/Jun/2025 20:59:56] "GET /static/rest_framework/js/prettify-min.js HTTP/1.1" 304 0
+[12/Jun/2025 20:59:56] "GET /static/rest_framework/js/default.js HTTP/1.1" 304 0
+[12/Jun/2025 20:59:56] "GET /static/rest_framework/js/load-ajax-form.js HTTP/1.1" 304 0
+[12/Jun/2025 20:59:56] "GET /static/rest_framework/img/grid.png HTTP/1.1" 304 0
+[12/Jun/2025 21:00:45] "GET / HTTP/1.1" 200 5230
+/home/ubuntu/resabmittion/src/src/settings.py changed, reloading.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+June 12, 2025 - 20:25:42
+Django version 5.2.3, using settings 'src.settings'
+Starting development server at http://0.0.0.0:8000/
+Quit the server with CONTROL-C.
+
+WARNING: This is a development server. Do not use it in a production setting. Use a production WSGI or ASGI server instead.
+For more information on production servers see: https://docs.djangoproject.com/en/5.2/howto/deployment/
+Watching for file changes with StatReloader
+Exception in thread django-main-thread:
+Traceback (most recent call last):
+  File "/usr/lib/python3.12/threading.py", line 1073, in _bootstrap_inner
+    self.run()
+  File "/usr/lib/python3.12/threading.py", line 1010, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/ubuntu/venv/lib/python3.12/site-packages/django/utils/autoreload.py", line 64, in wrapper
+    fn(*args, **kwargs)
+  File "/home/ubuntu/venv/lib/python3.12/site-packages/django/core/management/commands/runserver.py", line 134, in inner_run
+    self.check(**check_kwargs)
+  File "/home/ubuntu/venv/lib/python3.12/site-packages/django/core/management/base.py", line 569, in check
+    raise SystemCheckError(msg)
+django.core.management.base.SystemCheckError: SystemCheckError: System check identified some issues:
+
+ERRORS:
+?: (corsheaders.E014) Origin 'http://13.60.5.226/:5500' in CORS_ALLOWED_ORIGINS should not have path
+
+System check identified 1 issue (0 silenced).
+Traceback (most recent call last):
+  File "/home/ubuntu/resabmittion/src/manage.py", line 11, in main
+    from django.core.management import execute_from_command_line
+ModuleNotFoundError: No module named 'django'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/ubuntu/resabmittion/src/manage.py", line 22, in <module>
+    main()
+  File "/home/ubuntu/resabmittion/src/manage.py", line 13, in main
+    raise ImportError(
+ImportError: Couldn't import Django. Are you sure it's installed and available on your PYTHONPATH environment variable? Did you forget to activate a virtual environment?
+/home/ubuntu/resabmittion/src/src/settings.py changed, reloading.
+Performing system checks...
+
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Error: That port is already in use.
+[12/Jun/2025 21:21:18] "GET / HTTP/1.1" 200 5230
+[12/Jun/2025 21:21:18] "GET /static/rest_framework/css/bootstrap.min.css HTTP/1.1" 304 0
+[12/Jun/2025 21:21:18] "GET /static/rest_framework/css/bootstrap-tweaks.css HTTP/1.1" 304 0
+[12/Jun/2025 21:21:18] "GET /static/rest_framework/css/default.css HTTP/1.1" 304 0
+[12/Jun/2025 21:21:18] "GET /static/rest_framework/css/prettify.css HTTP/1.1" 304 0
+[12/Jun/2025 21:21:18] "GET / HTTP/1.1" 200 5230
+[12/Jun/2025 21:21:19] "GET /static/rest_framework/js/jquery-3.7.1.min.js HTTP/1.1" 304 0
+[12/Jun/2025 21:21:19] "GET /static/rest_framework/js/prettify-min.js HTTP/1.1" 304 0
+[12/Jun/2025 21:21:19] "GET /static/rest_framework/js/ajax-form.js HTTP/1.1" 304 0
+[12/Jun/2025 21:21:19] "GET /static/rest_framework/js/bootstrap.min.js HTTP/1.1" 304 0
+[12/Jun/2025 21:21:19] "GET /static/rest_framework/js/csrf.js HTTP/1.1" 304 0
+[12/Jun/2025 21:21:19] "GET /static/rest_framework/js/default.js HTTP/1.1" 304 0
+[12/Jun/2025 21:21:19] "GET /static/rest_framework/js/load-ajax-form.js HTTP/1.1" 304 0
+[12/Jun/2025 21:21:19] "GET /static/rest_framework/img/grid.png HTTP/1.1" 304 0
+[12/Jun/2025 21:21:23] "OPTIONS /users/token/ HTTP/1.1" 200 0
+[12/Jun/2025 21:21:24] "POST /users/token/ HTTP/1.1" 200 483
+[12/Jun/2025 21:21:25] "OPTIONS /users/token/blok/ HTTP/1.1" 200 0
+[12/Jun/2025 21:21:25] "GET /api/projects HTTP/1.1" 301 0
+[12/Jun/2025 21:21:25] "GET /units/ HTTP/1.1" 200 2622
+[12/Jun/2025 21:21:25] "GET /units/ HTTP/1.1" 200 2622
+[12/Jun/2025 21:21:25] "GET /users/token/blok/ HTTP/1.1" 200 20
+[12/Jun/2025 21:21:26] "GET /api/projects/ HTTP/1.1" 200 1632
+[12/Jun/2025 21:21:26] "GET /media/company-imgs/icon-sun-cloud_VTkbp0l.png HTTP/1.1" 200 96900
+[12/Jun/2025 21:21:26] "GET /media/company-imgs/icon-sun-cloud_4Qxv2s7.png HTTP/1.1" 200 96900
+[12/Jun/2025 21:21:26] "GET /media/company-imgs/icon-sun-cloud_jkEQ1rV.png HTTP/1.1" 200 96900
+[12/Jun/2025 21:21:26] "GET /media/company-imgs/icon-sun-cloud_tlnEIaK.png HTTP/1.1" 200 96900
+[12/Jun/2025 21:21:26] "GET /media/company-imgs/icon-sun-cloud_cgg7HW8.png HTTP/1.1" 200 96900
+[12/Jun/2025 21:21:26] "GET /media/company-imgs/test-speed_STvsjhv.png HTTP/1.1" 200 191788
+[12/Jun/2025 21:21:30] "GET /media/company-imgs/test-speed_V6QyDVl.png HTTP/1.1" 200 191788
+[12/Jun/2025 21:21:30] "GET /media/company-imgs/test-speed_HLaw0OO.png HTTP/1.1" 200 191788
+[12/Jun/2025 21:21:31] "GET /media/company-imgs/test-speed_xTOiiOz.png HTTP/1.1" 200 191788
+[12/Jun/2025 21:21:32] "GET /media/company-imgs/test-speed_NK9QDkQ.png HTTP/1.1" 200 191788
+[12/Jun/2025 22:03:26] "GET / HTTP/1.1" 200 42
+[12/Jun/2025 22:04:19] code 400, message Bad request version ('À\x14À')
+[12/Jun/2025 22:04:19] You're accessing the development server over HTTPS, but it only supports HTTP.
+[12/Jun/2025 22:04:19] code 400, message Bad request version ('À\x14À')
+[12/Jun/2025 22:04:19] You're accessing the development server over HTTPS, but it only supports HTTP.
+[12/Jun/2025 22:04:19] code 400, message Bad request version ('À\x14À')
+[12/Jun/2025 22:04:19] You're accessing the development server over HTTPS, but it only supports HTTP.
+[12/Jun/2025 22:04:20] code 400, message Bad HTTP/0.9 request type ("\x16\x03\x01\x00u\x01\x00\x00q\x03\x03G\x9efe\x935\x93\x96\x0f\x9fpõ'LÍì\x05ççµÄ3i¢újË\x01#(yÎ\x00\x00\x1aÀ/À+À\x11À\x07À\x13À")
+[12/Jun/2025 22:04:20] You're accessing the development server over HTTPS, but it only supports HTTP.
+Not Found: /www.google.com:443
+[12/Jun/2025 22:48:31] "CONNECT www.google.com:443 HTTP/1.1" 404 1862
+Not Found: /www.google.com:443
+[12/Jun/2025 22:59:18] "CONNECT www.google.com:443 HTTP/1.1" 404 1862
+[12/Jun/2025 23:17:23] "OPTIONS /users/token/blok/ HTTP/1.1" 200 0
+Not Found: /favicon.ico
+[12/Jun/2025 23:17:28] "GET /favicon.ico HTTP/1.1" 404 5606
+Not Found: /favicon.ico
+[12/Jun/2025 23:17:28] "GET /favicon.ico HTTP/1.1" 404 5606
+[12/Jun/2025 23:17:29] "GET /media/company-imgs/test-speed_STvsjhv.png HTTP/1.1" 304 0
+[12/Jun/2025 23:17:29] "GET /media/company-imgs/icon-sun-cloud_VTkbp0l.png HTTP/1.1" 304 0
+[12/Jun/2025 23:17:29] "GET /media/company-imgs/icon-sun-cloud_cgg7HW8.png HTTP/1.1" 304 0
+[12/Jun/2025 23:17:29] "GET /media/company-imgs/icon-sun-cloud_tlnEIaK.png HTTP/1.1" 304 0
+[12/Jun/2025 23:17:29] "GET /media/company-imgs/icon-sun-cloud_jkEQ1rV.png HTTP/1.1" 304 0
+[12/Jun/2025 23:17:29] "GET /media/company-imgs/icon-sun-cloud_4Qxv2s7.png HTTP/1.1" 304 0
+[12/Jun/2025 23:17:29] "GET /media/company-imgs/test-speed_HLaw0OO.png HTTP/1.1" 304 0
+[12/Jun/2025 23:17:29] "GET /media/company-imgs/test-speed_V6QyDVl.png HTTP/1.1" 304 0
+[12/Jun/2025 23:17:30] "GET /media/company-imgs/test-speed_xTOiiOz.png HTTP/1.1" 304 0
+[12/Jun/2025 23:17:30] "GET /media/company-imgs/test-speed_NK9QDkQ.png HTTP/1.1" 304 0
+[13/Jun/2025 00:17:18] "GET / HTTP/1.1" 200 42
+Not Found: /www.google.com:443
+[13/Jun/2025 01:36:38] "CONNECT www.google.com:443 HTTP/1.1" 404 1862
+[13/Jun/2025 04:35:14] "GET / HTTP/1.1" 200 5230
+[13/Jun/2025 04:35:14] "GET /static/rest_framework/css/prettify.css HTTP/1.1" 200 817
+[13/Jun/2025 04:35:14] "GET /static/rest_framework/css/bootstrap-tweaks.css HTTP/1.1" 200 3426
+[13/Jun/2025 04:35:14] "GET /static/rest_framework/css/bootstrap.min.css HTTP/1.1" 200 121457
+[13/Jun/2025 04:35:16] "GET /static/rest_framework/css/default.css HTTP/1.1" 200 1152
+[13/Jun/2025 04:35:16] "GET /static/rest_framework/js/ajax-form.js HTTP/1.1" 200 3796
+[13/Jun/2025 04:35:16] "GET /static/rest_framework/js/jquery-3.7.1.min.js HTTP/1.1" 200 87533
+[13/Jun/2025 04:35:17] "GET /static/rest_framework/js/bootstrap.min.js HTTP/1.1" 200 39680
+[13/Jun/2025 04:35:17] "GET /static/rest_framework/js/csrf.js HTTP/1.1" 200 1793
+[13/Jun/2025 04:35:18] "GET /static/rest_framework/js/default.js HTTP/1.1" 200 1268
+[13/Jun/2025 04:35:18] "GET /static/rest_framework/js/prettify-min.js HTTP/1.1" 200 13632
+[13/Jun/2025 04:35:18] "GET /static/rest_framework/js/load-ajax-form.js HTTP/1.1" 200 59
+[13/Jun/2025 04:35:18] "GET /static/rest_framework/img/grid.png HTTP/1.1" 200 1458
+[13/Jun/2025 04:35:20] "GET /units/ HTTP/1.1" 200 2622
+[13/Jun/2025 04:35:20] "GET /api/projects HTTP/1.1" 301 0
+[13/Jun/2025 04:35:20] "OPTIONS /users/token/blok/ HTTP/1.1" 200 0
+Unauthorized: /users/token/blok/
+[13/Jun/2025 04:35:20] "GET /users/token/blok/ HTTP/1.1" 401 172
+[13/Jun/2025 04:35:23] "GET /api/projects/ HTTP/1.1" 200 1632
+Not Found: /favicon.ico
+[13/Jun/2025 04:35:27] "GET /favicon.ico HTTP/1.1" 404 5606
+[13/Jun/2025 06:11:07] "GET / HTTP/1.0" 200 5220
+Not Found: /www.google.com:443
+[13/Jun/2025 08:20:38] "CONNECT www.google.com:443 HTTP/1.1" 404 1862
+Not Found: /www.google.com:443
+[13/Jun/2025 09:14:13] "CONNECT www.google.com:443 HTTP/1.1" 404 1862
+Not Found: /www.google.com:443
+[13/Jun/2025 10:54:30] "CONNECT www.google.com:443 HTTP/1.1" 404 1862
+[13/Jun/2025 11:03:49] "GET / HTTP/1.1" 200 42
+Not Found: /favicon.ico
+[13/Jun/2025 11:04:09] "GET /favicon.ico HTTP/1.1" 404 5606
+Not Found: /www.shadowserver.org:443
+[13/Jun/2025 11:04:16] "CONNECT www.shadowserver.org:443 HTTP/1.1" 404 1882
+Not Found: /www.google.com:443
+[13/Jun/2025 11:38:48] "CONNECT www.google.com:443 HTTP/1.1" 404 1862
+[13/Jun/2025 12:27:39,916] - Broken pipe from ('206.168.34.201', 49728)
+[13/Jun/2025 12:55:31] code 400, message Bad request version ('À\x13À')
+[13/Jun/2025 12:55:31] You're accessing the development server over HTTPS, but it only supports HTTP.
+[13/Jun/2025 12:55:42] code 400, message Bad request version ('À\x13À')
+[13/Jun/2025 12:55:42] You're accessing the development server over HTTPS, but it only supports HTTP.
+[13/Jun/2025 12:55:42] code 400, message Bad request version ('À\x13À')
+[13/Jun/2025 12:55:42] You're accessing the development server over HTTPS, but it only supports HTTP.
+[13/Jun/2025 12:55:43] "GET / HTTP/1.1" 200 42
+[13/Jun/2025 13:15:17] code 400, message Bad request version ('À\x14À')
+[13/Jun/2025 13:15:17] You're accessing the development server over HTTPS, but it only supports HTTP.
+[13/Jun/2025 13:15:17] code 400, message Bad request version ('À\x14À')
+[13/Jun/2025 13:15:17] You're accessing the development server over HTTPS, but it only supports HTTP.
+[13/Jun/2025 13:15:17] code 400, message Bad request version ('À\x14À')
+[13/Jun/2025 13:15:17] You're accessing the development server over HTTPS, but it only supports HTTP.
+[13/Jun/2025 13:15:18] code 400, message Bad request syntax ('\x16\x03\x01\x00u\x01\x00\x00q\x03\x03BáÕwI[]\x8d\x12ÙàTË')
+[13/Jun/2025 13:15:18] You're accessing the development server over HTTPS, but it only supports HTTP.
+[13/Jun/2025 15:20:57] code 400, message Bad request version ('À\x13À')
+[13/Jun/2025 15:20:57] You're accessing the development server over HTTPS, but it only supports HTTP.
+[13/Jun/2025 15:21:08] code 400, message Bad request version ('À\x13À')
+[13/Jun/2025 15:21:08] You're accessing the development server over HTTPS, but it only supports HTTP.
+[13/Jun/2025 15:21:09] code 400, message Bad request version ('À\x13À')
+[13/Jun/2025 15:21:09] You're accessing the development server over HTTPS, but it only supports HTTP.
+[13/Jun/2025 15:21:09] "GET / HTTP/1.1" 200 42
+[13/Jun/2025 16:25:27] code 400, message Bad request version ('À\x14À')
+[13/Jun/2025 16:25:27] You're accessing the development server over HTTPS, but it only supports HTTP.
+Not Found: /www.google.com:443
+[13/Jun/2025 16:41:48] "CONNECT www.google.com:443 HTTP/1.1" 404 1862
+[13/Jun/2025 16:44:46] "GET / HTTP/1.1" 200 42
+Not Found: /favicon.ico
+[13/Jun/2025 16:44:50] "GET /favicon.ico HTTP/1.1" 404 5606
+[13/Jun/2025 16:44:53] code 505, message Invalid HTTP version (2.0)
+[13/Jun/2025 16:44:53] "PRI * HTTP/2.0" 505 -
+Not Found: /favicon.ico
+[13/Jun/2025 16:45:10] "GET /favicon.ico HTTP/1.1" 404 5606
+[13/Jun/2025 16:45:12] code 400, message Bad request version ('À\x14À')
+[13/Jun/2025 16:45:12] You're accessing the development server over HTTPS, but it only supports HTTP.
+[13/Jun/2025 16:45:20] code 400, message Bad request version ('À\x14À')
+[13/Jun/2025 16:45:20] You're accessing the development server over HTTPS, but it only supports HTTP.
+Not Found: /wiki
+[13/Jun/2025 16:45:21] "GET /wiki HTTP/1.1" 404 5585
+Not Found: /favicon.ico
+[13/Jun/2025 16:45:22] "GET /favicon.ico HTTP/1.1" 404 5606
+[13/Jun/2025 16:45:27] code 400, message Bad request version ('À\x14À')
+[13/Jun/2025 16:45:27] You're accessing the development server over HTTPS, but it only supports HTTP.
+[13/Jun/2025 17:10:22] "GET / HTTP/1.1" 200 42
+[13/Jun/2025 17:11:18] "GET / HTTP/1.1" 200 42
+[13/Jun/2025 17:13:15] code 400, message Bad HTTP/0.9 request type ('\x16\x03\x01\x00{\x01\x00\x00w\x03\x03»éá\x9f©|^?ÞÒ¶\x86;\x9bÎT\x81Ç\x05L\x03`\x9aRh\x9b&K\x84D>å\x00\x00\x1aÀ/À+À\x11À\x07À\x13À')
+[13/Jun/2025 17:13:15] You're accessing the development server over HTTPS, but it only supports HTTP.
+[13/Jun/2025 17:14:53] code 400, message Bad request syntax ('SSH-2.0-Go')
+[13/Jun/2025 17:14:53] "SSH-2.0-Go" 400 -
+[13/Jun/2025 17:15:28] code 400, message Bad request version ('À\x14À')
+[13/Jun/2025 17:15:28] You're accessing the development server over HTTPS, but it only supports HTTP.
+[13/Jun/2025 17:33:08] code 400, message Bad request syntax ('JDWP-Handshake')
+[13/Jun/2025 17:33:08] "JDWP-Handshake" 400 -
+[13/Jun/2025 18:17:07] "GET / HTTP/1.1" 200 42
+Not Found: /favicon.ico
+[13/Jun/2025 18:17:08] "GET /favicon.ico HTTP/1.1" 404 5606
+[13/Jun/2025 18:17:13] code 505, message Invalid HTTP version (2.0)
+[13/Jun/2025 18:17:13] "PRI * HTTP/2.0" 505 -
+Not Found: /favicon.ico
+[13/Jun/2025 18:17:28] "GET /favicon.ico HTTP/1.1" 404 5606
+[13/Jun/2025 18:17:46] code 400, message Bad request version ('À\x14À')
+[13/Jun/2025 18:17:46] You're accessing the development server over HTTPS, but it only supports HTTP.
+Not Found: /robots.txt
+[13/Jun/2025 18:17:49] "GET /robots.txt HTTP/1.1" 404 5603
+Not Found: /favicon.ico
+[13/Jun/2025 18:17:50] "GET /favicon.ico HTTP/1.1" 404 5606
+[13/Jun/2025 18:17:52] code 400, message Bad request version ('À\x14À')
+[13/Jun/2025 18:17:52] You're accessing the development server over HTTPS, but it only supports HTTP.
+Not Found: /www.google.com:443
+[13/Jun/2025 19:13:57] "CONNECT www.google.com:443 HTTP/1.1" 404 1862
+[13/Jun/2025 20:02:50] code 400, message Bad HTTP/0.9 request type ('\x16\x03\x01\x00{\x01\x00\x00w\x03\x03')
+[13/Jun/2025 20:02:50] You're accessing the development server over HTTPS, but it only supports HTTP.
+[13/Jun/2025 20:44:56] code 400, message Bad HTTP/0.9 request type ('\x16\x03\x01\x00u\x01\x00\x00q\x03\x03\x04åÕ*Ô%')
+[13/Jun/2025 20:44:56] You're accessing the development server over HTTPS, but it only supports HTTP.
+Not Found: /www.google.com:443
+[13/Jun/2025 21:03:01] "CONNECT www.google.com:443 HTTP/1.1" 404 1862
+[13/Jun/2025 21:12:47] code 400, message Bad request syntax ('MGLNDD_13.60.5.226_8000')
+[13/Jun/2025 21:12:47] "MGLNDD_13.60.5.226_8000" 400 -
+Not Found: /www.google.com:443
+[13/Jun/2025 21:44:35] "CONNECT www.google.com:443 HTTP/1.1" 404 1862
+Not Found: /api/v2/heartbeat
+[13/Jun/2025 21:58:21] "GET /api/v2/heartbeat HTTP/1.1" 404 7646
+[13/Jun/2025 21:58:23] "GET / HTTP/1.1" 200 42
+[13/Jun/2025 22:17:06] "GET / HTTP/1.1" 200 5230
+Not Found: /favicon.ico
+[13/Jun/2025 22:17:06] "GET /favicon.ico HTTP/1.1" 404 5606
+[13/Jun/2025 22:17:08] "GET /static/rest_framework/js/jquery-3.7.1.min.js HTTP/1.1" 200 87533
+[13/Jun/2025 22:17:08] "GET /static/rest_framework/js/csrf.js HTTP/1.1" 200 1793
+[13/Jun/2025 22:17:09] "GET /static/rest_framework/js/prettify-min.js HTTP/1.1" 200 13632
+[13/Jun/2025 22:17:10] "GET /static/rest_framework/js/load-ajax-form.js HTTP/1.1" 200 59
+[13/Jun/2025 22:21:13] code 400, message Bad request version ('À\x13À')
+[13/Jun/2025 22:21:13] You're accessing the development server over HTTPS, but it only supports HTTP.
+[13/Jun/2025 22:21:13] code 400, message Bad request version ('À\x13À')
+[13/Jun/2025 22:21:13] You're accessing the development server over HTTPS, but it only supports HTTP.
+Not Found: /www.google.com:443
+[13/Jun/2025 23:33:52] "CONNECT www.google.com:443 HTTP/1.1" 404 1862
+[14/Jun/2025 01:23:50] "GET / HTTP/1.1" 200 42
+[14/Jun/2025 01:58:23] "GET / HTTP/1.1" 200 42
+Not Found: /favicon.ico
+[14/Jun/2025 01:58:36] "GET /favicon.ico HTTP/1.1" 404 5606
+Not Found: /http:/api.ipify.org/
+[14/Jun/2025 01:58:40] "GET http://api.ipify.org/?format=json HTTP/1.1" 404 1873
+Not Found: /www.shadowserver.org:443
+[14/Jun/2025 01:58:43] "CONNECT www.shadowserver.org:443 HTTP/1.1" 404 1882
+Not Found: /www.google.com:443
+[14/Jun/2025 02:47:10] "CONNECT www.google.com:443 HTTP/1.1" 404 1862
+[14/Jun/2025 04:20:57] code 400, message Bad request version ('À\x14À')
+[14/Jun/2025 04:20:57] You're accessing the development server over HTTPS, but it only supports HTTP.
+[14/Jun/2025 04:20:58] code 400, message Bad request version ('À\x14À')
+[14/Jun/2025 04:20:58] You're accessing the development server over HTTPS, but it only supports HTTP.
+[14/Jun/2025 04:20:58] code 400, message Bad request version ('À\x14À')
+[14/Jun/2025 04:20:58] You're accessing the development server over HTTPS, but it only supports HTTP.
+[14/Jun/2025 04:20:59] code 400, message Bad request version ('À\x14À')
+[14/Jun/2025 04:20:59] You're accessing the development server over HTTPS, but it only supports HTTP.
+Not Found: /www.google.com:443
+[14/Jun/2025 05:24:06] "CONNECT www.google.com:443 HTTP/1.1" 404 1862
+[14/Jun/2025 06:22:54] "GET / HTTP/1.1" 200 42
+[14/Jun/2025 06:34:11] "GET / HTTP/1.0" 200 5220
+[14/Jun/2025 07:47:13] "GET / HTTP/1.1" 200 42
+Not Found: /www.google.com:443
+[14/Jun/2025 07:51:37] "CONNECT www.google.com:443 HTTP/1.1" 404 1862
+[14/Jun/2025 10:40:07] code 400, message Bad request version ('r')
+[14/Jun/2025 10:40:07] You're accessing the development server over HTTPS, but it only supports HTTP.
+[14/Jun/2025 10:40:11] "GET / HTTP/1.1" 200 5230
+Not Found: /favicon.ico
+[14/Jun/2025 10:53:11] "GET /favicon.ico HTTP/1.1" 404 5606
+Not Found: /favicon.ico
+[14/Jun/2025 12:16:49] "GET /favicon.ico HTTP/1.1" 404 5606
+Not Found: /www.google.com:443
+[14/Jun/2025 12:19:45] "CONNECT www.google.com:443 HTTP/1.1" 404 1862
+[14/Jun/2025 12:28:10] code 400, message Bad request syntax ('JDWP-Handshake')
+[14/Jun/2025 12:28:10] "JDWP-Handshake" 400 -
+[14/Jun/2025 15:06:38] "GET / HTTP/1.1" 200 42
+[14/Jun/2025 16:54:42] "GET / HTTP/1.1" 200 42
+[14/Jun/2025 16:54:42] "GET / HTTP/1.1" 200 42
+[14/Jun/2025 17:32:48] "GET / HTTP/1.1" 200 42
+[14/Jun/2025 17:32:48] "GET / HTTP/1.1" 200 42
+[14/Jun/2025 17:34:13] code 400, message Bad HTTP/0.9 request type ('\x16\x03\x01\x00{\x01\x00\x00w\x03\x03\x8dc\x8eþNÐh#ÉÞÙ\x17\x8a©>\x14aX\x19\x91ù\x1b»»uÍ\x89Ê¾@R\x17\x00\x00\x1aÀ/À+À\x11À\x07À\x13À')
+[14/Jun/2025 17:34:13] You're accessing the development server over HTTPS, but it only supports HTTP.
+[14/Jun/2025 17:36:20] code 400, message Bad request syntax ('SSH-2.0-Go')
+[14/Jun/2025 17:36:20] "SSH-2.0-Go" 400 -
+[14/Jun/2025 18:06:10] "GET / HTTP/1.1" 200 42
+[14/Jun/2025 18:07:40] "GET / HTTP/1.1" 200 42
+[14/Jun/2025 18:09:14] code 400, message Bad request version ('À\x14À')
+[14/Jun/2025 18:09:14] You're accessing the development server over HTTPS, but it only supports HTTP.
+[14/Jun/2025 18:11:13] code 400, message Bad request syntax ('\x16\x03\x01\x00{\x01\x00\x00w\x03\x03&èÃ÷')
+[14/Jun/2025 18:11:13] You're accessing the development server over HTTPS, but it only supports HTTP.
+[14/Jun/2025 18:37:34] "GET / HTTP/1.1" 200 42
+[14/Jun/2025 18:38:53] "GET / HTTP/1.1" 200 42
+[14/Jun/2025 18:40:06] code 400, message Bad request syntax ('\x16\x03\x01\x00{\x01\x00\x00w\x03\x03¶Aa}Û\x86\x9f\x85')
+[14/Jun/2025 18:40:06] You're accessing the development server over HTTPS, but it only supports HTTP.
+[14/Jun/2025 18:41:35] code 400, message Bad request syntax ('SSH-2.0-Go')
+[14/Jun/2025 18:41:35] "SSH-2.0-Go" 400 -
+[14/Jun/2025 18:42:04] code 400, message Bad request version ('À\x14À')
+[14/Jun/2025 18:42:04] You're accessing the development server over HTTPS, but it only supports HTTP.
+[14/Jun/2025 19:04:57] code 400, message Bad HTTP/0.9 request type ('\x16\x03\x01\x00u\x01\x00\x00q\x03\x03~\x82ËÛ`¯N3Ïh{8G\x8dº\x07\x8d\x17ÖÇ\x121\x16Î)`Bl¥Î+M\x00\x00\x1aÀ/À+À\x11À\x07À\x13À')
+[14/Jun/2025 19:04:57] You're accessing the development server over HTTPS, but it only supports HTTP.
+[14/Jun/2025 19:04:57] code 400, message Bad HTTP/0.9 request type ('\x16\x03\x01\x00u\x01\x00\x00q\x03\x03J(é?<\x1aT\x80\x19Ý\x9f\x06Q\x88\x12Ä0\x80\x05Ê\x8c¶Xºe"¶\x92åÇ\x11\x0e\x00\x00\x1aÀ/À+À\x11À\x07À\x13À')
+[14/Jun/2025 19:04:57] You're accessing the development server over HTTPS, but it only supports HTTP.
+[14/Jun/2025 19:04:58] code 400, message Bad HTTP/0.9 request type ('\x16\x03\x01\x00u\x01\x00\x00q\x03\x03\x9a+@ì\x87G*Ä6ñ\x7fG\x9ek]æÿ¸Ð0\x08ü\x8b\x184ð×Y\x0e\x84~\x05\x00\x00\x1aÀ/À+À\x11À\x07À\x13À')
+[14/Jun/2025 19:04:58] You're accessing the development server over HTTPS, but it only supports HTTP.
+[14/Jun/2025 19:04:58] code 400, message Bad request version ('À\x14À')
+[14/Jun/2025 19:04:58] You're accessing the development server over HTTPS, but it only supports HTTP.
+Not Found: /www.google.com:443
+[14/Jun/2025 20:35:02] "CONNECT www.google.com:443 HTTP/1.1" 404 1862
+[14/Jun/2025 21:50:29] code 400, message Bad request version ('À\x13À')
+[14/Jun/2025 21:50:29] You're accessing the development server over HTTPS, but it only supports HTTP.
+[14/Jun/2025 21:50:40] code 400, message Bad request version ('B+\x92')
+[14/Jun/2025 21:50:40] You're accessing the development server over HTTPS, but it only supports HTTP.
+[14/Jun/2025 21:53:37] code 400, message Bad request version ('À\x13À')
+[14/Jun/2025 21:53:37] You're accessing the development server over HTTPS, but it only supports HTTP.
+[14/Jun/2025 21:53:47] code 400, message Bad request syntax ('CNXN\x00\x00\x00\x01\x00\x10\x00\x00\x07\x00\x00\x002\x02\x00\x00¼±§±host::\x00')
+[14/Jun/2025 21:53:47] "CNXN         2  ¼±§±host:: " 400 -
+[14/Jun/2025 21:53:53] code 400, message Bad request version ('Ê©\x03\x00\x07default\x00')
+[14/Jun/2025 21:53:53] " Clickhouse clientÊ© default " 400 -
+[14/Jun/2025 21:53:58] code 400, message Bad HTTP/0.9 request type ('\x00')
+[14/Jun/2025 21:53:58] " ««        versionbind   " 400 -
+[14/Jun/2025 21:54:03] "GET / HTTP/1.0" 200 74
+[14/Jun/2025 21:54:09] code 400, message Bad request version ('\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x01\x00ÿ\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00ä\x04\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x7f')
+[14/Jun/2025 21:54:09] "Â     ¶  SQLDB2RA              	     @   	     @        @        @   @     @        @        @        @        @         @                                         @        @                        @   	     @   	                                                                 @         @                             ÿ                     ä                   " 400 -
+[14/Jun/2025 21:54:14] code 400, message Bad request syntax ('0:\x02\x04\x03<ÚS`2\x02\x01\x03\x04\x17cn=mfsaidmxpwgmjbwdczkf\x80\x14mfsaidmxpwgmjbwdczkf')
+[14/Jun/2025 21:54:14] "0:<ÚS`2cn=mfsaidmxpwgmjbwdczkfmfsaidmxpwgmjbwdczkf" 400 -
+[14/Jun/2025 21:54:15] code 400, message Bad request syntax ('stats')
+[14/Jun/2025 21:54:15] "stats" 400 -
+[14/Jun/2025 21:54:25] code 400, message Bad request version ('Ùª<\x13KÐ{\x88\x03\\2!$¢\x81\x867Ïb9JF,Æ\x00\x00\x00\x00')
+[14/Jun/2025 21:54:25] " X       %  &  '  +  , $ÿ	          ù¸Ë\kÙª<KÐ{\2!$¢7Ïb9JF,Æ    " 400 -
+[14/Jun/2025 21:54:30] code 400, message Bad request version ('0.12\x00')
+[14/Jun/2025 21:54:30] "   ¤ÿSMBr    @              @     PC NETWORK PROGRAM 1.0 MICROSOFT NETWORKS 1.03 MICROSOFT NETWORKS 3.0 LANMAN1.0 LM1.2X002 Samba NT LANMAN 1.0 NT LM 0.12 " 400 -
+[14/Jun/2025 21:54:36] code 400, message Bad request syntax ('\x80\x00\x00(\x10l\x8e¹\x00\x00\x00\x00\x00\x00\x00\x02\x00\x01\x86£\x00\x00\x00\x04\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00')
+[14/Jun/2025 21:54:36] "  (l¹        £                       " 400 -
+[14/Jun/2025 21:54:46] code 400, message Bad request syntax ('\x00í\x00\x00\x01\x00\x00\x00\x01<\x01,\x00\x00\x80\x00\x7fÿ\x7f\x08\x00\x00\x00\x01\x00³\x00:\x00\x00\x04\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00(DESCRIPTION=(CONNECT_DATA=(SERVICE_NAME=non-abc-existent-ser-vice-123-a-a-bc-asdf)(CID=(PROGRAM=sqlplus)(HOST=__jdbc__)(USER=)))(ADDRESS=(PROTOCOL=tcp)(HOST=127.0.0.1)(PORT=10)))')
+[14/Jun/2025 21:54:46] " í     <,   ÿ    ³ :                             (DESCRIPTION=(CONNECT_DATA=(SERVICE_NAME=non-abc-existent-ser-vice-123-a-a-bc-asdf)(CID=(PROGRAM=sqlplus)(HOST=__jdbc__)(USER=)))(ADDRESS=(PROTOCOL=tcp)(HOST=127.0.0.1)(PORT=10)))" 400 -
+[14/Jun/2025 21:54:51] code 400, message Bad request syntax ('\x00\x00\x00T\x00\x03\x00\x00user\x00postgres\x00database\x00postgres\x00application_name\x00psql\x00client_encoding\x00UTF8\x00\x00')
+[14/Jun/2025 21:54:51] "   T   user postgres database postgres application_name psql client_encoding UTF8  " 400 -
+[14/Jun/2025 21:55:03] code 400, message Bad request syntax ('\x00\x9c\x00\x01\x1a+<M\x00\x01\x00\x00\x01\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x01ÿÿ\x00\x01none\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00Microsoft\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00')
+[14/Jun/2025 21:55:03] "  +<M            ÿÿ none                                                            Microsoft                                                       " 400 -
+[14/Jun/2025 21:55:08] code 400, message Bad HTTP/0.9 request type ('\x03\x00\x00\x13\x0eà\x00\x00\x00\x00\x00\x01\x00\x08\x00')
+[14/Jun/2025 21:55:08] "  à          " 400 -
+[14/Jun/2025 21:55:08] code 400, message Bad request syntax ('*1')
+[14/Jun/2025 21:55:08] "*1" 400 -
+[14/Jun/2025 21:55:14] code 400, message Bad request version ('\x00\x01\x97|\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00')
+[14/Jun/2025 21:55:14] "  (rþ          |                    " 400 -
+[14/Jun/2025 21:55:14] code 400, message Bad HTTP/0.9 request type ('@RSYTCD:')
+[14/Jun/2025 21:55:14] "@RSYTCD: 29" 400 -
+[14/Jun/2025 21:55:14] code 400, message Bad request version ('RTSP/1.0')
+[14/Jun/2025 21:55:14] "OPTIONS rtsp://example.com RTSP/1.0" 400 -
+[14/Jun/2025 21:55:18] code 400, message Bad request syntax ('\x16\x03\x01\x00â\x01\x00\x00Þ\x03\x03\x8a\x90Ö_')
+[14/Jun/2025 21:55:18] You're accessing the development server over HTTPS, but it only supports HTTP.
+[14/Jun/2025 21:55:18] code 400, message Bad request version ('SIP/2.0')
+[14/Jun/2025 21:55:18] "OPTIONS sip:nm SIP/2.0" 400 -
+[14/Jun/2025 22:11:10] "GET / HTTP/1.1" 200 42
+[14/Jun/2025 22:19:57] code 400, message Bad request syntax ('\x01\x01æ')
+[14/Jun/2025 22:19:57] "æ" 400 -
+Not Found: /www.google.com:443
+[14/Jun/2025 22:22:34] "CONNECT www.google.com:443 HTTP/1.1" 404 1862
+[14/Jun/2025 22:44:53] code 400, message Bad request version ('À\x14À')
+[14/Jun/2025 22:44:53] You're accessing the development server over HTTPS, but it only supports HTTP.
+Not Found: /www.google.com:443
+[14/Jun/2025 23:08:57] "CONNECT www.google.com:443 HTTP/1.1" 404 1862
+[15/Jun/2025 02:59:06] "GET / HTTP/1.1" 200 42
+[15/Jun/2025 02:59:31] code 505, message Invalid HTTP version (2.0)
+[15/Jun/2025 02:59:31] "PRI * HTTP/2.0" 505 -
+Not Found: /favicon.ico
+[15/Jun/2025 03:00:13] "GET /favicon.ico HTTP/1.1" 404 5606
+[15/Jun/2025 03:00:27] code 400, message Bad request version ('À\x14À')
+[15/Jun/2025 03:00:27] You're accessing the development server over HTTPS, but it only supports HTTP.
+[15/Jun/2025 03:00:48] code 400, message Bad request version ('À\x14À')
+[15/Jun/2025 03:00:48] You're accessing the development server over HTTPS, but it only supports HTTP.
+Not Found: /wiki
+[15/Jun/2025 03:00:55] "GET /wiki HTTP/1.1" 404 5585
+Not Found: /favicon.ico
+[15/Jun/2025 03:01:21] "GET /favicon.ico HTTP/1.1" 404 5606
+[15/Jun/2025 03:01:39] code 400, message Bad request version ('À\x14À')
+[15/Jun/2025 03:01:39] You're accessing the development server over HTTPS, but it only supports HTTP.
+Not Found: /favicon.ico
+[15/Jun/2025 05:58:48] "GET /favicon.ico HTTP/1.1" 404 5606
+[15/Jun/2025 06:53:36] "GET / HTTP/1.0" 200 5220
+[15/Jun/2025 07:09:21] "GET / HTTP/1.0" 200 5220
+[15/Jun/2025 07:26:32] "GET / HTTP/1.0" 200 5220
+[15/Jun/2025 07:34:23] code 400, message Bad request syntax ('MGLNDD_13.60.5.226_8000')
+[15/Jun/2025 07:34:23] "MGLNDD_13.60.5.226_8000" 400 -
+Not Found: /www.google.com:443
+[15/Jun/2025 09:13:48] "CONNECT www.google.com:443 HTTP/1.1" 404 1862
+[15/Jun/2025 11:42:12] code 400, message Bad request version ('À\x14À')
+[15/Jun/2025 11:42:12] You're accessing the development server over HTTPS, but it only supports HTTP.
+[15/Jun/2025 11:42:12] code 400, message Bad request version ('À\x14À')
+[15/Jun/2025 11:42:12] You're accessing the development server over HTTPS, but it only supports HTTP.
+[15/Jun/2025 11:42:13] code 400, message Bad request version ('À\x14À')
+[15/Jun/2025 11:42:13] You're accessing the development server over HTTPS, but it only supports HTTP.
+[15/Jun/2025 11:42:13] code 400, message Bad request version ('À\x14À')
+[15/Jun/2025 11:42:13] You're accessing the development server over HTTPS, but it only supports HTTP.
+Not Found: /www.google.com:443
+[15/Jun/2025 11:42:35] "CONNECT www.google.com:443 HTTP/1.1" 404 1862
+[15/Jun/2025 12:33:07] "GET / HTTP/1.1" 200 37
+[15/Jun/2025 12:33:08] code 400, message Bad request version ('À\x13À')
+[15/Jun/2025 12:33:08] You're accessing the development server over HTTPS, but it only supports HTTP.
+[15/Jun/2025 12:33:09] code 400, message Bad HTTP/0.9 request type ('t3')
+[15/Jun/2025 12:33:09] "t3 12.1.2" 400 -
+[15/Jun/2025 12:33:35] "GET / HTTP/1.1" 200 42
+Not Found: /favicon.ico
+[15/Jun/2025 12:33:35] "GET /favicon.ico HTTP/1.1" 404 5606
+Not Found: /robots.txt
+Not Found: /sitemap.xml
+[15/Jun/2025 12:33:36] "GET /robots.txt HTTP/1.1" 404 5603
+[15/Jun/2025 12:33:36] "GET /sitemap.xml HTTP/1.1" 404 5606
+[15/Jun/2025 12:55:08] "GET / HTTP/1.1" 200 42
+Not Found: /www.google.com:443
+[15/Jun/2025 14:24:10] "CONNECT www.google.com:443 HTTP/1.1" 404 1862
+[15/Jun/2025 15:13:19] "GET / HTTP/1.1" 200 5220
+Not Found: /favicon.ico
+[15/Jun/2025 15:13:19] "GET /favicon.ico HTTP/1.1" 404 5601
+Not Found: /www.google.com:443
+[15/Jun/2025 16:44:42] "CONNECT www.google.com:443 HTTP/1.1" 404 1862
+[15/Jun/2025 16:53:24] "GET / HTTP/1.1" 200 5220
+Not Found: /favicon.ico
+[15/Jun/2025 16:53:24] "GET /favicon.ico HTTP/1.1" 404 5601
+[15/Jun/2025 17:12:30] "GET / HTTP/1.1" 200 42
+[15/Jun/2025 17:14:24] "GET / HTTP/1.1" 200 42
+[15/Jun/2025 17:16:05] code 400, message Bad request version ('À\x14À')
+[15/Jun/2025 17:16:05] You're accessing the development server over HTTPS, but it only supports HTTP.
+[15/Jun/2025 17:18:12] code 400, message Bad request syntax ('SSH-2.0-Go')
+[15/Jun/2025 17:18:12] "SSH-2.0-Go" 400 -
+[15/Jun/2025 17:19:45] code 400, message Bad HTTP/0.9 request type ('\x16\x03\x01\x00{\x01\x00\x00w\x03\x03«ðã_A´ÌMÈÃ·¹A\x11»\x18\x9b[á\x82\x98ZÜæOLÇº\x81wÊø\x00\x00\x1aÀ/À+À\x11À\x07À\x13À')
+[15/Jun/2025 17:19:45] You're accessing the development server over HTTPS, but it only supports HTTP.
+[15/Jun/2025 18:30:20] code 400, message Bad HTTP/0.9 request type ('\x16\x03\x01\x00â\x01\x00\x00Þ\x03\x03-R\x9bÊvk\x04\x91Øò\x97¬7PÃ½µQ0\x0eU%ØPöÁ\x88À\x9bÈÓÐ')
+[15/Jun/2025 18:30:20] You're accessing the development server over HTTPS, but it only supports HTTP.
+[15/Jun/2025 18:30:31] code 400, message Bad request version ('À\x13À')
+[15/Jun/2025 18:30:31] You're accessing the development server over HTTPS, but it only supports HTTP.
+[15/Jun/2025 18:30:32] code 400, message Bad request version ('À\x13À')
+[15/Jun/2025 18:30:32] You're accessing the development server over HTTPS, but it only supports HTTP.
+[15/Jun/2025 18:30:32] "GET / HTTP/1.1" 200 42
+[15/Jun/2025 19:06:26] code 400, message Bad request version ('À\x14À')
+[15/Jun/2025 19:06:26] You're accessing the development server over HTTPS, but it only supports HTTP.
+Not Found: /www.google.com:443
+[15/Jun/2025 19:20:14] "CONNECT www.google.com:443 HTTP/1.1" 404 1862
+Not Found: /www.google.com:443
+[15/Jun/2025 21:51:49] "CONNECT www.google.com:443 HTTP/1.1" 404 1862
+[15/Jun/2025 21:54:10] code 400, message Bad HTTP/0.9 request type ('\x16\x03\x01\x00u\x01\x00\x00q\x03\x03:±D\x08Ls<*85\x05_åIãRñ_ö7FâPAô¶\x9el\x97j¤Õ\x00\x00\x1aÀ/À+À\x11À\x07À\x13À')
+[15/Jun/2025 21:54:10] You're accessing the development server over HTTPS, but it only supports HTTP.
+[15/Jun/2025 22:49:30] code 400, message Bad request version ('À\x14À')
+[15/Jun/2025 22:49:30] You're accessing the development server over HTTPS, but it only supports HTTP.
+Not Found: /www.google.com:443
+[16/Jun/2025 02:58:57] "CONNECT www.google.com:443 HTTP/1.1" 404 1862
+[16/Jun/2025 02:59:05] code 400, message Bad request version ('À\x14À')
+[16/Jun/2025 02:59:05] You're accessing the development server over HTTPS, but it only supports HTTP.
+[16/Jun/2025 03:30:35] code 400, message Bad request version ('À\x14À')
+[16/Jun/2025 03:30:35] You're accessing the development server over HTTPS, but it only supports HTTP.
+[16/Jun/2025 03:30:35] code 400, message Bad request version ('À\x14À')
+[16/Jun/2025 03:30:35] You're accessing the development server over HTTPS, but it only supports HTTP.
+[16/Jun/2025 03:30:35] code 400, message Bad request version ('À\x14À')
+[16/Jun/2025 03:30:35] You're accessing the development server over HTTPS, but it only supports HTTP.
+[16/Jun/2025 03:30:36] code 400, message Bad request version ('À\x14À')
+[16/Jun/2025 03:30:36] You're accessing the development server over HTTPS, but it only supports HTTP.
+Not Found: /www.google.com:443
+[16/Jun/2025 05:23:08] "CONNECT www.google.com:443 HTTP/1.1" 404 1862
+[16/Jun/2025 05:38:08] code 400, message Bad request syntax ('MGLNDD_13.60.5.226_8000')
+[16/Jun/2025 05:38:08] "MGLNDD_13.60.5.226_8000" 400 -
+[16/Jun/2025 07:46:45] "GET / HTTP/1.0" 200 5220
+[16/Jun/2025 09:19:00] code 400, message Bad request syntax ('\x12\x01\x00&\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00ÿ')
+[16/Jun/2025 09:19:00] " &                          ÿ" 400 -
+[16/Jun/2025 09:19:04] code 400, message Bad request version ('13.60.5.226')
+[16/Jun/2025 09:19:04] You're accessing the development server over HTTPS, but it only supports HTTP.
+[16/Jun/2025 09:19:04] "GET / HTTP/1.1" 200 37
+[16/Jun/2025 09:19:05] code 400, message Bad request syntax ('SSH-2.0-WanScannerBot')
+[16/Jun/2025 09:19:05] "SSH-2.0-WanScannerBot" 400 -
+[16/Jun/2025 09:19:06] code 400, message Bad HTTP/0.9 request type ('\x03\x00\x00&!à\x00\x00þÊ\x00Cookie:')
+[16/Jun/2025 09:19:06] "  &!à  þÊ Cookie: mstshash=" 400 -
+[16/Jun/2025 09:19:06] code 400, message Bad request syntax ('\x10\x0f\x00\x04MQTT\x04\x00\x00')
+[16/Jun/2025 09:19:06] " MQTT  " 400 -
+[16/Jun/2025 09:19:11] code 400, message Bad HTTP/0.9 request type ('AMQP\x00\x00')
+[16/Jun/2025 09:19:11] "AMQP  	" 400 -
+[16/Jun/2025 09:19:15] code 400, message Bad request syntax ('\x00\x00\x00%ÿSMBr\x00\x00\x00\x00\x18\x01(\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00')
+[16/Jun/2025 09:19:15] "   %ÿSMBr    (                        " 400 -
+[16/Jun/2025 09:19:16] code 400, message Bad request version ('RTSP/1.0')
+[16/Jun/2025 09:19:16] "OPTIONS / RTSP/1.0" 400 -
+[16/Jun/2025 09:19:20] code 400, message Bad request syntax ('\x00\x00\x00\x08\x04Ò\x16/')
+[16/Jun/2025 09:19:20] "   Ò/" 400 -
+[16/Jun/2025 09:19:21] code 400, message Bad request syntax ('\x01\x00\x00\x00')
+[16/Jun/2025 09:19:21] "   " 400 -
+[16/Jun/2025 09:19:21] "GET / HTTP/1.1" 200 42
+[16/Jun/2025 09:52:10] "GET / HTTP/1.1" 200 42
+[16/Jun/2025 10:40:25] code 400, message Bad HTTP/0.9 request type ('\x00\x00\x00')
+[16/Jun/2025 10:40:25] "    c                           " 400 -
+Not Found: /www.google.com:443
+[16/Jun/2025 12:58:29] "CONNECT www.google.com:443 HTTP/1.1" 404 1862
+Not Found: /www.google.com:443
+[16/Jun/2025 15:39:41] "CONNECT www.google.com:443 HTTP/1.1" 404 1862
+[16/Jun/2025 17:35:35] "GET / HTTP/1.1" 200 42
+Not Found: /www.google.com:443
+[16/Jun/2025 18:13:01] "CONNECT www.google.com:443 HTTP/1.1" 404 1862
+[16/Jun/2025 19:07:03] code 400, message Bad HTTP/0.9 request type ('\x16\x03\x01\x00u\x01\x00\x00q\x03\x03\x906<7\x05äK"\x9c+íËÁçWF\x083ºK¢<\x07:60{%\x19\x89ô\x08\x00\x00\x1aÀ/À+À\x11À\x07À\x13À')
+[16/Jun/2025 19:07:03] You're accessing the development server over HTTPS, but it only supports HTTP.
+[16/Jun/2025 19:07:03] code 400, message Bad request version ('À\x14À')
+[16/Jun/2025 19:07:03] You're accessing the development server over HTTPS, but it only supports HTTP.
+[16/Jun/2025 19:07:03] code 400, message Bad HTTP/0.9 request type ('\x16\x03\x01\x00u\x01\x00\x00q\x03\x03e|\x10\x0f\x99ó@âw8\x00KYÉ·\x05bâà\x05\x8aZÈ-Ê>tlf=À8\x00\x00\x1aÀ/À+À\x11À\x07À\x13À')
+[16/Jun/2025 19:07:03] You're accessing the development server over HTTPS, but it only supports HTTP.
+[16/Jun/2025 19:07:03] code 400, message Bad HTTP/0.9 request type ('\x16\x03\x01\x00u\x01\x00\x00q\x03\x03ãB;àóñ\x95â¥øº\x8e\x02Ù%lg¸N¨(å»Æ³\x08qa\x19!Nª\x00\x00\x1aÀ/À+À\x11À\x07À\x13À')
+[16/Jun/2025 19:07:03] You're accessing the development server over HTTPS, but it only supports HTTP.
+[16/Jun/2025 20:20:41] code 400, message Bad request version ('À\x13À')
+[16/Jun/2025 20:20:41] You're accessing the development server over HTTPS, but it only supports HTTP.
+[16/Jun/2025 20:21:06] code 400, message Bad request version ('À\x13À')
+[16/Jun/2025 20:21:06] You're accessing the development server over HTTPS, but it only supports HTTP.
+[16/Jun/2025 20:21:07] code 400, message Bad request version ('À\x13À')
+[16/Jun/2025 20:21:07] You're accessing the development server over HTTPS, but it only supports HTTP.
+[16/Jun/2025 20:21:11] "GET / HTTP/1.1" 200 42
+[16/Jun/2025 20:46:31] "GET / HTTP/1.1" 200 42
+Not Found: /favicon.ico
+[16/Jun/2025 20:46:36] "GET /favicon.ico HTTP/1.1" 404 5606
+[16/Jun/2025 20:46:38] code 505, message Invalid HTTP version (2.0)
+[16/Jun/2025 20:46:38] "PRI * HTTP/2.0" 505 -
+Not Found: /favicon.ico
+[16/Jun/2025 20:46:48] "GET /favicon.ico HTTP/1.1" 404 5606
+[16/Jun/2025 20:46:53] code 400, message Bad request version ('À\x14À')
+[16/Jun/2025 20:46:53] You're accessing the development server over HTTPS, but it only supports HTTP.
+[16/Jun/2025 20:47:04] code 400, message Bad request syntax ('\x16\x03\x01\x00î\x01\x00\x00ê\x03\x03[$à7iP\x12e24ù\x12ÅëhO²\x93á\x93p\x8cdP\x9f')
+[16/Jun/2025 20:47:04] You're accessing the development server over HTTPS, but it only supports HTTP.
+Not Found: /login
+[16/Jun/2025 20:47:08] "GET /login HTTP/1.1" 404 5588
+[16/Jun/2025 21:07:58] code 400, message Bad request version ('À\x13À')
+[16/Jun/2025 21:07:58] You're accessing the development server over HTTPS, but it only supports HTTP.
+Not Found: /actuator/env
+[16/Jun/2025 21:08:29] "HEAD /actuator/env HTTP/1.1" 404 0
+Not Found: /aaa9
+[16/Jun/2025 23:11:09] "GET /aaa9 HTTP/1.1" 404 5585
+Not Found: /aab8
+[16/Jun/2025 23:11:10] "GET /aab8 HTTP/1.1" 404 5585
+[16/Jun/2025 23:11:13] "GET / HTTP/1.1" 200 42
+Not Found: /www.google.com:443
+[17/Jun/2025 01:46:00] "CONNECT www.google.com:443 HTTP/1.1" 404 1862
+[17/Jun/2025 02:38:23] code 400, message Bad request syntax ('\x12\x01\x00&\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00ÿ')
+[17/Jun/2025 02:38:23] " &                          ÿ" 400 -
+[17/Jun/2025 02:38:28] code 400, message Bad request version ('13.60.5.226')
+[17/Jun/2025 02:38:28] You're accessing the development server over HTTPS, but it only supports HTTP.
+[17/Jun/2025 02:38:28] "GET / HTTP/1.1" 200 37
+[17/Jun/2025 02:38:29] code 400, message Bad request syntax ('SSH-2.0-WanScannerBot')
+[17/Jun/2025 02:38:29] "SSH-2.0-WanScannerBot" 400 -
+[17/Jun/2025 02:38:29] code 400, message Bad HTTP/0.9 request type ('\x03\x00\x00&!à\x00\x00þÊ\x00Cookie:')
+[17/Jun/2025 02:38:29] "  &!à  þÊ Cookie: mstshash=" 400 -
+[17/Jun/2025 02:38:30] code 400, message Bad request syntax ('\x10\x0f\x00\x04MQTT\x04\x00\x00')
+[17/Jun/2025 02:38:30] " MQTT  " 400 -
+[17/Jun/2025 02:38:35] code 400, message Bad HTTP/0.9 request type ('AMQP\x00\x00')
+[17/Jun/2025 02:38:35] "AMQP  	" 400 -
+[17/Jun/2025 02:38:39] code 400, message Bad request syntax ('\x00\x00\x00%ÿSMBr\x00\x00\x00\x00\x18\x01(\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00')
+[17/Jun/2025 02:38:39] "   %ÿSMBr    (                        " 400 -
+[17/Jun/2025 02:38:39] code 400, message Bad request version ('RTSP/1.0')
+[17/Jun/2025 02:38:39] "OPTIONS / RTSP/1.0" 400 -
+[17/Jun/2025 02:38:44] code 400, message Bad request syntax ('\x00\x00\x00\x08\x04Ò\x16/')
+[17/Jun/2025 02:38:44] "   Ò/" 400 -
+[17/Jun/2025 02:38:45] code 400, message Bad request syntax ('\x01\x00\x00\x00')
+[17/Jun/2025 02:38:45] "   " 400 -
+[17/Jun/2025 02:38:45] "GET / HTTP/1.1" 200 42
+[17/Jun/2025 03:03:36] "GET / HTTP/1.1" 200 42
+Not Found: /www.google.com:443
+[17/Jun/2025 04:20:37] "CONNECT www.google.com:443 HTTP/1.1" 404 1862
+[17/Jun/2025 04:52:45] code 400, message Bad request syntax ('\x00\x00\x00TZ\x00\x00\x00\x00\x00\x00\x00\x00\x01\x00\x10\x04\x00(Á\x00\x00\x00\x00\x0f\x02\x00')
+[17/Jun/2025 04:52:45] "   TZ          (Á     " 400 -
+[17/Jun/2025 05:52:38] code 400, message Bad request version ('À\x14À')
+[17/Jun/2025 05:52:38] You're accessing the development server over HTTPS, but it only supports HTTP.
+[17/Jun/2025 05:53:28] "GET / HTTP/1.1" 200 42
+Not Found: /favicon.ico
+[17/Jun/2025 06:03:20] "GET /favicon.ico HTTP/1.1" 404 5606
+[17/Jun/2025 06:03:20,209] - Broken pipe from ('45.82.78.254', 35744)
+[17/Jun/2025 06:20:37] code 400, message Bad request version ('À\x14À')
+[17/Jun/2025 06:20:37] You're accessing the development server over HTTPS, but it only supports HTTP.
+/usr/lib/python3.12/encodings/utf_8.py changed, reloading.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+June 12, 2025 - 21:20:48
+Django version 5.2.3, using settings 'src.settings'
+Starting development server at http://0.0.0.0:8000/
+Quit the server with CONTROL-C.
+
+WARNING: This is a development server. Do not use it in a production setting. Use a production WSGI or ASGI server instead.
+For more information on production servers see: https://docs.djangoproject.com/en/5.2/howto/deployment/
+Watching for file changes with StatReloader
+Not Found: /www.google.com:443
+[17/Jun/2025 06:48:49] "CONNECT www.google.com:443 HTTP/1.1" 404 1862
+[17/Jun/2025 07:21:15] code 400, message Bad request version ('À\x14À')
+[17/Jun/2025 07:21:15] You're accessing the development server over HTTPS, but it only supports HTTP.
+[17/Jun/2025 07:37:59] "GET / HTTP/1.1" 200 42
+[17/Jun/2025 08:00:30] "GET / HTTP/1.0" 200 5220
+Not Found: /www.google.com:443
+[17/Jun/2025 09:19:08] "CONNECT www.google.com:443 HTTP/1.1" 404 1862
+[17/Jun/2025 10:04:08] code 400, message Bad HTTP/0.9 request type ('\x16\x03\x01\x00u\x01\x00\x00q\x03\x03óxu!íÞP\x0f|¨¸§\x8c\x03;¡\x95Q$U6XÿºY["\x94wÒ\x18\x94\x00\x00\x1aÀ/À+À\x11À\x07À\x13À')
+[17/Jun/2025 10:04:08] You're accessing the development server over HTTPS, but it only supports HTTP.
+[17/Jun/2025 10:04:08] code 400, message Bad request syntax ('\x16\x03\x01\x00u\x01\x00\x00q\x03\x03z\x14üH')
+[17/Jun/2025 10:04:08] You're accessing the development server over HTTPS, but it only supports HTTP.
+[17/Jun/2025 10:04:08] code 400, message Bad HTTP/0.9 request type ("\x16\x03\x01\x00u\x01\x00\x00q\x03\x035&Ñc\x7f¬ë'O\x03²î¼\x89\x10Ó¤2G³ñ\\`\x0f_\x1b@\x14-uÉÄ\x00\x00\x1aÀ/À+À\x11À\x07À\x13À")
+[17/Jun/2025 10:04:08] You're accessing the development server over HTTPS, but it only supports HTTP.
+[17/Jun/2025 10:04:09] code 400, message Bad request version ('À\x14À')
+[17/Jun/2025 10:04:09] You're accessing the development server over HTTPS, but it only supports HTTP.
+Not Found: /www.google.com:443
+[17/Jun/2025 17:07:22] "CONNECT www.google.com:443 HTTP/1.1" 404 1862
+[17/Jun/2025 17:48:02] "GET / HTTP/1.0" 200 37
+[17/Jun/2025 18:28:16] code 400, message Bad request version ('×\x14v\x07SÛ0À\x8cmÛ19h2n¹«¸ÒÐ^£\x0e\x07')
+[17/Jun/2025 18:28:16] You're accessing the development server over HTTPS, but it only supports HTTP.
+[17/Jun/2025 18:28:16] code 400, message Bad HTTP/0.9 request type ("\x16\x03\x01\x00Ê\x01\x00\x00Æ\x03\x03ÌdÉY÷Ãò\x81ïö\x8fé$sÝ²°\x99úWlz½YI\x0e©BÎ1\x19\x18\x00\x00hÌ\x14Ì\x13À/À+À0À,À\x11À\x07À'À#À\x13À")
+[17/Jun/2025 18:28:16] You're accessing the development server over HTTPS, but it only supports HTTP.
+[17/Jun/2025 19:06:39,468] - Broken pipe from ('167.94.138.37', 41098)
+[17/Jun/2025 19:06:42] code 400, message Bad request version ('À\x14À')
+[17/Jun/2025 19:06:42] You're accessing the development server over HTTPS, but it only supports HTTP.
+[17/Jun/2025 19:07:00,474] - Broken pipe from ('167.94.138.37', 53880)
+[17/Jun/2025 19:07:19] code 400, message Bad request syntax ('ZG\x00\x00\x00\x05\x00+\x0e\x01\x00')
+[17/Jun/2025 19:07:19] "ZG    + " 400 -
+[17/Jun/2025 20:10:24] "GET / HTTP/1.1" 200 42
+[17/Jun/2025 20:10:24,850] - Broken pipe from ('198.235.24.37', 62266)
+[17/Jun/2025 21:13:50] "GET / HTTP/1.1" 200 42
+[17/Jun/2025 23:31:47] code 400, message Bad request syntax ('MGLNDD_13.60.5.226_8000')
+[17/Jun/2025 23:31:47] "MGLNDD_13.60.5.226_8000" 400 -
+[18/Jun/2025 01:01:06] code 400, message Bad HTTP/0.9 request type ('\x16\x03\x01\x00u\x01\x00\x00q\x03\x03YjÏ¬á·\x97SpÌc«³*"')
+[18/Jun/2025 01:01:06] You're accessing the development server over HTTPS, but it only supports HTTP.
+[18/Jun/2025 01:01:07] code 400, message Bad request version ('À\x14À')
+[18/Jun/2025 01:01:07] You're accessing the development server over HTTPS, but it only supports HTTP.
+[18/Jun/2025 01:01:07] code 400, message Bad request version ('À\x14À')
+[18/Jun/2025 01:01:07] You're accessing the development server over HTTPS, but it only supports HTTP.
+[18/Jun/2025 01:01:07] code 400, message Bad request version ('À\x14À')
+[18/Jun/2025 01:01:07] You're accessing the development server over HTTPS, but it only supports HTTP.
+[18/Jun/2025 01:23:05] code 400, message Bad request syntax ('JDWP-Handshake')
+[18/Jun/2025 01:23:05] "JDWP-Handshake" 400 -
+[18/Jun/2025 03:48:42] "GET / HTTP/1.1" 200 42
+[18/Jun/2025 03:50:21] "GET / HTTP/1.1" 200 42
+[18/Jun/2025 03:52:27] code 400, message Bad request version ('À\x14À')
+[18/Jun/2025 03:52:27] You're accessing the development server over HTTPS, but it only supports HTTP.
+[18/Jun/2025 03:54:32] code 400, message Bad request syntax ('SSH-2.0-Go')
+[18/Jun/2025 03:54:32] "SSH-2.0-Go" 400 -
+[18/Jun/2025 03:55:39] code 400, message Bad request version ('À\x14À')
+[18/Jun/2025 03:55:39] You're accessing the development server over HTTPS, but it only supports HTTP.
+Not Found: /www.google.com:443
+[18/Jun/2025 05:42:13] "CONNECT www.google.com:443 HTTP/1.1" 404 1862
+[18/Jun/2025 06:16:38] code 400, message Bad request version ('À\x13À')
+[18/Jun/2025 06:16:38] You're accessing the development server over HTTPS, but it only supports HTTP.
+[18/Jun/2025 06:16:51] code 400, message Bad request version ('À\x13À')
+[18/Jun/2025 06:16:51] You're accessing the development server over HTTPS, but it only supports HTTP.
+[18/Jun/2025 06:16:53] code 400, message Bad request version ('À\x13À')
+[18/Jun/2025 06:16:53] You're accessing the development server over HTTPS, but it only supports HTTP.
+[18/Jun/2025 06:16:55] "GET / HTTP/1.1" 200 42
+Not Found: /favicon.ico
+[18/Jun/2025 06:17:00] "GET /favicon.ico HTTP/1.1" 404 5606
+[18/Jun/2025 06:17:00,659] - Broken pipe from ('45.82.78.254', 50520)

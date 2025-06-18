@@ -1,0 +1,38 @@
+python3: can't open file '/home/ubuntu/resabmittion/frontend/fronted/http.server': [Errno 2] No such file or directory
+213.230.74.51 - - [12/Jun/2025 21:12:58] code 404, message File not found
+213.230.74.51 - - [12/Jun/2025 21:12:58] "GET /fronted/sign-in.html HTTP/1.1" 404 -
+213.230.74.51 - - [12/Jun/2025 21:13:57] "GET / HTTP/1.1" 200 -
+213.230.74.51 - - [12/Jun/2025 21:13:59] "GET /dashboard.html HTTP/1.1" 200 -
+213.230.74.51 - - [12/Jun/2025 21:13:59] code 404, message File not found
+213.230.74.51 - - [12/Jun/2025 21:13:59] "GET /assets/css/soft-ui-dashboard.css?v=1.1.0 HTTP/1.1" 404 -
+213.230.74.51 - - [12/Jun/2025 21:14:00] code 404, message File not found
+213.230.74.51 - - [12/Jun/2025 21:14:00] "GET /assets/img/logo-ct-dark.png HTTP/1.1" 404 -
+213.230.74.51 - - [12/Jun/2025 21:14:00] code 404, message File not found
+213.230.74.51 - - [12/Jun/2025 21:14:00] "GET /assets/img/team-2.jpg HTTP/1.1" 404 -
+213.230.74.51 - - [12/Jun/2025 21:14:00] code 404, message File not found
+213.230.74.51 - - [12/Jun/2025 21:14:00] "GET /assets/img/small-logos/logo-spotify.svg HTTP/1.1" 404 -
+213.230.74.51 - - [12/Jun/2025 21:14:00] code 404, message File not found
+213.230.74.51 - - [12/Jun/2025 21:14:00] "GET /assets/img/shapes/waves-white.svg HTTP/1.1" 404 -
+213.230.74.51 - - [12/Jun/2025 21:14:00] code 404, message File not found
+213.230.74.51 - - [12/Jun/2025 21:14:00] "GET /assets/img/illustrations/rocket-white.png HTTP/1.1" 404 -
+213.230.74.51 - - [12/Jun/2025 21:14:00] code 404, message File not found
+213.230.74.51 - - [12/Jun/2025 21:14:00] "GET /assets/js/dashboard-auth.js HTTP/1.1" 404 -
+213.230.74.51 - - [12/Jun/2025 21:14:01] code 404, message File not found
+213.230.74.51 - - [12/Jun/2025 21:14:01] "GET /assets/js/api.js HTTP/1.1" 404 -
+213.230.74.51 - - [12/Jun/2025 21:14:01] code 404, message File not found
+213.230.74.51 - - [12/Jun/2025 21:14:01] "GET /assets/js/core/bootstrap.min.js HTTP/1.1" 404 -
+213.230.74.51 - - [12/Jun/2025 21:14:01] code 404, message File not found
+213.230.74.51 - - [12/Jun/2025 21:14:01] "GET /assets/js/core/popper.min.js HTTP/1.1" 404 -
+213.230.74.51 - - [12/Jun/2025 21:14:01] code 404, message File not found
+213.230.74.51 - - [12/Jun/2025 21:14:01] "GET /assets/js/plugins/perfect-scrollbar.min.js HTTP/1.1" 404 -
+213.230.74.51 - - [12/Jun/2025 21:14:01] code 404, message File not found
+213.230.74.51 - - [12/Jun/2025 21:14:01] "GET /assets/js/plugins/smooth-scrollbar.min.js HTTP/1.1" 404 -
+213.230.74.51 - - [12/Jun/2025 21:14:01] code 404, message File not found
+213.230.74.51 - - [12/Jun/2025 21:14:01] "GET /assets/img/ivancik.jpg HTTP/1.1" 404 -
+213.230.74.51 - - [12/Jun/2025 21:14:01] code 404, message File not found
+213.230.74.51 - - [12/Jun/2025 21:14:01] "GET /assets/js/plugins/chartjs.min.js HTTP/1.1" 404 -
+213.230.74.51 - - [12/Jun/2025 21:14:01] code 404, message File not found
+213.230.74.51 - - [12/Jun/2025 21:14:01] "GET /assets/js/soft-ui-dashboard.min.js?v=1.1.0 HTTP/1.1" 404 -
+Serving HTTP on 0.0.0.0 port 5500 (http://0.0.0.0:5500/) ...
+
+Keyboard interrupt received, exiting.

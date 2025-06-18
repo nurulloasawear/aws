@@ -1,0 +1,1494 @@
+213.230.74.51 - - [12/Jun/2025 21:15:06] code 404, message File not found
+213.230.74.51 - - [12/Jun/2025 21:15:06] "GET /dashboard.html HTTP/1.1" 404 -
+213.230.74.51 - - [12/Jun/2025 21:15:54] "GET / HTTP/1.1" 200 -
+213.230.74.51 - - [12/Jun/2025 21:15:57] "GET /fronted/ HTTP/1.1" 200 -
+213.230.74.51 - - [12/Jun/2025 21:15:59] "GET /fronted/dashboard.html HTTP/1.1" 200 -
+213.230.74.51 - - [12/Jun/2025 21:16:00] "GET /assets/css/soft-ui-dashboard.css?v=1.1.0 HTTP/1.1" 200 -
+213.230.74.51 - - [12/Jun/2025 21:16:00] "GET /assets/img/logo-ct-dark.png HTTP/1.1" 200 -
+213.230.74.51 - - [12/Jun/2025 21:16:00] "GET /assets/img/team-2.jpg HTTP/1.1" 200 -
+213.230.74.51 - - [12/Jun/2025 21:16:00] "GET /assets/img/small-logos/logo-spotify.svg HTTP/1.1" 200 -
+213.230.74.51 - - [12/Jun/2025 21:16:01] "GET /assets/img/illustrations/rocket-white.png HTTP/1.1" 200 -
+213.230.74.51 - - [12/Jun/2025 21:16:01] "GET /assets/img/shapes/waves-white.svg HTTP/1.1" 200 -
+213.230.74.51 - - [12/Jun/2025 21:16:01] "GET /assets/js/api.js HTTP/1.1" 200 -
+213.230.74.51 - - [12/Jun/2025 21:16:01] "GET /assets/js/dashboard-auth.js HTTP/1.1" 200 -
+213.230.74.51 - - [12/Jun/2025 21:16:02] "GET /assets/js/core/bootstrap.min.js HTTP/1.1" 200 -
+213.230.74.51 - - [12/Jun/2025 21:16:02] "GET /assets/js/core/popper.min.js HTTP/1.1" 200 -
+213.230.74.51 - - [12/Jun/2025 21:16:02] "GET /assets/js/plugins/smooth-scrollbar.min.js HTTP/1.1" 200 -
+213.230.74.51 - - [12/Jun/2025 21:16:02] "GET /assets/js/plugins/perfect-scrollbar.min.js HTTP/1.1" 200 -
+213.230.74.51 - - [12/Jun/2025 21:16:02] code 404, message File not found
+213.230.74.51 - - [12/Jun/2025 21:16:02] "GET /assets/js/plugins/chartjs.min.js HTTP/1.1" 404 -
+213.230.74.51 - - [12/Jun/2025 21:16:02] "GET /assets/js/soft-ui-dashboard.min.js?v=1.1.0 HTTP/1.1" 200 -
+213.230.74.51 - - [12/Jun/2025 21:16:05] "GET /assets/img/ivancik.jpg HTTP/1.1" 200 -
+213.230.74.51 - - [12/Jun/2025 21:16:11] "GET /fronted/sign-in.html HTTP/1.1" 200 -
+213.230.74.51 - - [12/Jun/2025 21:16:12] "GET /assets/img/curved-images/curved6.jpg HTTP/1.1" 304 -
+213.230.74.51 - - [12/Jun/2025 21:16:12] "GET /assets/img/favicon.png HTTP/1.1" 304 -
+213.230.74.51 - - [12/Jun/2025 21:16:28] code 404, message File not found
+213.230.74.51 - - [12/Jun/2025 21:16:28] "GET /assets/js/core/bootstrap.min.js.map HTTP/1.1" 404 -
+213.230.74.51 - - [12/Jun/2025 21:16:28] code 404, message File not found
+213.230.74.51 - - [12/Jun/2025 21:16:28] "GET /assets/js/_site_dashboard_free/assets/js/dashboard-free.js.map HTTP/1.1" 404 -
+213.230.74.51 - - [12/Jun/2025 21:16:28] code 404, message File not found
+213.230.74.51 - - [12/Jun/2025 21:16:28] "GET /assets/css/dashboard-free.css.map HTTP/1.1" 404 -
+213.230.74.51 - - [12/Jun/2025 21:18:40] "GET /fronted/sign-in.html HTTP/1.1" 304 -
+213.230.74.51 - - [12/Jun/2025 21:18:41] code 404, message File not found
+213.230.74.51 - - [12/Jun/2025 21:18:41] "GET /assets/js/core/bootstrap.min.js.map HTTP/1.1" 404 -
+213.230.74.51 - - [12/Jun/2025 21:18:41] code 404, message File not found
+213.230.74.51 - - [12/Jun/2025 21:18:41] "GET /assets/css/dashboard-free.css.map HTTP/1.1" 404 -
+213.230.74.51 - - [12/Jun/2025 21:18:41] code 404, message File not found
+213.230.74.51 - - [12/Jun/2025 21:18:41] "GET /assets/js/_site_dashboard_free/assets/js/dashboard-free.js.map HTTP/1.1" 404 -
+213.230.74.51 - - [12/Jun/2025 21:21:24] "GET /fronted/dashboard.html HTTP/1.1" 304 -
+213.230.74.51 - - [12/Jun/2025 21:21:24] "GET /assets/js/api.js HTTP/1.1" 304 -
+213.230.74.51 - - [12/Jun/2025 21:21:24] code 404, message File not found
+213.230.74.51 - - [12/Jun/2025 21:21:24] "GET /assets/js/plugins/chartjs.min.js HTTP/1.1" 404 -
+213.230.74.51 - - [12/Jun/2025 21:21:25] code 404, message File not found
+213.230.74.51 - - [12/Jun/2025 21:21:25] "GET /assets/css/dashboard-free.css.map HTTP/1.1" 404 -
+213.230.74.51 - - [12/Jun/2025 21:21:25] code 404, message File not found
+213.230.74.51 - - [12/Jun/2025 21:21:25] "GET /assets/js/core/bootstrap.min.js.map HTTP/1.1" 404 -
+213.230.74.51 - - [12/Jun/2025 21:21:25] code 404, message File not found
+213.230.74.51 - - [12/Jun/2025 21:21:25] "GET /assets/js/_site_dashboard_free/assets/js/dashboard-free.js.map HTTP/1.1" 404 -
+213.230.74.51 - - [12/Jun/2025 23:17:29] code 404, message File not found
+213.230.74.51 - - [12/Jun/2025 23:17:29] "GET /favicon.ico HTTP/1.1" 404 -
+213.230.74.51 - - [13/Jun/2025 04:35:14] "GET /fronted/dashboard.html HTTP/1.1" 200 -
+213.230.74.51 - - [13/Jun/2025 04:35:16] "GET /assets/css/soft-ui-dashboard.css?v=1.1.0 HTTP/1.1" 200 -
+213.230.74.51 - - [13/Jun/2025 04:35:17] "GET /assets/img/logo-ct-dark.png HTTP/1.1" 200 -
+213.230.74.51 - - [13/Jun/2025 04:35:17] "GET /assets/img/team-2.jpg HTTP/1.1" 200 -
+213.230.74.51 - - [13/Jun/2025 04:35:18] "GET /assets/img/small-logos/logo-spotify.svg HTTP/1.1" 200 -
+213.230.74.51 - - [13/Jun/2025 04:35:18] "GET /assets/img/shapes/waves-white.svg HTTP/1.1" 200 -
+213.230.74.51 - - [13/Jun/2025 04:35:18] "GET /assets/js/dashboard-auth.js HTTP/1.1" 200 -
+213.230.74.51 - - [13/Jun/2025 04:35:18] "GET /assets/img/illustrations/rocket-white.png HTTP/1.1" 200 -
+213.230.74.51 - - [13/Jun/2025 04:35:18] "GET /assets/js/api.js HTTP/1.1" 200 -
+213.230.74.51 - - [13/Jun/2025 04:35:18] "GET /assets/js/core/popper.min.js HTTP/1.1" 200 -
+213.230.74.51 - - [13/Jun/2025 04:35:18] "GET /assets/js/core/bootstrap.min.js HTTP/1.1" 200 -
+213.230.74.51 - - [13/Jun/2025 04:35:18] "GET /assets/js/plugins/perfect-scrollbar.min.js HTTP/1.1" 200 -
+213.230.74.51 - - [13/Jun/2025 04:35:18] "GET /assets/js/plugins/smooth-scrollbar.min.js HTTP/1.1" 200 -
+213.230.74.51 - - [13/Jun/2025 04:35:19] code 404, message File not found
+213.230.74.51 - - [13/Jun/2025 04:35:19] "GET /assets/js/plugins/chartjs.min.js HTTP/1.1" 404 -
+213.230.74.51 - - [13/Jun/2025 04:35:19] "GET /assets/js/soft-ui-dashboard.min.js?v=1.1.0 HTTP/1.1" 200 -
+213.230.74.51 - - [13/Jun/2025 04:35:19] "GET /assets/img/ivancik.jpg HTTP/1.1" 200 -
+213.230.74.51 - - [13/Jun/2025 04:35:27] "GET /fronted/sign-in.html HTTP/1.1" 200 -
+213.230.74.51 - - [13/Jun/2025 04:35:28] "GET /assets/img/curved-images/curved6.jpg HTTP/1.1" 200 -
+----------------------------------------
+Exception occurred during processing of request from ('104.234.115.164', 21939)
+Traceback (most recent call last):
+  File "/usr/lib/python3.12/socketserver.py", line 692, in process_request_thread
+    self.finish_request(request, client_address)
+  File "/usr/lib/python3.12/http/server.py", line 1311, in finish_request
+    self.RequestHandlerClass(request, client_address, self,
+  File "/usr/lib/python3.12/http/server.py", line 672, in __init__
+    super().__init__(*args, **kwargs)
+  File "/usr/lib/python3.12/socketserver.py", line 761, in __init__
+    self.handle()
+  File "/usr/lib/python3.12/http/server.py", line 436, in handle
+    self.handle_one_request()
+  File "/usr/lib/python3.12/http/server.py", line 404, in handle_one_request
+    self.raw_requestline = self.rfile.readline(65537)
+                           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/socket.py", line 707, in readinto
+    return self._sock.recv_into(b)
+           ^^^^^^^^^^^^^^^^^^^^^^^
+ConnectionResetError: [Errno 104] Connection reset by peer
+----------------------------------------
+193.104.179.125 - - [14/Jun/2025 12:16:21] "GET /fronted/sign-in.html HTTP/1.1" 200 -
+193.104.179.125 - - [14/Jun/2025 12:16:26] "GET /assets/css/soft-ui-dashboard.css?v=1.1.0 HTTP/1.1" 200 -
+193.104.179.125 - - [14/Jun/2025 12:16:26] "GET /assets/js/core/popper.min.js HTTP/1.1" 200 -
+193.104.179.125 - - [14/Jun/2025 12:16:27] "GET /assets/js/plugins/perfect-scrollbar.min.js HTTP/1.1" 200 -
+193.104.179.125 - - [14/Jun/2025 12:16:27] "GET /assets/js/core/bootstrap.min.js HTTP/1.1" 200 -
+193.104.179.125 - - [14/Jun/2025 12:16:27] "GET /assets/js/plugins/smooth-scrollbar.min.js HTTP/1.1" 200 -
+193.104.179.125 - - [14/Jun/2025 12:16:27] "GET /assets/js/soft-ui-dashboard.min.js?v=1.1.0 HTTP/1.1" 200 -
+193.104.179.125 - - [14/Jun/2025 12:16:28] "GET /assets/img/curved-images/curved6.jpg HTTP/1.1" 200 -
+8.219.230.175 - - [14/Jun/2025 21:42:12] code 400, message Bad request version ('À\\x13À')
+8.219.230.175 - - [14/Jun/2025 21:42:12] "\x16\x03\x01\x00î\x01\x00\x00ê\x03\x03I\x06²ù¼\x99iÀYûøºe-\x83Ud]\x0e\x8d·b8´gÆÝ9dZ8f gÁ\x81i³öòË°©\x19NÖ½\x95g|püé<Z¡\x90T·é¥8'O;\x00&À+À/À,À0Ì©Ì¨À\x09À\x13À" 400 -
+8.219.230.175 - - [14/Jun/2025 21:42:22] "GET / HTTP/1.1" 200 -
+185.213.230.43 - - [15/Jun/2025 06:51:19] "GET /fronted/sign-in.html HTTP/1.1" 200 -
+185.213.230.43 - - [15/Jun/2025 06:51:20] "GET /assets/js/core/popper.min.js HTTP/1.1" 200 -
+185.213.230.43 - - [15/Jun/2025 06:51:20] "GET /assets/css/soft-ui-dashboard.css?v=1.1.0 HTTP/1.1" 200 -
+207.90.244.6 - - [15/Jun/2025 07:42:46] "GET / HTTP/1.1" 200 -
+207.90.244.6 - - [15/Jun/2025 07:42:46] code 404, message File not found
+207.90.244.6 - - [15/Jun/2025 07:42:46] "GET /favicon.ico HTTP/1.1" 404 -
+207.90.244.6 - - [15/Jun/2025 07:42:46] "GET / HTTP/1.1" 200 -
+207.90.244.6 - - [15/Jun/2025 07:42:47] "HEAD /assets/ HTTP/1.1" 200 -
+207.90.244.6 - - [15/Jun/2025 07:42:47] "HEAD /buildspec.yml HTTP/1.1" 200 -
+207.90.244.6 - - [15/Jun/2025 07:42:47] "HEAD /default.conf HTTP/1.1" 200 -
+207.90.244.6 - - [15/Jun/2025 07:42:49] "HEAD /Dockerfile.fronted HTTP/1.1" 200 -
+207.90.244.6 - - [15/Jun/2025 07:42:49] "HEAD /fronted/ HTTP/1.1" 200 -
+207.90.244.6 - - [15/Jun/2025 07:42:49] "HEAD /nohup.out HTTP/1.1" 200 -
+207.90.244.6 - - [15/Jun/2025 07:42:49] "HEAD /pages/ HTTP/1.1" 200 -
+34.22.151.137 - - [16/Jun/2025 06:31:59] "GET / HTTP/1.1" 200 -
+34.22.205.203 - - [16/Jun/2025 06:31:59] "GET / HTTP/1.1" 200 -
+34.22.205.203 - - [16/Jun/2025 06:31:59] "GET /assets/ HTTP/1.1" 200 -
+34.22.205.203 - - [16/Jun/2025 06:31:59] "GET /buildspec.yml HTTP/1.1" 200 -
+34.22.205.203 - - [16/Jun/2025 06:31:59] "GET /default.conf HTTP/1.1" 200 -
+34.22.205.203 - - [16/Jun/2025 06:31:59] "GET /Dockerfile.fronted HTTP/1.1" 200 -
+34.22.205.203 - - [16/Jun/2025 06:31:59] "GET /fronted/ HTTP/1.1" 200 -
+34.22.205.203 - - [16/Jun/2025 06:31:59] "GET /nohup.out HTTP/1.1" 200 -
+34.22.205.203 - - [16/Jun/2025 06:32:00] "GET /pages/ HTTP/1.1" 200 -
+34.22.205.203 - - [16/Jun/2025 06:32:00] "GET /assets/ HTTP/1.1" 200 -
+34.22.205.203 - - [16/Jun/2025 06:32:00] "GET /assets/css/ HTTP/1.1" 200 -
+34.22.205.203 - - [16/Jun/2025 06:32:00] "GET /assets/fonts/ HTTP/1.1" 200 -
+34.22.205.203 - - [16/Jun/2025 06:32:00] "GET /assets/img/ HTTP/1.1" 200 -
+34.22.205.203 - - [16/Jun/2025 06:32:00] "GET /assets/js/ HTTP/1.1" 200 -
+34.22.205.203 - - [16/Jun/2025 06:32:00] "GET /assets/scss/ HTTP/1.1" 200 -
+34.22.205.203 - - [16/Jun/2025 06:32:00] "GET /assets/css/ HTTP/1.1" 200 -
+34.22.205.203 - - [16/Jun/2025 06:32:00] "GET /assets/css/nucleo-icons.css HTTP/1.1" 200 -
+34.22.205.203 - - [16/Jun/2025 06:32:00] "GET /assets/css/nucleo-svg.css HTTP/1.1" 200 -
+34.22.205.203 - - [16/Jun/2025 06:32:00] "GET /assets/css/soft-ui-dashboard.css HTTP/1.1" 200 -
+----------------------------------------
+Exception occurred during processing of request from ('34.22.205.203', 52854)
+Traceback (most recent call last):
+  File "/usr/lib/python3.12/socketserver.py", line 692, in process_request_thread
+    self.finish_request(request, client_address)
+  File "/usr/lib/python3.12/http/server.py", line 1311, in finish_request
+    self.RequestHandlerClass(request, client_address, self,
+  File "/usr/lib/python3.12/http/server.py", line 672, in __init__
+    super().__init__(*args, **kwargs)
+  File "/usr/lib/python3.12/socketserver.py", line 761, in __init__
+    self.handle()
+  File "/usr/lib/python3.12/http/server.py", line 436, in handle
+    self.handle_one_request()
+  File "/usr/lib/python3.12/http/server.py", line 424, in handle_one_request
+    method()
+  File "/usr/lib/python3.12/http/server.py", line 679, in do_GET
+    self.copyfile(f, self.wfile)
+  File "/usr/lib/python3.12/http/server.py", line 878, in copyfile
+    shutil.copyfileobj(source, outputfile)
+  File "/usr/lib/python3.12/shutil.py", line 204, in copyfileobj
+    fdst_write(buf)
+  File "/usr/lib/python3.12/socketserver.py", line 840, in write
+    self._sock.sendall(b)
+ConnectionResetError: [Errno 104] Connection reset by peer
+----------------------------------------
+34.22.205.203 - - [16/Jun/2025 06:32:00] "GET /assets/css/soft-ui-dashboard.css.map HTTP/1.1" 200 -
+----------------------------------------
+Exception occurred during processing of request from ('34.22.205.203', 52866)
+Traceback (most recent call last):
+  File "/usr/lib/python3.12/socketserver.py", line 692, in process_request_thread
+    self.finish_request(request, client_address)
+  File "/usr/lib/python3.12/http/server.py", line 1311, in finish_request
+    self.RequestHandlerClass(request, client_address, self,
+  File "/usr/lib/python3.12/http/server.py", line 672, in __init__
+    super().__init__(*args, **kwargs)
+  File "/usr/lib/python3.12/socketserver.py", line 761, in __init__
+    self.handle()
+  File "/usr/lib/python3.12/http/server.py", line 436, in handle
+    self.handle_one_request()
+  File "/usr/lib/python3.12/http/server.py", line 424, in handle_one_request
+    method()
+  File "/usr/lib/python3.12/http/server.py", line 679, in do_GET
+    self.copyfile(f, self.wfile)
+  File "/usr/lib/python3.12/http/server.py", line 878, in copyfile
+    shutil.copyfileobj(source, outputfile)
+  File "/usr/lib/python3.12/shutil.py", line 204, in copyfileobj
+    fdst_write(buf)
+  File "/usr/lib/python3.12/socketserver.py", line 840, in write
+    self._sock.sendall(b)
+BrokenPipeError: [Errno 32] Broken pipe
+----------------------------------------
+34.22.205.203 - - [16/Jun/2025 06:32:00] "GET /assets/css/soft-ui-dashboard.min.css HTTP/1.1" 200 -
+----------------------------------------
+Exception occurred during processing of request from ('34.22.205.203', 52880)
+Traceback (most recent call last):
+  File "/usr/lib/python3.12/socketserver.py", line 692, in process_request_thread
+    self.finish_request(request, client_address)
+  File "/usr/lib/python3.12/http/server.py", line 1311, in finish_request
+    self.RequestHandlerClass(request, client_address, self,
+  File "/usr/lib/python3.12/http/server.py", line 672, in __init__
+    super().__init__(*args, **kwargs)
+  File "/usr/lib/python3.12/socketserver.py", line 761, in __init__
+    self.handle()
+  File "/usr/lib/python3.12/http/server.py", line 436, in handle
+    self.handle_one_request()
+  File "/usr/lib/python3.12/http/server.py", line 424, in handle_one_request
+    method()
+  File "/usr/lib/python3.12/http/server.py", line 679, in do_GET
+    self.copyfile(f, self.wfile)
+  File "/usr/lib/python3.12/http/server.py", line 878, in copyfile
+    shutil.copyfileobj(source, outputfile)
+  File "/usr/lib/python3.12/shutil.py", line 204, in copyfileobj
+    fdst_write(buf)
+  File "/usr/lib/python3.12/socketserver.py", line 840, in write
+    self._sock.sendall(b)
+BrokenPipeError: [Errno 32] Broken pipe
+----------------------------------------
+34.22.205.203 - - [16/Jun/2025 06:32:00] "GET /assets/fonts/ HTTP/1.1" 200 -
+34.22.205.203 - - [16/Jun/2025 06:32:00] "GET /assets/fonts/nucleo-icons.eot HTTP/1.1" 200 -
+34.22.205.203 - - [16/Jun/2025 06:32:01] "GET /assets/fonts/nucleo-icons.svg HTTP/1.1" 200 -
+----------------------------------------
+Exception occurred during processing of request from ('34.22.205.203', 52890)
+Traceback (most recent call last):
+  File "/usr/lib/python3.12/socketserver.py", line 692, in process_request_thread
+    self.finish_request(request, client_address)
+  File "/usr/lib/python3.12/http/server.py", line 1311, in finish_request
+    self.RequestHandlerClass(request, client_address, self,
+  File "/usr/lib/python3.12/http/server.py", line 672, in __init__
+    super().__init__(*args, **kwargs)
+  File "/usr/lib/python3.12/socketserver.py", line 761, in __init__
+    self.handle()
+  File "/usr/lib/python3.12/http/server.py", line 436, in handle
+    self.handle_one_request()
+  File "/usr/lib/python3.12/http/server.py", line 424, in handle_one_request
+    method()
+  File "/usr/lib/python3.12/http/server.py", line 679, in do_GET
+    self.copyfile(f, self.wfile)
+  File "/usr/lib/python3.12/http/server.py", line 878, in copyfile
+    shutil.copyfileobj(source, outputfile)
+  File "/usr/lib/python3.12/shutil.py", line 204, in copyfileobj
+    fdst_write(buf)
+  File "/usr/lib/python3.12/socketserver.py", line 840, in write
+    self._sock.sendall(b)
+BrokenPipeError: [Errno 32] Broken pipe
+----------------------------------------
+34.22.205.203 - - [16/Jun/2025 06:32:01] "GET /assets/fonts/nucleo-icons.ttf HTTP/1.1" 200 -
+34.22.205.203 - - [16/Jun/2025 06:32:01] "GET /assets/fonts/nucleo-icons.woff HTTP/1.1" 200 -
+34.22.205.203 - - [16/Jun/2025 06:32:01] "GET /assets/fonts/nucleo-icons.woff2 HTTP/1.1" 200 -
+34.22.205.203 - - [16/Jun/2025 06:32:01] "GET /assets/fonts/nucleo.eot HTTP/1.1" 200 -
+34.22.205.203 - - [16/Jun/2025 06:32:01] "GET /assets/fonts/nucleo.ttf HTTP/1.1" 200 -
+34.22.205.203 - - [16/Jun/2025 06:32:01] "GET /assets/fonts/nucleo.woff HTTP/1.1" 200 -
+34.22.205.203 - - [16/Jun/2025 06:32:01] "GET /assets/fonts/nucleo.woff2 HTTP/1.1" 200 -
+34.22.205.203 - - [16/Jun/2025 06:32:01] "GET /assets/img/ HTTP/1.1" 200 -
+34.22.205.203 - - [16/Jun/2025 06:32:01] "GET /assets/img/apple-icon.png HTTP/1.1" 200 -
+34.22.205.203 - - [16/Jun/2025 06:32:01] "GET /assets/img/bg1.jpg HTTP/1.1" 200 -
+----------------------------------------
+Exception occurred during processing of request from ('34.22.205.203', 52984)
+Traceback (most recent call last):
+  File "/usr/lib/python3.12/socketserver.py", line 692, in process_request_thread
+    self.finish_request(request, client_address)
+  File "/usr/lib/python3.12/http/server.py", line 1311, in finish_request
+    self.RequestHandlerClass(request, client_address, self,
+  File "/usr/lib/python3.12/http/server.py", line 672, in __init__
+    super().__init__(*args, **kwargs)
+  File "/usr/lib/python3.12/socketserver.py", line 761, in __init__
+    self.handle()
+  File "/usr/lib/python3.12/http/server.py", line 436, in handle
+    self.handle_one_request()
+  File "/usr/lib/python3.12/http/server.py", line 424, in handle_one_request
+    method()
+  File "/usr/lib/python3.12/http/server.py", line 679, in do_GET
+    self.copyfile(f, self.wfile)
+  File "/usr/lib/python3.12/http/server.py", line 878, in copyfile
+    shutil.copyfileobj(source, outputfile)
+  File "/usr/lib/python3.12/shutil.py", line 204, in copyfileobj
+    fdst_write(buf)
+  File "/usr/lib/python3.12/socketserver.py", line 840, in write
+    self._sock.sendall(b)
+ConnectionResetError: [Errno 104] Connection reset by peer
+----------------------------------------
+34.22.205.203 - - [16/Jun/2025 06:32:01] "GET /assets/img/bruce-mars.jpg HTTP/1.1" 200 -
+34.22.205.203 - - [16/Jun/2025 06:32:01] "GET /assets/img/curved-images/ HTTP/1.1" 200 -
+34.22.205.203 - - [16/Jun/2025 06:32:01] "GET /assets/img/down-arrow-dark.svg HTTP/1.1" 200 -
+34.22.205.203 - - [16/Jun/2025 06:32:01] "GET /assets/img/down-arrow-white.svg HTTP/1.1" 200 -
+34.22.205.203 - - [16/Jun/2025 06:32:01] "GET /assets/img/down-arrow.svg HTTP/1.1" 200 -
+34.22.205.203 - - [16/Jun/2025 06:32:02] "GET /assets/img/favicon.png HTTP/1.1" 200 -
+34.22.205.203 - - [16/Jun/2025 06:32:02] "GET /assets/img/home-decor-1.jpg HTTP/1.1" 200 -
+----------------------------------------
+Exception occurred during processing of request from ('34.22.205.203', 53044)
+Traceback (most recent call last):
+  File "/usr/lib/python3.12/socketserver.py", line 692, in process_request_thread
+    self.finish_request(request, client_address)
+  File "/usr/lib/python3.12/http/server.py", line 1311, in finish_request
+    self.RequestHandlerClass(request, client_address, self,
+  File "/usr/lib/python3.12/http/server.py", line 672, in __init__
+    super().__init__(*args, **kwargs)
+  File "/usr/lib/python3.12/socketserver.py", line 761, in __init__
+    self.handle()
+  File "/usr/lib/python3.12/http/server.py", line 436, in handle
+    self.handle_one_request()
+  File "/usr/lib/python3.12/http/server.py", line 424, in handle_one_request
+    method()
+  File "/usr/lib/python3.12/http/server.py", line 679, in do_GET
+    self.copyfile(f, self.wfile)
+  File "/usr/lib/python3.12/http/server.py", line 878, in copyfile
+    shutil.copyfileobj(source, outputfile)
+  File "/usr/lib/python3.12/shutil.py", line 204, in copyfileobj
+    fdst_write(buf)
+  File "/usr/lib/python3.12/socketserver.py", line 840, in write
+    self._sock.sendall(b)
+BrokenPipeError: [Errno 32] Broken pipe
+----------------------------------------
+34.22.205.203 - - [16/Jun/2025 06:32:02] "GET /assets/img/home-decor-2.jpg HTTP/1.1" 200 -
+----------------------------------------
+Exception occurred during processing of request from ('34.22.205.203', 53060)
+Traceback (most recent call last):
+  File "/usr/lib/python3.12/socketserver.py", line 692, in process_request_thread
+    self.finish_request(request, client_address)
+  File "/usr/lib/python3.12/http/server.py", line 1311, in finish_request
+    self.RequestHandlerClass(request, client_address, self,
+  File "/usr/lib/python3.12/http/server.py", line 672, in __init__
+    super().__init__(*args, **kwargs)
+  File "/usr/lib/python3.12/socketserver.py", line 761, in __init__
+    self.handle()
+  File "/usr/lib/python3.12/http/server.py", line 436, in handle
+    self.handle_one_request()
+  File "/usr/lib/python3.12/http/server.py", line 424, in handle_one_request
+    method()
+  File "/usr/lib/python3.12/http/server.py", line 679, in do_GET
+    self.copyfile(f, self.wfile)
+  File "/usr/lib/python3.12/http/server.py", line 878, in copyfile
+    shutil.copyfileobj(source, outputfile)
+  File "/usr/lib/python3.12/shutil.py", line 204, in copyfileobj
+    fdst_write(buf)
+  File "/usr/lib/python3.12/socketserver.py", line 840, in write
+    self._sock.sendall(b)
+BrokenPipeError: [Errno 32] Broken pipe
+----------------------------------------
+34.22.205.203 - - [16/Jun/2025 06:32:02] "GET /assets/img/home-decor-3.jpg HTTP/1.1" 200 -
+----------------------------------------
+Exception occurred during processing of request from ('34.22.205.203', 53068)
+Traceback (most recent call last):
+  File "/usr/lib/python3.12/socketserver.py", line 692, in process_request_thread
+    self.finish_request(request, client_address)
+  File "/usr/lib/python3.12/http/server.py", line 1311, in finish_request
+    self.RequestHandlerClass(request, client_address, self,
+  File "/usr/lib/python3.12/http/server.py", line 672, in __init__
+    super().__init__(*args, **kwargs)
+  File "/usr/lib/python3.12/socketserver.py", line 761, in __init__
+    self.handle()
+  File "/usr/lib/python3.12/http/server.py", line 436, in handle
+    self.handle_one_request()
+  File "/usr/lib/python3.12/http/server.py", line 424, in handle_one_request
+    method()
+  File "/usr/lib/python3.12/http/server.py", line 679, in do_GET
+    self.copyfile(f, self.wfile)
+  File "/usr/lib/python3.12/http/server.py", line 878, in copyfile
+    shutil.copyfileobj(source, outputfile)
+  File "/usr/lib/python3.12/shutil.py", line 204, in copyfileobj
+    fdst_write(buf)
+  File "/usr/lib/python3.12/socketserver.py", line 840, in write
+    self._sock.sendall(b)
+BrokenPipeError: [Errno 32] Broken pipe
+----------------------------------------
+34.22.205.203 - - [16/Jun/2025 06:32:02] "GET /assets/img/illustrations/ HTTP/1.1" 200 -
+34.22.205.203 - - [16/Jun/2025 06:32:02] "GET /assets/img/ivana-square.jpg HTTP/1.1" 200 -
+34.22.205.203 - - [16/Jun/2025 06:32:02] "GET /assets/img/ivancik.jpg HTTP/1.1" 200 -
+34.22.205.203 - - [16/Jun/2025 06:32:02] "GET /assets/img/kal-visuals-square.jpg HTTP/1.1" 200 -
+34.22.205.203 - - [16/Jun/2025 06:32:02] "GET /assets/img/logo-ct-dark.png HTTP/1.1" 200 -
+34.22.205.203 - - [16/Jun/2025 06:32:02] "GET /assets/img/logo-ct.png HTTP/1.1" 200 -
+34.22.205.203 - - [16/Jun/2025 06:32:02] "GET /assets/img/logos/ HTTP/1.1" 200 -
+34.22.205.203 - - [16/Jun/2025 06:32:02] "GET /assets/img/marie.jpg HTTP/1.1" 200 -
+----------------------------------------
+Exception occurred during processing of request from ('34.22.205.203', 53134)
+Traceback (most recent call last):
+  File "/usr/lib/python3.12/socketserver.py", line 692, in process_request_thread
+    self.finish_request(request, client_address)
+  File "/usr/lib/python3.12/http/server.py", line 1311, in finish_request
+    self.RequestHandlerClass(request, client_address, self,
+  File "/usr/lib/python3.12/http/server.py", line 672, in __init__
+    super().__init__(*args, **kwargs)
+  File "/usr/lib/python3.12/socketserver.py", line 761, in __init__
+    self.handle()
+  File "/usr/lib/python3.12/http/server.py", line 436, in handle
+    self.handle_one_request()
+  File "/usr/lib/python3.12/http/server.py", line 424, in handle_one_request
+    method()
+  File "/usr/lib/python3.12/http/server.py", line 679, in do_GET
+    self.copyfile(f, self.wfile)
+  File "/usr/lib/python3.12/http/server.py", line 878, in copyfile
+    shutil.copyfileobj(source, outputfile)
+  File "/usr/lib/python3.12/shutil.py", line 204, in copyfileobj
+    fdst_write(buf)
+  File "/usr/lib/python3.12/socketserver.py", line 840, in write
+    self._sock.sendall(b)
+BrokenPipeError: [Errno 32] Broken pipe
+----------------------------------------
+34.22.205.203 - - [16/Jun/2025 06:32:02] "GET /assets/img/shapes/ HTTP/1.1" 200 -
+34.22.205.203 - - [16/Jun/2025 06:32:02] "GET /assets/img/small-logos/ HTTP/1.1" 200 -
+34.22.205.203 - - [16/Jun/2025 06:32:02] "GET /assets/img/team-1.jpg HTTP/1.1" 200 -
+34.22.205.203 - - [16/Jun/2025 06:32:02] "GET /assets/img/team-2.jpg HTTP/1.1" 200 -
+34.22.205.203 - - [16/Jun/2025 06:32:03] "GET /assets/img/team-3.jpg HTTP/1.1" 200 -
+34.22.205.203 - - [16/Jun/2025 06:32:03] "GET /assets/img/team-4.jpg HTTP/1.1" 200 -
+34.22.205.203 - - [16/Jun/2025 06:32:03] "GET /assets/img/theme/ HTTP/1.1" 200 -
+34.22.205.203 - - [16/Jun/2025 06:32:03] "GET /assets/img/vr-bg.jpg HTTP/1.1" 200 -
+----------------------------------------
+Exception occurred during processing of request from ('34.22.205.203', 53216)
+Traceback (most recent call last):
+  File "/usr/lib/python3.12/socketserver.py", line 692, in process_request_thread
+    self.finish_request(request, client_address)
+  File "/usr/lib/python3.12/http/server.py", line 1311, in finish_request
+    self.RequestHandlerClass(request, client_address, self,
+  File "/usr/lib/python3.12/http/server.py", line 672, in __init__
+    super().__init__(*args, **kwargs)
+  File "/usr/lib/python3.12/socketserver.py", line 761, in __init__
+    self.handle()
+  File "/usr/lib/python3.12/http/server.py", line 436, in handle
+    self.handle_one_request()
+  File "/usr/lib/python3.12/http/server.py", line 424, in handle_one_request
+    method()
+  File "/usr/lib/python3.12/http/server.py", line 679, in do_GET
+    self.copyfile(f, self.wfile)
+  File "/usr/lib/python3.12/http/server.py", line 878, in copyfile
+    shutil.copyfileobj(source, outputfile)
+  File "/usr/lib/python3.12/shutil.py", line 204, in copyfileobj
+    fdst_write(buf)
+  File "/usr/lib/python3.12/socketserver.py", line 840, in write
+    self._sock.sendall(b)
+BrokenPipeError: [Errno 32] Broken pipe
+----------------------------------------
+34.22.205.203 - - [16/Jun/2025 06:32:03] "GET /assets/img/curved-images/ HTTP/1.1" 200 -
+34.22.205.203 - - [16/Jun/2025 06:32:03] "GET /assets/img/curved-images/curved-10.jpg HTTP/1.1" 200 -
+----------------------------------------
+Exception occurred during processing of request from ('34.22.205.203', 53232)
+Traceback (most recent call last):
+  File "/usr/lib/python3.12/socketserver.py", line 692, in process_request_thread
+    self.finish_request(request, client_address)
+  File "/usr/lib/python3.12/http/server.py", line 1311, in finish_request
+    self.RequestHandlerClass(request, client_address, self,
+  File "/usr/lib/python3.12/http/server.py", line 672, in __init__
+    super().__init__(*args, **kwargs)
+  File "/usr/lib/python3.12/socketserver.py", line 761, in __init__
+    self.handle()
+  File "/usr/lib/python3.12/http/server.py", line 436, in handle
+    self.handle_one_request()
+  File "/usr/lib/python3.12/http/server.py", line 424, in handle_one_request
+    method()
+  File "/usr/lib/python3.12/http/server.py", line 679, in do_GET
+    self.copyfile(f, self.wfile)
+  File "/usr/lib/python3.12/http/server.py", line 878, in copyfile
+    shutil.copyfileobj(source, outputfile)
+  File "/usr/lib/python3.12/shutil.py", line 204, in copyfileobj
+    fdst_write(buf)
+  File "/usr/lib/python3.12/socketserver.py", line 840, in write
+    self._sock.sendall(b)
+BrokenPipeError: [Errno 32] Broken pipe
+----------------------------------------
+34.22.205.203 - - [16/Jun/2025 06:32:03] "GET /assets/img/curved-images/curved-11.jpg HTTP/1.1" 200 -
+----------------------------------------
+Exception occurred during processing of request from ('34.22.205.203', 53242)
+Traceback (most recent call last):
+  File "/usr/lib/python3.12/socketserver.py", line 692, in process_request_thread
+    self.finish_request(request, client_address)
+  File "/usr/lib/python3.12/http/server.py", line 1311, in finish_request
+    self.RequestHandlerClass(request, client_address, self,
+  File "/usr/lib/python3.12/http/server.py", line 672, in __init__
+    super().__init__(*args, **kwargs)
+  File "/usr/lib/python3.12/socketserver.py", line 761, in __init__
+    self.handle()
+  File "/usr/lib/python3.12/http/server.py", line 436, in handle
+    self.handle_one_request()
+  File "/usr/lib/python3.12/http/server.py", line 424, in handle_one_request
+    method()
+  File "/usr/lib/python3.12/http/server.py", line 679, in do_GET
+    self.copyfile(f, self.wfile)
+  File "/usr/lib/python3.12/http/server.py", line 878, in copyfile
+    shutil.copyfileobj(source, outputfile)
+  File "/usr/lib/python3.12/shutil.py", line 204, in copyfileobj
+    fdst_write(buf)
+  File "/usr/lib/python3.12/socketserver.py", line 840, in write
+    self._sock.sendall(b)
+BrokenPipeError: [Errno 32] Broken pipe
+----------------------------------------
+34.22.205.203 - - [16/Jun/2025 06:32:03] "GET /assets/img/curved-images/curved-6.jpg HTTP/1.1" 200 -
+----------------------------------------
+Exception occurred during processing of request from ('34.22.205.203', 53258)
+Traceback (most recent call last):
+  File "/usr/lib/python3.12/socketserver.py", line 692, in process_request_thread
+    self.finish_request(request, client_address)
+  File "/usr/lib/python3.12/http/server.py", line 1311, in finish_request
+    self.RequestHandlerClass(request, client_address, self,
+  File "/usr/lib/python3.12/http/server.py", line 672, in __init__
+    super().__init__(*args, **kwargs)
+  File "/usr/lib/python3.12/socketserver.py", line 761, in __init__
+    self.handle()
+  File "/usr/lib/python3.12/http/server.py", line 436, in handle
+    self.handle_one_request()
+  File "/usr/lib/python3.12/http/server.py", line 424, in handle_one_request
+    method()
+  File "/usr/lib/python3.12/http/server.py", line 679, in do_GET
+    self.copyfile(f, self.wfile)
+  File "/usr/lib/python3.12/http/server.py", line 878, in copyfile
+    shutil.copyfileobj(source, outputfile)
+  File "/usr/lib/python3.12/shutil.py", line 204, in copyfileobj
+    fdst_write(buf)
+  File "/usr/lib/python3.12/socketserver.py", line 840, in write
+    self._sock.sendall(b)
+BrokenPipeError: [Errno 32] Broken pipe
+----------------------------------------
+34.22.205.203 - - [16/Jun/2025 06:32:03] "GET /assets/img/curved-images/curved-8.jpg HTTP/1.1" 200 -
+----------------------------------------
+Exception occurred during processing of request from ('34.22.205.203', 53268)
+Traceback (most recent call last):
+  File "/usr/lib/python3.12/socketserver.py", line 692, in process_request_thread
+    self.finish_request(request, client_address)
+  File "/usr/lib/python3.12/http/server.py", line 1311, in finish_request
+    self.RequestHandlerClass(request, client_address, self,
+  File "/usr/lib/python3.12/http/server.py", line 672, in __init__
+    super().__init__(*args, **kwargs)
+  File "/usr/lib/python3.12/socketserver.py", line 761, in __init__
+    self.handle()
+  File "/usr/lib/python3.12/http/server.py", line 436, in handle
+    self.handle_one_request()
+  File "/usr/lib/python3.12/http/server.py", line 424, in handle_one_request
+    method()
+  File "/usr/lib/python3.12/http/server.py", line 679, in do_GET
+    self.copyfile(f, self.wfile)
+  File "/usr/lib/python3.12/http/server.py", line 878, in copyfile
+    shutil.copyfileobj(source, outputfile)
+  File "/usr/lib/python3.12/shutil.py", line 204, in copyfileobj
+    fdst_write(buf)
+  File "/usr/lib/python3.12/socketserver.py", line 840, in write
+    self._sock.sendall(b)
+BrokenPipeError: [Errno 32] Broken pipe
+----------------------------------------
+34.22.205.203 - - [16/Jun/2025 06:32:03] "GET /assets/img/curved-images/curved0.jpg HTTP/1.1" 200 -
+----------------------------------------
+Exception occurred during processing of request from ('34.22.205.203', 53274)
+Traceback (most recent call last):
+  File "/usr/lib/python3.12/socketserver.py", line 692, in process_request_thread
+    self.finish_request(request, client_address)
+  File "/usr/lib/python3.12/http/server.py", line 1311, in finish_request
+    self.RequestHandlerClass(request, client_address, self,
+  File "/usr/lib/python3.12/http/server.py", line 672, in __init__
+    super().__init__(*args, **kwargs)
+  File "/usr/lib/python3.12/socketserver.py", line 761, in __init__
+    self.handle()
+  File "/usr/lib/python3.12/http/server.py", line 436, in handle
+    self.handle_one_request()
+  File "/usr/lib/python3.12/http/server.py", line 424, in handle_one_request
+    method()
+  File "/usr/lib/python3.12/http/server.py", line 679, in do_GET
+    self.copyfile(f, self.wfile)
+  File "/usr/lib/python3.12/http/server.py", line 878, in copyfile
+    shutil.copyfileobj(source, outputfile)
+  File "/usr/lib/python3.12/shutil.py", line 204, in copyfileobj
+    fdst_write(buf)
+  File "/usr/lib/python3.12/socketserver.py", line 840, in write
+    self._sock.sendall(b)
+BrokenPipeError: [Errno 32] Broken pipe
+----------------------------------------
+34.22.205.203 - - [16/Jun/2025 06:32:03] "GET /assets/img/curved-images/curved1.jpg HTTP/1.1" 200 -
+----------------------------------------
+Exception occurred during processing of request from ('34.22.205.203', 53280)
+Traceback (most recent call last):
+  File "/usr/lib/python3.12/socketserver.py", line 692, in process_request_thread
+    self.finish_request(request, client_address)
+  File "/usr/lib/python3.12/http/server.py", line 1311, in finish_request
+    self.RequestHandlerClass(request, client_address, self,
+  File "/usr/lib/python3.12/http/server.py", line 672, in __init__
+    super().__init__(*args, **kwargs)
+  File "/usr/lib/python3.12/socketserver.py", line 761, in __init__
+    self.handle()
+  File "/usr/lib/python3.12/http/server.py", line 436, in handle
+    self.handle_one_request()
+  File "/usr/lib/python3.12/http/server.py", line 424, in handle_one_request
+    method()
+  File "/usr/lib/python3.12/http/server.py", line 679, in do_GET
+    self.copyfile(f, self.wfile)
+  File "/usr/lib/python3.12/http/server.py", line 878, in copyfile
+    shutil.copyfileobj(source, outputfile)
+  File "/usr/lib/python3.12/shutil.py", line 204, in copyfileobj
+    fdst_write(buf)
+  File "/usr/lib/python3.12/socketserver.py", line 840, in write
+    self._sock.sendall(b)
+BrokenPipeError: [Errno 32] Broken pipe
+----------------------------------------
+34.22.205.203 - - [16/Jun/2025 06:32:03] "GET /assets/img/curved-images/curved10.jpg HTTP/1.1" 200 -
+----------------------------------------
+Exception occurred during processing of request from ('34.22.205.203', 53296)
+Traceback (most recent call last):
+  File "/usr/lib/python3.12/socketserver.py", line 692, in process_request_thread
+    self.finish_request(request, client_address)
+  File "/usr/lib/python3.12/http/server.py", line 1311, in finish_request
+    self.RequestHandlerClass(request, client_address, self,
+  File "/usr/lib/python3.12/http/server.py", line 672, in __init__
+    super().__init__(*args, **kwargs)
+  File "/usr/lib/python3.12/socketserver.py", line 761, in __init__
+    self.handle()
+  File "/usr/lib/python3.12/http/server.py", line 436, in handle
+    self.handle_one_request()
+  File "/usr/lib/python3.12/http/server.py", line 424, in handle_one_request
+    method()
+  File "/usr/lib/python3.12/http/server.py", line 679, in do_GET
+    self.copyfile(f, self.wfile)
+  File "/usr/lib/python3.12/http/server.py", line 878, in copyfile
+    shutil.copyfileobj(source, outputfile)
+  File "/usr/lib/python3.12/shutil.py", line 204, in copyfileobj
+    fdst_write(buf)
+  File "/usr/lib/python3.12/socketserver.py", line 840, in write
+    self._sock.sendall(b)
+BrokenPipeError: [Errno 32] Broken pipe
+----------------------------------------
+34.22.205.203 - - [16/Jun/2025 06:32:03] "GET /assets/img/curved-images/curved11-small.jpg HTTP/1.1" 200 -
+----------------------------------------
+Exception occurred during processing of request from ('34.22.205.203', 53304)
+Traceback (most recent call last):
+  File "/usr/lib/python3.12/socketserver.py", line 692, in process_request_thread
+    self.finish_request(request, client_address)
+  File "/usr/lib/python3.12/http/server.py", line 1311, in finish_request
+    self.RequestHandlerClass(request, client_address, self,
+  File "/usr/lib/python3.12/http/server.py", line 672, in __init__
+    super().__init__(*args, **kwargs)
+  File "/usr/lib/python3.12/socketserver.py", line 761, in __init__
+    self.handle()
+  File "/usr/lib/python3.12/http/server.py", line 436, in handle
+    self.handle_one_request()
+  File "/usr/lib/python3.12/http/server.py", line 424, in handle_one_request
+    method()
+  File "/usr/lib/python3.12/http/server.py", line 679, in do_GET
+    self.copyfile(f, self.wfile)
+  File "/usr/lib/python3.12/http/server.py", line 878, in copyfile
+    shutil.copyfileobj(source, outputfile)
+  File "/usr/lib/python3.12/shutil.py", line 204, in copyfileobj
+    fdst_write(buf)
+  File "/usr/lib/python3.12/socketserver.py", line 840, in write
+    self._sock.sendall(b)
+BrokenPipeError: [Errno 32] Broken pipe
+----------------------------------------
+34.22.205.203 - - [16/Jun/2025 06:32:03] "GET /assets/img/curved-images/curved11.jpg HTTP/1.1" 200 -
+----------------------------------------
+Exception occurred during processing of request from ('34.22.205.203', 53316)
+Traceback (most recent call last):
+  File "/usr/lib/python3.12/socketserver.py", line 692, in process_request_thread
+    self.finish_request(request, client_address)
+  File "/usr/lib/python3.12/http/server.py", line 1311, in finish_request
+    self.RequestHandlerClass(request, client_address, self,
+  File "/usr/lib/python3.12/http/server.py", line 672, in __init__
+    super().__init__(*args, **kwargs)
+  File "/usr/lib/python3.12/socketserver.py", line 761, in __init__
+    self.handle()
+  File "/usr/lib/python3.12/http/server.py", line 436, in handle
+    self.handle_one_request()
+  File "/usr/lib/python3.12/http/server.py", line 424, in handle_one_request
+    method()
+  File "/usr/lib/python3.12/http/server.py", line 679, in do_GET
+    self.copyfile(f, self.wfile)
+  File "/usr/lib/python3.12/http/server.py", line 878, in copyfile
+    shutil.copyfileobj(source, outputfile)
+  File "/usr/lib/python3.12/shutil.py", line 204, in copyfileobj
+    fdst_write(buf)
+  File "/usr/lib/python3.12/socketserver.py", line 840, in write
+    self._sock.sendall(b)
+ConnectionResetError: [Errno 104] Connection reset by peer
+----------------------------------------
+34.22.205.203 - - [16/Jun/2025 06:32:03] "GET /assets/img/curved-images/curved12.jpg HTTP/1.1" 200 -
+----------------------------------------
+Exception occurred during processing of request from ('34.22.205.203', 53330)
+Traceback (most recent call last):
+  File "/usr/lib/python3.12/socketserver.py", line 692, in process_request_thread
+    self.finish_request(request, client_address)
+  File "/usr/lib/python3.12/http/server.py", line 1311, in finish_request
+    self.RequestHandlerClass(request, client_address, self,
+  File "/usr/lib/python3.12/http/server.py", line 672, in __init__
+    super().__init__(*args, **kwargs)
+  File "/usr/lib/python3.12/socketserver.py", line 761, in __init__
+    self.handle()
+  File "/usr/lib/python3.12/http/server.py", line 436, in handle
+    self.handle_one_request()
+  File "/usr/lib/python3.12/http/server.py", line 424, in handle_one_request
+    method()
+  File "/usr/lib/python3.12/http/server.py", line 679, in do_GET
+    self.copyfile(f, self.wfile)
+  File "/usr/lib/python3.12/http/server.py", line 878, in copyfile
+    shutil.copyfileobj(source, outputfile)
+  File "/usr/lib/python3.12/shutil.py", line 204, in copyfileobj
+    fdst_write(buf)
+  File "/usr/lib/python3.12/socketserver.py", line 840, in write
+    self._sock.sendall(b)
+BrokenPipeError: [Errno 32] Broken pipe
+----------------------------------------
+34.22.205.203 - - [16/Jun/2025 06:32:04] "GET /assets/img/curved-images/curved13.jpg HTTP/1.1" 200 -
+----------------------------------------
+Exception occurred during processing of request from ('34.22.205.203', 53334)
+Traceback (most recent call last):
+  File "/usr/lib/python3.12/socketserver.py", line 692, in process_request_thread
+    self.finish_request(request, client_address)
+  File "/usr/lib/python3.12/http/server.py", line 1311, in finish_request
+    self.RequestHandlerClass(request, client_address, self,
+  File "/usr/lib/python3.12/http/server.py", line 672, in __init__
+    super().__init__(*args, **kwargs)
+  File "/usr/lib/python3.12/socketserver.py", line 761, in __init__
+    self.handle()
+  File "/usr/lib/python3.12/http/server.py", line 436, in handle
+    self.handle_one_request()
+  File "/usr/lib/python3.12/http/server.py", line 424, in handle_one_request
+    method()
+  File "/usr/lib/python3.12/http/server.py", line 679, in do_GET
+    self.copyfile(f, self.wfile)
+  File "/usr/lib/python3.12/http/server.py", line 878, in copyfile
+    shutil.copyfileobj(source, outputfile)
+  File "/usr/lib/python3.12/shutil.py", line 204, in copyfileobj
+    fdst_write(buf)
+  File "/usr/lib/python3.12/socketserver.py", line 840, in write
+    self._sock.sendall(b)
+BrokenPipeError: [Errno 32] Broken pipe
+----------------------------------------
+34.22.205.203 - - [16/Jun/2025 06:32:04] "GET /assets/img/curved-images/curved14.jpg HTTP/1.1" 200 -
+----------------------------------------
+Exception occurred during processing of request from ('34.22.205.203', 53342)
+Traceback (most recent call last):
+  File "/usr/lib/python3.12/socketserver.py", line 692, in process_request_thread
+    self.finish_request(request, client_address)
+  File "/usr/lib/python3.12/http/server.py", line 1311, in finish_request
+    self.RequestHandlerClass(request, client_address, self,
+  File "/usr/lib/python3.12/http/server.py", line 672, in __init__
+    super().__init__(*args, **kwargs)
+  File "/usr/lib/python3.12/socketserver.py", line 761, in __init__
+    self.handle()
+  File "/usr/lib/python3.12/http/server.py", line 436, in handle
+    self.handle_one_request()
+  File "/usr/lib/python3.12/http/server.py", line 424, in handle_one_request
+    method()
+  File "/usr/lib/python3.12/http/server.py", line 679, in do_GET
+    self.copyfile(f, self.wfile)
+  File "/usr/lib/python3.12/http/server.py", line 878, in copyfile
+    shutil.copyfileobj(source, outputfile)
+  File "/usr/lib/python3.12/shutil.py", line 204, in copyfileobj
+    fdst_write(buf)
+  File "/usr/lib/python3.12/socketserver.py", line 840, in write
+    self._sock.sendall(b)
+BrokenPipeError: [Errno 32] Broken pipe
+----------------------------------------
+34.22.205.203 - - [16/Jun/2025 06:32:04] "GET /assets/img/curved-images/curved19.jpg HTTP/1.1" 200 -
+----------------------------------------
+Exception occurred during processing of request from ('34.22.205.203', 53344)
+Traceback (most recent call last):
+  File "/usr/lib/python3.12/socketserver.py", line 692, in process_request_thread
+    self.finish_request(request, client_address)
+  File "/usr/lib/python3.12/http/server.py", line 1311, in finish_request
+    self.RequestHandlerClass(request, client_address, self,
+  File "/usr/lib/python3.12/http/server.py", line 672, in __init__
+    super().__init__(*args, **kwargs)
+  File "/usr/lib/python3.12/socketserver.py", line 761, in __init__
+    self.handle()
+  File "/usr/lib/python3.12/http/server.py", line 436, in handle
+    self.handle_one_request()
+  File "/usr/lib/python3.12/http/server.py", line 424, in handle_one_request
+    method()
+  File "/usr/lib/python3.12/http/server.py", line 679, in do_GET
+    self.copyfile(f, self.wfile)
+  File "/usr/lib/python3.12/http/server.py", line 878, in copyfile
+    shutil.copyfileobj(source, outputfile)
+  File "/usr/lib/python3.12/shutil.py", line 204, in copyfileobj
+    fdst_write(buf)
+  File "/usr/lib/python3.12/socketserver.py", line 840, in write
+    self._sock.sendall(b)
+BrokenPipeError: [Errno 32] Broken pipe
+----------------------------------------
+34.22.205.203 - - [16/Jun/2025 06:32:04] "GET /assets/img/curved-images/curved2.jpg HTTP/1.1" 200 -
+----------------------------------------
+Exception occurred during processing of request from ('34.22.205.203', 53352)
+Traceback (most recent call last):
+  File "/usr/lib/python3.12/socketserver.py", line 692, in process_request_thread
+    self.finish_request(request, client_address)
+  File "/usr/lib/python3.12/http/server.py", line 1311, in finish_request
+    self.RequestHandlerClass(request, client_address, self,
+  File "/usr/lib/python3.12/http/server.py", line 672, in __init__
+    super().__init__(*args, **kwargs)
+  File "/usr/lib/python3.12/socketserver.py", line 761, in __init__
+    self.handle()
+  File "/usr/lib/python3.12/http/server.py", line 436, in handle
+    self.handle_one_request()
+  File "/usr/lib/python3.12/http/server.py", line 424, in handle_one_request
+    method()
+  File "/usr/lib/python3.12/http/server.py", line 679, in do_GET
+    self.copyfile(f, self.wfile)
+  File "/usr/lib/python3.12/http/server.py", line 878, in copyfile
+    shutil.copyfileobj(source, outputfile)
+  File "/usr/lib/python3.12/shutil.py", line 204, in copyfileobj
+    fdst_write(buf)
+  File "/usr/lib/python3.12/socketserver.py", line 840, in write
+    self._sock.sendall(b)
+BrokenPipeError: [Errno 32] Broken pipe
+----------------------------------------
+34.22.205.203 - - [16/Jun/2025 06:32:04] "GET /assets/img/curved-images/curved21.jpg HTTP/1.1" 200 -
+----------------------------------------
+Exception occurred during processing of request from ('34.22.205.203', 53364)
+Traceback (most recent call last):
+  File "/usr/lib/python3.12/socketserver.py", line 692, in process_request_thread
+    self.finish_request(request, client_address)
+  File "/usr/lib/python3.12/http/server.py", line 1311, in finish_request
+    self.RequestHandlerClass(request, client_address, self,
+  File "/usr/lib/python3.12/http/server.py", line 672, in __init__
+    super().__init__(*args, **kwargs)
+  File "/usr/lib/python3.12/socketserver.py", line 761, in __init__
+    self.handle()
+  File "/usr/lib/python3.12/http/server.py", line 436, in handle
+    self.handle_one_request()
+  File "/usr/lib/python3.12/http/server.py", line 424, in handle_one_request
+    method()
+  File "/usr/lib/python3.12/http/server.py", line 679, in do_GET
+    self.copyfile(f, self.wfile)
+  File "/usr/lib/python3.12/http/server.py", line 878, in copyfile
+    shutil.copyfileobj(source, outputfile)
+  File "/usr/lib/python3.12/shutil.py", line 204, in copyfileobj
+    fdst_write(buf)
+  File "/usr/lib/python3.12/socketserver.py", line 840, in write
+    self._sock.sendall(b)
+BrokenPipeError: [Errno 32] Broken pipe
+----------------------------------------
+34.22.205.203 - - [16/Jun/2025 06:32:04] "GET /assets/img/curved-images/curved3.jpg HTTP/1.1" 200 -
+----------------------------------------
+Exception occurred during processing of request from ('34.22.205.203', 53368)
+Traceback (most recent call last):
+  File "/usr/lib/python3.12/socketserver.py", line 692, in process_request_thread
+    self.finish_request(request, client_address)
+  File "/usr/lib/python3.12/http/server.py", line 1311, in finish_request
+    self.RequestHandlerClass(request, client_address, self,
+  File "/usr/lib/python3.12/http/server.py", line 672, in __init__
+    super().__init__(*args, **kwargs)
+  File "/usr/lib/python3.12/socketserver.py", line 761, in __init__
+    self.handle()
+  File "/usr/lib/python3.12/http/server.py", line 436, in handle
+    self.handle_one_request()
+  File "/usr/lib/python3.12/http/server.py", line 424, in handle_one_request
+    method()
+  File "/usr/lib/python3.12/http/server.py", line 679, in do_GET
+    self.copyfile(f, self.wfile)
+  File "/usr/lib/python3.12/http/server.py", line 878, in copyfile
+    shutil.copyfileobj(source, outputfile)
+  File "/usr/lib/python3.12/shutil.py", line 204, in copyfileobj
+    fdst_write(buf)
+  File "/usr/lib/python3.12/socketserver.py", line 840, in write
+    self._sock.sendall(b)
+BrokenPipeError: [Errno 32] Broken pipe
+----------------------------------------
+34.22.205.203 - - [16/Jun/2025 06:32:04] "GET /assets/img/curved-images/curved4.jpg HTTP/1.1" 200 -
+----------------------------------------
+Exception occurred during processing of request from ('34.22.205.203', 53372)
+Traceback (most recent call last):
+  File "/usr/lib/python3.12/socketserver.py", line 692, in process_request_thread
+    self.finish_request(request, client_address)
+  File "/usr/lib/python3.12/http/server.py", line 1311, in finish_request
+    self.RequestHandlerClass(request, client_address, self,
+  File "/usr/lib/python3.12/http/server.py", line 672, in __init__
+    super().__init__(*args, **kwargs)
+  File "/usr/lib/python3.12/socketserver.py", line 761, in __init__
+    self.handle()
+  File "/usr/lib/python3.12/http/server.py", line 436, in handle
+    self.handle_one_request()
+  File "/usr/lib/python3.12/http/server.py", line 424, in handle_one_request
+    method()
+  File "/usr/lib/python3.12/http/server.py", line 679, in do_GET
+    self.copyfile(f, self.wfile)
+  File "/usr/lib/python3.12/http/server.py", line 878, in copyfile
+    shutil.copyfileobj(source, outputfile)
+  File "/usr/lib/python3.12/shutil.py", line 204, in copyfileobj
+    fdst_write(buf)
+  File "/usr/lib/python3.12/socketserver.py", line 840, in write
+    self._sock.sendall(b)
+BrokenPipeError: [Errno 32] Broken pipe
+----------------------------------------
+34.22.205.203 - - [16/Jun/2025 06:32:04] "GET /assets/img/curved-images/curved5-small.jpg HTTP/1.1" 200 -
+----------------------------------------
+Exception occurred during processing of request from ('34.22.205.203', 53380)
+Traceback (most recent call last):
+  File "/usr/lib/python3.12/socketserver.py", line 692, in process_request_thread
+    self.finish_request(request, client_address)
+  File "/usr/lib/python3.12/http/server.py", line 1311, in finish_request
+    self.RequestHandlerClass(request, client_address, self,
+  File "/usr/lib/python3.12/http/server.py", line 672, in __init__
+    super().__init__(*args, **kwargs)
+  File "/usr/lib/python3.12/socketserver.py", line 761, in __init__
+    self.handle()
+  File "/usr/lib/python3.12/http/server.py", line 436, in handle
+    self.handle_one_request()
+  File "/usr/lib/python3.12/http/server.py", line 424, in handle_one_request
+    method()
+  File "/usr/lib/python3.12/http/server.py", line 679, in do_GET
+    self.copyfile(f, self.wfile)
+  File "/usr/lib/python3.12/http/server.py", line 878, in copyfile
+    shutil.copyfileobj(source, outputfile)
+  File "/usr/lib/python3.12/shutil.py", line 204, in copyfileobj
+    fdst_write(buf)
+  File "/usr/lib/python3.12/socketserver.py", line 840, in write
+    self._sock.sendall(b)
+BrokenPipeError: [Errno 32] Broken pipe
+----------------------------------------
+34.22.205.203 - - [16/Jun/2025 06:32:04] "GET /assets/img/curved-images/curved5.jpg HTTP/1.1" 200 -
+----------------------------------------
+Exception occurred during processing of request from ('34.22.205.203', 53386)
+Traceback (most recent call last):
+  File "/usr/lib/python3.12/socketserver.py", line 692, in process_request_thread
+    self.finish_request(request, client_address)
+  File "/usr/lib/python3.12/http/server.py", line 1311, in finish_request
+    self.RequestHandlerClass(request, client_address, self,
+  File "/usr/lib/python3.12/http/server.py", line 672, in __init__
+    super().__init__(*args, **kwargs)
+  File "/usr/lib/python3.12/socketserver.py", line 761, in __init__
+    self.handle()
+  File "/usr/lib/python3.12/http/server.py", line 436, in handle
+    self.handle_one_request()
+  File "/usr/lib/python3.12/http/server.py", line 424, in handle_one_request
+    method()
+  File "/usr/lib/python3.12/http/server.py", line 679, in do_GET
+    self.copyfile(f, self.wfile)
+  File "/usr/lib/python3.12/http/server.py", line 878, in copyfile
+    shutil.copyfileobj(source, outputfile)
+  File "/usr/lib/python3.12/shutil.py", line 204, in copyfileobj
+    fdst_write(buf)
+  File "/usr/lib/python3.12/socketserver.py", line 840, in write
+    self._sock.sendall(b)
+BrokenPipeError: [Errno 32] Broken pipe
+----------------------------------------
+34.22.205.203 - - [16/Jun/2025 06:32:04] "GET /assets/img/curved-images/curved6-small.jpg HTTP/1.1" 200 -
+----------------------------------------
+Exception occurred during processing of request from ('34.22.205.203', 53394)
+Traceback (most recent call last):
+  File "/usr/lib/python3.12/socketserver.py", line 692, in process_request_thread
+    self.finish_request(request, client_address)
+  File "/usr/lib/python3.12/http/server.py", line 1311, in finish_request
+    self.RequestHandlerClass(request, client_address, self,
+  File "/usr/lib/python3.12/http/server.py", line 672, in __init__
+    super().__init__(*args, **kwargs)
+  File "/usr/lib/python3.12/socketserver.py", line 761, in __init__
+    self.handle()
+  File "/usr/lib/python3.12/http/server.py", line 436, in handle
+    self.handle_one_request()
+  File "/usr/lib/python3.12/http/server.py", line 424, in handle_one_request
+    method()
+  File "/usr/lib/python3.12/http/server.py", line 679, in do_GET
+    self.copyfile(f, self.wfile)
+  File "/usr/lib/python3.12/http/server.py", line 878, in copyfile
+    shutil.copyfileobj(source, outputfile)
+  File "/usr/lib/python3.12/shutil.py", line 204, in copyfileobj
+    fdst_write(buf)
+  File "/usr/lib/python3.12/socketserver.py", line 840, in write
+    self._sock.sendall(b)
+BrokenPipeError: [Errno 32] Broken pipe
+----------------------------------------
+34.22.205.203 - - [16/Jun/2025 06:32:04] "GET /assets/img/curved-images/curved6.jpg HTTP/1.1" 200 -
+----------------------------------------
+Exception occurred during processing of request from ('34.22.205.203', 53400)
+Traceback (most recent call last):
+  File "/usr/lib/python3.12/socketserver.py", line 692, in process_request_thread
+    self.finish_request(request, client_address)
+  File "/usr/lib/python3.12/http/server.py", line 1311, in finish_request
+    self.RequestHandlerClass(request, client_address, self,
+  File "/usr/lib/python3.12/http/server.py", line 672, in __init__
+    super().__init__(*args, **kwargs)
+  File "/usr/lib/python3.12/socketserver.py", line 761, in __init__
+    self.handle()
+  File "/usr/lib/python3.12/http/server.py", line 436, in handle
+    self.handle_one_request()
+  File "/usr/lib/python3.12/http/server.py", line 424, in handle_one_request
+    method()
+  File "/usr/lib/python3.12/http/server.py", line 679, in do_GET
+    self.copyfile(f, self.wfile)
+  File "/usr/lib/python3.12/http/server.py", line 878, in copyfile
+    shutil.copyfileobj(source, outputfile)
+  File "/usr/lib/python3.12/shutil.py", line 204, in copyfileobj
+    fdst_write(buf)
+  File "/usr/lib/python3.12/socketserver.py", line 840, in write
+    self._sock.sendall(b)
+ConnectionResetError: [Errno 104] Connection reset by peer
+----------------------------------------
+34.22.205.203 - - [16/Jun/2025 06:32:04] "GET /assets/img/curved-images/curved7.jpg HTTP/1.1" 200 -
+----------------------------------------
+Exception occurred during processing of request from ('34.22.205.203', 53416)
+Traceback (most recent call last):
+  File "/usr/lib/python3.12/socketserver.py", line 692, in process_request_thread
+    self.finish_request(request, client_address)
+  File "/usr/lib/python3.12/http/server.py", line 1311, in finish_request
+    self.RequestHandlerClass(request, client_address, self,
+  File "/usr/lib/python3.12/http/server.py", line 672, in __init__
+    super().__init__(*args, **kwargs)
+  File "/usr/lib/python3.12/socketserver.py", line 761, in __init__
+    self.handle()
+  File "/usr/lib/python3.12/http/server.py", line 436, in handle
+    self.handle_one_request()
+  File "/usr/lib/python3.12/http/server.py", line 424, in handle_one_request
+    method()
+  File "/usr/lib/python3.12/http/server.py", line 679, in do_GET
+    self.copyfile(f, self.wfile)
+  File "/usr/lib/python3.12/http/server.py", line 878, in copyfile
+    shutil.copyfileobj(source, outputfile)
+  File "/usr/lib/python3.12/shutil.py", line 204, in copyfileobj
+    fdst_write(buf)
+  File "/usr/lib/python3.12/socketserver.py", line 840, in write
+    self._sock.sendall(b)
+BrokenPipeError: [Errno 32] Broken pipe
+----------------------------------------
+34.22.205.203 - - [16/Jun/2025 06:32:04] "GET /assets/img/curved-images/curved8.jpg HTTP/1.1" 200 -
+----------------------------------------
+Exception occurred during processing of request from ('34.22.205.203', 53426)
+Traceback (most recent call last):
+  File "/usr/lib/python3.12/socketserver.py", line 692, in process_request_thread
+    self.finish_request(request, client_address)
+  File "/usr/lib/python3.12/http/server.py", line 1311, in finish_request
+    self.RequestHandlerClass(request, client_address, self,
+  File "/usr/lib/python3.12/http/server.py", line 672, in __init__
+    super().__init__(*args, **kwargs)
+  File "/usr/lib/python3.12/socketserver.py", line 761, in __init__
+    self.handle()
+  File "/usr/lib/python3.12/http/server.py", line 436, in handle
+    self.handle_one_request()
+  File "/usr/lib/python3.12/http/server.py", line 424, in handle_one_request
+    method()
+  File "/usr/lib/python3.12/http/server.py", line 679, in do_GET
+    self.copyfile(f, self.wfile)
+  File "/usr/lib/python3.12/http/server.py", line 878, in copyfile
+    shutil.copyfileobj(source, outputfile)
+  File "/usr/lib/python3.12/shutil.py", line 204, in copyfileobj
+    fdst_write(buf)
+  File "/usr/lib/python3.12/socketserver.py", line 840, in write
+    self._sock.sendall(b)
+ConnectionResetError: [Errno 104] Connection reset by peer
+----------------------------------------
+34.22.205.203 - - [16/Jun/2025 06:32:04] "GET /assets/img/curved-images/curved9.jpg HTTP/1.1" 200 -
+----------------------------------------
+Exception occurred during processing of request from ('34.22.205.203', 53442)
+Traceback (most recent call last):
+  File "/usr/lib/python3.12/socketserver.py", line 692, in process_request_thread
+    self.finish_request(request, client_address)
+  File "/usr/lib/python3.12/http/server.py", line 1311, in finish_request
+    self.RequestHandlerClass(request, client_address, self,
+  File "/usr/lib/python3.12/http/server.py", line 672, in __init__
+    super().__init__(*args, **kwargs)
+  File "/usr/lib/python3.12/socketserver.py", line 761, in __init__
+    self.handle()
+  File "/usr/lib/python3.12/http/server.py", line 436, in handle
+    self.handle_one_request()
+  File "/usr/lib/python3.12/http/server.py", line 424, in handle_one_request
+    method()
+  File "/usr/lib/python3.12/http/server.py", line 679, in do_GET
+    self.copyfile(f, self.wfile)
+  File "/usr/lib/python3.12/http/server.py", line 878, in copyfile
+    shutil.copyfileobj(source, outputfile)
+  File "/usr/lib/python3.12/shutil.py", line 204, in copyfileobj
+    fdst_write(buf)
+  File "/usr/lib/python3.12/socketserver.py", line 840, in write
+    self._sock.sendall(b)
+BrokenPipeError: [Errno 32] Broken pipe
+----------------------------------------
+34.22.205.203 - - [16/Jun/2025 06:32:04] "GET /assets/img/curved-images/white-curved.jpg HTTP/1.1" 200 -
+34.22.205.203 - - [16/Jun/2025 06:32:04] "GET /assets/img/illustrations/ HTTP/1.1" 200 -
+34.22.205.203 - - [16/Jun/2025 06:32:05] "GET /assets/img/illustrations/rocket-dark.png HTTP/1.1" 200 -
+----------------------------------------
+Exception occurred during processing of request from ('34.22.205.203', 53464)
+Traceback (most recent call last):
+  File "/usr/lib/python3.12/socketserver.py", line 692, in process_request_thread
+    self.finish_request(request, client_address)
+  File "/usr/lib/python3.12/http/server.py", line 1311, in finish_request
+    self.RequestHandlerClass(request, client_address, self,
+  File "/usr/lib/python3.12/http/server.py", line 672, in __init__
+    super().__init__(*args, **kwargs)
+  File "/usr/lib/python3.12/socketserver.py", line 761, in __init__
+    self.handle()
+  File "/usr/lib/python3.12/http/server.py", line 436, in handle
+    self.handle_one_request()
+  File "/usr/lib/python3.12/http/server.py", line 424, in handle_one_request
+    method()
+  File "/usr/lib/python3.12/http/server.py", line 679, in do_GET
+    self.copyfile(f, self.wfile)
+  File "/usr/lib/python3.12/http/server.py", line 878, in copyfile
+    shutil.copyfileobj(source, outputfile)
+  File "/usr/lib/python3.12/shutil.py", line 204, in copyfileobj
+    fdst_write(buf)
+  File "/usr/lib/python3.12/socketserver.py", line 840, in write
+    self._sock.sendall(b)
+BrokenPipeError: [Errno 32] Broken pipe
+----------------------------------------
+34.22.205.203 - - [16/Jun/2025 06:32:05] "GET /assets/img/illustrations/rocket-white.png HTTP/1.1" 200 -
+34.22.205.203 - - [16/Jun/2025 06:32:05] "GET /assets/img/logos/ HTTP/1.1" 200 -
+34.22.205.203 - - [16/Jun/2025 06:32:05] "GET /assets/img/logos/mastercard.png HTTP/1.1" 200 -
+34.22.205.203 - - [16/Jun/2025 06:32:05] "GET /assets/img/logos/visa.png HTTP/1.1" 200 -
+34.22.205.203 - - [16/Jun/2025 06:32:05] "GET /assets/img/shapes/ HTTP/1.1" 200 -
+34.22.205.203 - - [16/Jun/2025 06:32:05] "GET /assets/img/shapes/pattern-lines.svg HTTP/1.1" 200 -
+----------------------------------------
+Exception occurred during processing of request from ('34.22.205.203', 53516)
+Traceback (most recent call last):
+  File "/usr/lib/python3.12/socketserver.py", line 692, in process_request_thread
+    self.finish_request(request, client_address)
+  File "/usr/lib/python3.12/http/server.py", line 1311, in finish_request
+    self.RequestHandlerClass(request, client_address, self,
+  File "/usr/lib/python3.12/http/server.py", line 672, in __init__
+    super().__init__(*args, **kwargs)
+  File "/usr/lib/python3.12/socketserver.py", line 761, in __init__
+    self.handle()
+  File "/usr/lib/python3.12/http/server.py", line 436, in handle
+    self.handle_one_request()
+  File "/usr/lib/python3.12/http/server.py", line 424, in handle_one_request
+    method()
+  File "/usr/lib/python3.12/http/server.py", line 679, in do_GET
+    self.copyfile(f, self.wfile)
+  File "/usr/lib/python3.12/http/server.py", line 878, in copyfile
+    shutil.copyfileobj(source, outputfile)
+  File "/usr/lib/python3.12/shutil.py", line 204, in copyfileobj
+    fdst_write(buf)
+  File "/usr/lib/python3.12/socketserver.py", line 840, in write
+    self._sock.sendall(b)
+BrokenPipeError: [Errno 32] Broken pipe
+----------------------------------------
+34.22.205.203 - - [16/Jun/2025 06:32:05] "GET /assets/img/shapes/shape-1.svg HTTP/1.1" 200 -
+34.22.205.203 - - [16/Jun/2025 06:32:05] "GET /assets/img/shapes/shape-2.svg HTTP/1.1" 200 -
+34.22.205.203 - - [16/Jun/2025 06:32:05] "GET /assets/img/shapes/shape-3.svg HTTP/1.1" 200 -
+34.22.205.203 - - [16/Jun/2025 06:32:05] "GET /assets/img/shapes/wave-down.svg HTTP/1.1" 200 -
+34.22.205.203 - - [16/Jun/2025 06:32:05] "GET /assets/img/shapes/wave-up.svg HTTP/1.1" 200 -
+34.22.205.203 - - [16/Jun/2025 06:32:05] "GET /assets/img/shapes/waves-gray.svg HTTP/1.1" 200 -
+----------------------------------------
+Exception occurred during processing of request from ('34.22.205.203', 53570)
+Traceback (most recent call last):
+  File "/usr/lib/python3.12/socketserver.py", line 692, in process_request_thread
+    self.finish_request(request, client_address)
+  File "/usr/lib/python3.12/http/server.py", line 1311, in finish_request
+    self.RequestHandlerClass(request, client_address, self,
+  File "/usr/lib/python3.12/http/server.py", line 672, in __init__
+    super().__init__(*args, **kwargs)
+  File "/usr/lib/python3.12/socketserver.py", line 761, in __init__
+    self.handle()
+  File "/usr/lib/python3.12/http/server.py", line 436, in handle
+    self.handle_one_request()
+  File "/usr/lib/python3.12/http/server.py", line 424, in handle_one_request
+    method()
+  File "/usr/lib/python3.12/http/server.py", line 679, in do_GET
+    self.copyfile(f, self.wfile)
+  File "/usr/lib/python3.12/http/server.py", line 878, in copyfile
+    shutil.copyfileobj(source, outputfile)
+  File "/usr/lib/python3.12/shutil.py", line 204, in copyfileobj
+    fdst_write(buf)
+  File "/usr/lib/python3.12/socketserver.py", line 840, in write
+    self._sock.sendall(b)
+BrokenPipeError: [Errno 32] Broken pipe
+----------------------------------------
+34.22.205.203 - - [16/Jun/2025 06:32:05] "GET /assets/img/shapes/waves-white.svg HTTP/1.1" 200 -
+----------------------------------------
+Exception occurred during processing of request from ('34.22.205.203', 53576)
+Traceback (most recent call last):
+  File "/usr/lib/python3.12/socketserver.py", line 692, in process_request_thread
+    self.finish_request(request, client_address)
+  File "/usr/lib/python3.12/http/server.py", line 1311, in finish_request
+    self.RequestHandlerClass(request, client_address, self,
+  File "/usr/lib/python3.12/http/server.py", line 672, in __init__
+    super().__init__(*args, **kwargs)
+  File "/usr/lib/python3.12/socketserver.py", line 761, in __init__
+    self.handle()
+  File "/usr/lib/python3.12/http/server.py", line 436, in handle
+    self.handle_one_request()
+  File "/usr/lib/python3.12/http/server.py", line 424, in handle_one_request
+    method()
+  File "/usr/lib/python3.12/http/server.py", line 679, in do_GET
+    self.copyfile(f, self.wfile)
+  File "/usr/lib/python3.12/http/server.py", line 878, in copyfile
+    shutil.copyfileobj(source, outputfile)
+  File "/usr/lib/python3.12/shutil.py", line 204, in copyfileobj
+    fdst_write(buf)
+  File "/usr/lib/python3.12/socketserver.py", line 840, in write
+    self._sock.sendall(b)
+BrokenPipeError: [Errno 32] Broken pipe
+----------------------------------------
+34.22.205.203 - - [16/Jun/2025 06:32:05] "GET /assets/img/small-logos/ HTTP/1.1" 200 -
+34.22.205.203 - - [16/Jun/2025 06:32:06] "GET /assets/img/small-logos/icon-sun-cloud.png HTTP/1.1" 200 -
+----------------------------------------
+Exception occurred during processing of request from ('34.22.205.203', 53596)
+Traceback (most recent call last):
+  File "/usr/lib/python3.12/socketserver.py", line 692, in process_request_thread
+    self.finish_request(request, client_address)
+  File "/usr/lib/python3.12/http/server.py", line 1311, in finish_request
+    self.RequestHandlerClass(request, client_address, self,
+  File "/usr/lib/python3.12/http/server.py", line 672, in __init__
+    super().__init__(*args, **kwargs)
+  File "/usr/lib/python3.12/socketserver.py", line 761, in __init__
+    self.handle()
+  File "/usr/lib/python3.12/http/server.py", line 436, in handle
+    self.handle_one_request()
+  File "/usr/lib/python3.12/http/server.py", line 424, in handle_one_request
+    method()
+  File "/usr/lib/python3.12/http/server.py", line 679, in do_GET
+    self.copyfile(f, self.wfile)
+  File "/usr/lib/python3.12/http/server.py", line 878, in copyfile
+    shutil.copyfileobj(source, outputfile)
+  File "/usr/lib/python3.12/shutil.py", line 204, in copyfileobj
+    fdst_write(buf)
+  File "/usr/lib/python3.12/socketserver.py", line 840, in write
+    self._sock.sendall(b)
+BrokenPipeError: [Errno 32] Broken pipe
+----------------------------------------
+34.22.205.203 - - [16/Jun/2025 06:32:06] "GET /assets/img/small-logos/logo-atlassian.svg HTTP/1.1" 200 -
+34.22.205.203 - - [16/Jun/2025 06:32:06] "GET /assets/img/small-logos/logo-invision.svg HTTP/1.1" 200 -
+34.22.205.203 - - [16/Jun/2025 06:32:06] "GET /assets/img/small-logos/logo-jira.svg HTTP/1.1" 200 -
+34.22.205.203 - - [16/Jun/2025 06:32:06] "GET /assets/img/small-logos/logo-slack.svg HTTP/1.1" 200 -
+34.22.205.203 - - [16/Jun/2025 06:32:06] "GET /assets/img/small-logos/logo-spotify.svg HTTP/1.1" 200 -
+34.22.205.203 - - [16/Jun/2025 06:32:06] "GET /assets/img/small-logos/logo-webdev.svg HTTP/1.1" 200 -
+34.22.205.203 - - [16/Jun/2025 06:32:06] "GET /assets/img/small-logos/logo-xd.svg HTTP/1.1" 200 -
+34.22.205.203 - - [16/Jun/2025 06:32:06] "GET /assets/img/theme/ HTTP/1.1" 200 -
+34.22.205.203 - - [16/Jun/2025 06:32:06] "GET /assets/img/theme/angular.jpg HTTP/1.1" 200 -
+34.22.205.203 - - [16/Jun/2025 06:32:06] "GET /assets/img/theme/bootstrap.jpg HTTP/1.1" 200 -
+34.22.205.203 - - [16/Jun/2025 06:32:06] "GET /assets/img/theme/dribbble.png HTTP/1.1" 200 -
+34.22.205.203 - - [16/Jun/2025 06:32:06] "GET /assets/img/theme/dropbox.png HTTP/1.1" 200 -
+34.22.205.203 - - [16/Jun/2025 06:32:06] "GET /assets/img/theme/mastercard.png HTTP/1.1" 200 -
+34.22.205.203 - - [16/Jun/2025 06:32:06] "GET /assets/img/theme/paypal.png HTTP/1.1" 200 -
+34.22.205.203 - - [16/Jun/2025 06:32:06] "GET /assets/img/theme/react.jpg HTTP/1.1" 200 -
+34.22.205.203 - - [16/Jun/2025 06:32:07] "GET /assets/img/theme/sketch.jpg HTTP/1.1" 200 -
+34.22.205.203 - - [16/Jun/2025 06:32:07] "GET /assets/img/theme/slack.png HTTP/1.1" 200 -
+34.22.205.203 - - [16/Jun/2025 06:32:07] "GET /assets/img/theme/spotify.jpeg HTTP/1.1" 200 -
+34.22.205.203 - - [16/Jun/2025 06:32:07] "GET /assets/img/theme/tim.png HTTP/1.1" 200 -
+34.22.205.203 - - [16/Jun/2025 06:32:07] "GET /assets/img/theme/unass.jpg HTTP/1.1" 200 -
+34.22.205.203 - - [16/Jun/2025 06:32:07] "GET /assets/img/theme/visa.png HTTP/1.1" 200 -
+34.22.205.203 - - [16/Jun/2025 06:32:07] "GET /assets/img/theme/vue.jpg HTTP/1.1" 200 -
+34.22.205.203 - - [16/Jun/2025 06:32:07] "GET /assets/js/ HTTP/1.1" 200 -
+34.22.205.203 - - [16/Jun/2025 06:32:07] "GET /assets/js/api.js HTTP/1.1" 200 -
+34.22.205.203 - - [16/Jun/2025 06:32:07] "GET /assets/js/core/ HTTP/1.1" 200 -
+34.22.205.203 - - [16/Jun/2025 06:32:07] "GET /assets/js/dashboard-auth.js HTTP/1.1" 200 -
+34.22.205.203 - - [16/Jun/2025 06:32:07] "GET /assets/js/plugins/ HTTP/1.1" 200 -
+34.22.205.203 - - [16/Jun/2025 06:32:07] "GET /assets/js/soft-ui-dashboard.js HTTP/1.1" 200 -
+34.22.205.203 - - [16/Jun/2025 06:32:07] "GET /assets/js/soft-ui-dashboard.js.map HTTP/1.1" 200 -
+34.22.205.203 - - [16/Jun/2025 06:32:07] "GET /assets/js/soft-ui-dashboard.min.js HTTP/1.1" 200 -
+34.22.205.203 - - [16/Jun/2025 06:32:08] "GET /assets/js/core/ HTTP/1.1" 200 -
+34.22.205.203 - - [16/Jun/2025 06:32:08] "GET /assets/js/core/bootstrap.bundle.min.js HTTP/1.1" 200 -
+34.22.205.203 - - [16/Jun/2025 06:32:08] "GET /assets/js/core/bootstrap.min.js HTTP/1.1" 200 -
+34.22.205.203 - - [16/Jun/2025 06:32:08] "GET /assets/js/core/popper.min.js HTTP/1.1" 200 -
+34.22.205.203 - - [16/Jun/2025 06:32:08] "GET /assets/js/plugins/ HTTP/1.1" 200 -
+34.22.205.203 - - [16/Jun/2025 06:32:08] "GET /assets/js/plugins/bootstrap-notify.js HTTP/1.1" 200 -
+34.22.205.203 - - [16/Jun/2025 06:32:08] "GET /assets/js/plugins/perfect-scrollbar.min.js HTTP/1.1" 200 -
+34.22.205.203 - - [16/Jun/2025 06:32:08] "GET /assets/js/plugins/smooth-scrollbar.min.js HTTP/1.1" 200 -
+34.22.205.203 - - [16/Jun/2025 06:32:08] "GET /assets/scss/ HTTP/1.1" 200 -
+34.22.205.203 - - [16/Jun/2025 06:32:08] "GET /assets/scss/soft-ui-dashboard/ HTTP/1.1" 200 -
+34.22.205.203 - - [16/Jun/2025 06:32:08] "GET /assets/scss/soft-ui-dashboard.scss HTTP/1.1" 200 -
+34.22.205.203 - - [16/Jun/2025 06:32:08] "GET /assets/scss/soft-ui-dashboard/ HTTP/1.1" 200 -
+34.22.205.203 - - [16/Jun/2025 06:32:08] "GET /assets/scss/soft-ui-dashboard/_alert.scss HTTP/1.1" 200 -
+34.22.205.203 - - [16/Jun/2025 06:32:08] "GET /assets/scss/soft-ui-dashboard/_avatars.scss HTTP/1.1" 200 -
+34.22.205.203 - - [16/Jun/2025 06:32:08] "GET /assets/scss/soft-ui-dashboard/_badge.scss HTTP/1.1" 200 -
+34.22.205.203 - - [16/Jun/2025 06:32:08] "GET /assets/scss/soft-ui-dashboard/_breadcrumbs.scss HTTP/1.1" 200 -
+34.22.205.203 - - [16/Jun/2025 06:32:09] "GET /assets/scss/soft-ui-dashboard/_buttons.scss HTTP/1.1" 200 -
+34.22.205.203 - - [16/Jun/2025 06:32:09] "GET /assets/scss/soft-ui-dashboard/_cards.scss HTTP/1.1" 200 -
+34.22.205.203 - - [16/Jun/2025 06:32:09] "GET /assets/scss/soft-ui-dashboard/_dark-version.scss HTTP/1.1" 200 -
+34.22.205.203 - - [16/Jun/2025 06:32:09] "GET /assets/scss/soft-ui-dashboard/_dropdown.scss HTTP/1.1" 200 -
+34.22.205.203 - - [16/Jun/2025 06:32:09] "GET /assets/scss/soft-ui-dashboard/_dropup.scss HTTP/1.1" 200 -
+34.22.205.203 - - [16/Jun/2025 06:32:09] "GET /assets/scss/soft-ui-dashboard/_fixed-plugin.scss HTTP/1.1" 200 -
+34.22.205.203 - - [16/Jun/2025 06:32:09] "GET /assets/scss/soft-ui-dashboard/_footer.scss HTTP/1.1" 200 -
+34.22.205.203 - - [16/Jun/2025 06:32:09] "GET /assets/scss/soft-ui-dashboard/_forms.scss HTTP/1.1" 200 -
+34.22.205.203 - - [16/Jun/2025 06:32:09] "GET /assets/scss/soft-ui-dashboard/_gradients.scss HTTP/1.1" 200 -
+34.22.205.203 - - [16/Jun/2025 06:32:09] "GET /assets/scss/soft-ui-dashboard/_header.scss HTTP/1.1" 200 -
+34.22.205.203 - - [16/Jun/2025 06:32:09] "GET /assets/scss/soft-ui-dashboard/_info-areas.scss HTTP/1.1" 200 -
+34.22.205.203 - - [16/Jun/2025 06:32:09] "GET /assets/scss/soft-ui-dashboard/_misc.scss HTTP/1.1" 200 -
+34.22.205.203 - - [16/Jun/2025 06:32:09] "GET /assets/scss/soft-ui-dashboard/_nav.scss HTTP/1.1" 200 -
+34.22.205.203 - - [16/Jun/2025 06:32:09] "GET /assets/scss/soft-ui-dashboard/_navbar-vertical.scss HTTP/1.1" 200 -
+34.22.205.203 - - [16/Jun/2025 06:32:09] "GET /assets/scss/soft-ui-dashboard/_navbar.scss HTTP/1.1" 200 -
+34.22.205.203 - - [16/Jun/2025 06:32:09] "GET /assets/scss/soft-ui-dashboard/_pagination.scss HTTP/1.1" 200 -
+34.22.205.203 - - [16/Jun/2025 06:32:10] "GET /assets/scss/soft-ui-dashboard/_popovers.scss HTTP/1.1" 200 -
+34.22.205.203 - - [16/Jun/2025 06:32:10] "GET /assets/scss/soft-ui-dashboard/_progress.scss HTTP/1.1" 200 -
+34.22.205.203 - - [16/Jun/2025 06:32:10] "GET /assets/scss/soft-ui-dashboard/_rtl.scss HTTP/1.1" 200 -
+34.22.205.203 - - [16/Jun/2025 06:32:10] "GET /assets/scss/soft-ui-dashboard/_social-buttons.scss HTTP/1.1" 200 -
+34.22.205.203 - - [16/Jun/2025 06:32:10] "GET /assets/scss/soft-ui-dashboard/_tables.scss HTTP/1.1" 200 -
+34.22.205.203 - - [16/Jun/2025 06:32:10] "GET /assets/scss/soft-ui-dashboard/_tilt.scss HTTP/1.1" 200 -
+34.22.205.203 - - [16/Jun/2025 06:32:10] "GET /assets/scss/soft-ui-dashboard/_timeline.scss HTTP/1.1" 200 -
+34.22.205.203 - - [16/Jun/2025 06:32:10] "GET /assets/scss/soft-ui-dashboard/_tooltips.scss HTTP/1.1" 200 -
+34.22.205.203 - - [16/Jun/2025 06:32:10] "GET /assets/scss/soft-ui-dashboard/_typography.scss HTTP/1.1" 200 -
+34.22.205.203 - - [16/Jun/2025 06:32:10] "GET /assets/scss/soft-ui-dashboard/_utilities-extend.scss HTTP/1.1" 200 -
+34.22.205.203 - - [16/Jun/2025 06:32:10] "GET /assets/scss/soft-ui-dashboard/_utilities.scss HTTP/1.1" 200 -
+34.22.205.203 - - [16/Jun/2025 06:32:10] "GET /assets/scss/soft-ui-dashboard/_variables.scss HTTP/1.1" 200 -
+34.22.205.203 - - [16/Jun/2025 06:32:10] "GET /assets/scss/soft-ui-dashboard/bootstrap/ HTTP/1.1" 200 -
+34.22.205.203 - - [16/Jun/2025 06:32:10] "GET /assets/scss/soft-ui-dashboard/cards/ HTTP/1.1" 200 -
+34.22.205.203 - - [16/Jun/2025 06:32:10] "GET /assets/scss/soft-ui-dashboard/custom/ HTTP/1.1" 200 -
+34.22.205.203 - - [16/Jun/2025 06:32:11] "GET /assets/scss/soft-ui-dashboard/forms/ HTTP/1.1" 200 -
+34.22.205.203 - - [16/Jun/2025 06:32:11] "GET /assets/scss/soft-ui-dashboard/mixins/ HTTP/1.1" 200 -
+34.22.205.203 - - [16/Jun/2025 06:32:11] "GET /assets/scss/soft-ui-dashboard/plugins/ HTTP/1.1" 200 -
+34.22.205.203 - - [16/Jun/2025 06:32:11] "GET /assets/scss/soft-ui-dashboard/theme.scss HTTP/1.1" 200 -
+34.22.205.203 - - [16/Jun/2025 06:32:11] "GET /assets/scss/soft-ui-dashboard/variables/ HTTP/1.1" 200 -
+34.22.205.203 - - [16/Jun/2025 06:32:11] "GET /assets/scss/soft-ui-dashboard/bootstrap/ HTTP/1.1" 200 -
+34.22.205.203 - - [16/Jun/2025 06:32:11] "GET /assets/scss/soft-ui-dashboard/bootstrap/_accordion.scss HTTP/1.1" 200 -
+34.22.205.203 - - [16/Jun/2025 06:32:11] "GET /assets/scss/soft-ui-dashboard/bootstrap/_alert.scss HTTP/1.1" 200 -
+34.22.205.203 - - [16/Jun/2025 06:32:11] "GET /assets/scss/soft-ui-dashboard/bootstrap/_badge.scss HTTP/1.1" 200 -
+34.22.205.203 - - [16/Jun/2025 06:32:11] "GET /assets/scss/soft-ui-dashboard/bootstrap/_breadcrumb.scss HTTP/1.1" 200 -
+34.22.205.203 - - [16/Jun/2025 06:32:11] "GET /assets/scss/soft-ui-dashboard/bootstrap/_button-group.scss HTTP/1.1" 200 -
+34.22.205.203 - - [16/Jun/2025 06:32:11] "GET /assets/scss/soft-ui-dashboard/bootstrap/_buttons.scss HTTP/1.1" 200 -
+34.22.205.203 - - [16/Jun/2025 06:32:11] "GET /assets/scss/soft-ui-dashboard/bootstrap/_card.scss HTTP/1.1" 200 -
+34.22.205.203 - - [16/Jun/2025 06:32:11] "GET /assets/scss/soft-ui-dashboard/bootstrap/_carousel.scss HTTP/1.1" 200 -
+34.22.205.203 - - [16/Jun/2025 06:32:11] "GET /assets/scss/soft-ui-dashboard/bootstrap/_close.scss HTTP/1.1" 200 -
+34.22.205.203 - - [16/Jun/2025 06:32:11] "GET /assets/scss/soft-ui-dashboard/bootstrap/_containers.scss HTTP/1.1" 200 -
+34.22.205.203 - - [16/Jun/2025 06:32:12] "GET /assets/scss/soft-ui-dashboard/bootstrap/_dropdown.scss HTTP/1.1" 200 -
+34.22.205.203 - - [16/Jun/2025 06:32:12] "GET /assets/scss/soft-ui-dashboard/bootstrap/_forms.scss HTTP/1.1" 200 -
+34.22.205.203 - - [16/Jun/2025 06:32:12] "GET /assets/scss/soft-ui-dashboard/bootstrap/_functions.scss HTTP/1.1" 200 -
+34.22.205.203 - - [16/Jun/2025 06:32:12] "GET /assets/scss/soft-ui-dashboard/bootstrap/_grid.scss HTTP/1.1" 200 -
+34.22.205.203 - - [16/Jun/2025 06:32:12] "GET /assets/scss/soft-ui-dashboard/bootstrap/_helpers.scss HTTP/1.1" 200 -
+34.22.205.203 - - [16/Jun/2025 06:32:12] "GET /assets/scss/soft-ui-dashboard/bootstrap/_images.scss HTTP/1.1" 200 -
+34.22.205.203 - - [16/Jun/2025 06:32:12] "GET /assets/scss/soft-ui-dashboard/bootstrap/_list-group.scss HTTP/1.1" 200 -
+34.22.205.203 - - [16/Jun/2025 06:32:12] "GET /assets/scss/soft-ui-dashboard/bootstrap/_maps.scss HTTP/1.1" 200 -
+34.22.205.203 - - [16/Jun/2025 06:32:12] "GET /assets/scss/soft-ui-dashboard/bootstrap/_mixins.scss HTTP/1.1" 200 -
+34.22.205.203 - - [16/Jun/2025 06:32:12] "GET /assets/scss/soft-ui-dashboard/bootstrap/_modal.scss HTTP/1.1" 200 -
+34.22.205.203 - - [16/Jun/2025 06:32:12] "GET /assets/scss/soft-ui-dashboard/bootstrap/_nav.scss HTTP/1.1" 200 -
+34.22.205.203 - - [16/Jun/2025 06:32:12] "GET /assets/scss/soft-ui-dashboard/bootstrap/_navbar.scss HTTP/1.1" 200 -
+34.22.205.203 - - [16/Jun/2025 06:32:12] "GET /assets/scss/soft-ui-dashboard/bootstrap/_offcanvas.scss HTTP/1.1" 200 -
+34.22.205.203 - - [16/Jun/2025 06:32:12] "GET /assets/scss/soft-ui-dashboard/bootstrap/_pagination.scss HTTP/1.1" 200 -
+34.22.205.203 - - [16/Jun/2025 06:32:12] "GET /assets/scss/soft-ui-dashboard/bootstrap/_placeholders.scss HTTP/1.1" 200 -
+34.22.205.203 - - [16/Jun/2025 06:32:12] "GET /assets/scss/soft-ui-dashboard/bootstrap/_popover.scss HTTP/1.1" 200 -
+34.22.205.203 - - [16/Jun/2025 06:32:13] "GET /assets/scss/soft-ui-dashboard/bootstrap/_progress.scss HTTP/1.1" 200 -
+34.22.205.203 - - [16/Jun/2025 06:32:13] "GET /assets/scss/soft-ui-dashboard/bootstrap/_reboot.scss HTTP/1.1" 200 -
+34.22.205.203 - - [16/Jun/2025 06:32:13] "GET /assets/scss/soft-ui-dashboard/bootstrap/_root.scss HTTP/1.1" 200 -
+34.22.205.203 - - [16/Jun/2025 06:32:13] "GET /assets/scss/soft-ui-dashboard/bootstrap/_spinners.scss HTTP/1.1" 200 -
+34.22.205.203 - - [16/Jun/2025 06:32:13] "GET /assets/scss/soft-ui-dashboard/bootstrap/_tables.scss HTTP/1.1" 200 -
+34.22.205.203 - - [16/Jun/2025 06:32:13] "GET /assets/scss/soft-ui-dashboard/bootstrap/_toasts.scss HTTP/1.1" 200 -
+34.22.205.203 - - [16/Jun/2025 06:32:13] "GET /assets/scss/soft-ui-dashboard/bootstrap/_tooltip.scss HTTP/1.1" 200 -
+34.22.205.203 - - [16/Jun/2025 06:32:13] "GET /assets/scss/soft-ui-dashboard/bootstrap/_transitions.scss HTTP/1.1" 200 -
+34.22.205.203 - - [16/Jun/2025 06:32:13] "GET /assets/scss/soft-ui-dashboard/bootstrap/_type.scss HTTP/1.1" 200 -
+34.22.205.203 - - [16/Jun/2025 06:32:13] "GET /assets/scss/soft-ui-dashboard/bootstrap/_utilities.scss HTTP/1.1" 200 -
+34.22.205.203 - - [16/Jun/2025 06:32:13] "GET /assets/scss/soft-ui-dashboard/bootstrap/_variables-dark.scss HTTP/1.1" 200 -
+34.22.205.203 - - [16/Jun/2025 06:32:13] "GET /assets/scss/soft-ui-dashboard/bootstrap/_variables.scss HTTP/1.1" 200 -
+34.22.205.203 - - [16/Jun/2025 06:32:13] "GET /assets/scss/soft-ui-dashboard/bootstrap/bootstrap-grid.scss HTTP/1.1" 200 -
+34.22.205.203 - - [16/Jun/2025 06:32:13] "GET /assets/scss/soft-ui-dashboard/bootstrap/bootstrap-reboot.scss HTTP/1.1" 200 -
+34.22.205.203 - - [16/Jun/2025 06:32:13] "GET /assets/scss/soft-ui-dashboard/bootstrap/bootstrap-utilities.scss HTTP/1.1" 200 -
+34.22.205.203 - - [16/Jun/2025 06:32:14] "GET /assets/scss/soft-ui-dashboard/bootstrap/bootstrap.scss HTTP/1.1" 200 -
+34.22.205.203 - - [16/Jun/2025 06:32:14] "GET /assets/scss/soft-ui-dashboard/bootstrap/forms/ HTTP/1.1" 200 -
+34.22.205.203 - - [16/Jun/2025 06:32:14] "GET /assets/scss/soft-ui-dashboard/bootstrap/helpers/ HTTP/1.1" 200 -
+34.22.205.203 - - [16/Jun/2025 06:32:14] "GET /assets/scss/soft-ui-dashboard/bootstrap/mixins/ HTTP/1.1" 200 -
+34.22.205.203 - - [16/Jun/2025 06:32:14] "GET /assets/scss/soft-ui-dashboard/bootstrap/tests/ HTTP/1.1" 200 -
+34.22.205.203 - - [16/Jun/2025 06:32:14] "GET /assets/scss/soft-ui-dashboard/bootstrap/utilities/ HTTP/1.1" 200 -
+34.22.205.203 - - [16/Jun/2025 06:32:14] "GET /assets/scss/soft-ui-dashboard/bootstrap/vendor/ HTTP/1.1" 200 -
+34.22.205.203 - - [16/Jun/2025 06:32:14] "GET /assets/scss/soft-ui-dashboard/bootstrap/forms/ HTTP/1.1" 200 -
+34.22.205.203 - - [16/Jun/2025 06:32:14] "GET /assets/scss/soft-ui-dashboard/bootstrap/forms/_floating-labels.scss HTTP/1.1" 200 -
+34.22.205.203 - - [16/Jun/2025 06:32:14] "GET /assets/scss/soft-ui-dashboard/bootstrap/forms/_form-check.scss HTTP/1.1" 200 -
+34.22.205.203 - - [16/Jun/2025 06:32:14] "GET /assets/scss/soft-ui-dashboard/bootstrap/forms/_form-control.scss HTTP/1.1" 200 -
+34.22.205.203 - - [16/Jun/2025 06:32:14] "GET /assets/scss/soft-ui-dashboard/bootstrap/forms/_form-range.scss HTTP/1.1" 200 -
+34.22.205.203 - - [16/Jun/2025 06:32:14] "GET /assets/scss/soft-ui-dashboard/bootstrap/forms/_form-select.scss HTTP/1.1" 200 -
+34.22.205.203 - - [16/Jun/2025 06:32:14] "GET /assets/scss/soft-ui-dashboard/bootstrap/forms/_form-text.scss HTTP/1.1" 200 -
+34.22.205.203 - - [16/Jun/2025 06:32:14] "GET /assets/scss/soft-ui-dashboard/bootstrap/forms/_input-group.scss HTTP/1.1" 200 -
+34.22.205.203 - - [16/Jun/2025 06:32:14] "GET /assets/scss/soft-ui-dashboard/bootstrap/forms/_labels.scss HTTP/1.1" 200 -
+34.22.205.203 - - [16/Jun/2025 06:32:15] "GET /assets/scss/soft-ui-dashboard/bootstrap/forms/_validation.scss HTTP/1.1" 200 -
+34.22.205.203 - - [16/Jun/2025 06:32:15] "GET /assets/scss/soft-ui-dashboard/bootstrap/helpers/ HTTP/1.1" 200 -
+34.22.205.203 - - [16/Jun/2025 06:32:15] "GET /assets/scss/soft-ui-dashboard/bootstrap/helpers/_clearfix.scss HTTP/1.1" 200 -
+34.22.205.203 - - [16/Jun/2025 06:32:15] "GET /assets/scss/soft-ui-dashboard/bootstrap/helpers/_color-bg.scss HTTP/1.1" 200 -
+34.22.205.203 - - [16/Jun/2025 06:32:15] "GET /assets/scss/soft-ui-dashboard/bootstrap/helpers/_colored-links.scss HTTP/1.1" 200 -
+34.22.205.203 - - [16/Jun/2025 06:32:15] "GET /assets/scss/soft-ui-dashboard/bootstrap/helpers/_focus-ring.scss HTTP/1.1" 200 -
+34.22.205.203 - - [16/Jun/2025 06:32:15] "GET /assets/scss/soft-ui-dashboard/bootstrap/helpers/_icon-link.scss HTTP/1.1" 200 -
+34.22.205.203 - - [16/Jun/2025 06:32:15] "GET /assets/scss/soft-ui-dashboard/bootstrap/helpers/_position.scss HTTP/1.1" 200 -
+34.22.205.203 - - [16/Jun/2025 06:32:15] "GET /assets/scss/soft-ui-dashboard/bootstrap/helpers/_ratio.scss HTTP/1.1" 200 -
+34.22.205.203 - - [16/Jun/2025 06:32:15] "GET /assets/scss/soft-ui-dashboard/bootstrap/helpers/_stacks.scss HTTP/1.1" 200 -
+34.22.205.203 - - [16/Jun/2025 06:32:15] "GET /assets/scss/soft-ui-dashboard/bootstrap/helpers/_stretched-link.scss HTTP/1.1" 200 -
+34.22.205.203 - - [16/Jun/2025 06:32:15] "GET /assets/scss/soft-ui-dashboard/bootstrap/helpers/_text-truncation.scss HTTP/1.1" 200 -
+34.22.205.203 - - [16/Jun/2025 06:32:15] "GET /assets/scss/soft-ui-dashboard/bootstrap/helpers/_visually-hidden.scss HTTP/1.1" 200 -
+34.22.205.203 - - [16/Jun/2025 06:32:15] "GET /assets/scss/soft-ui-dashboard/bootstrap/helpers/_vr.scss HTTP/1.1" 200 -
+34.22.205.203 - - [16/Jun/2025 06:32:15] "GET /assets/scss/soft-ui-dashboard/bootstrap/mixins/ HTTP/1.1" 200 -
+34.22.205.203 - - [16/Jun/2025 06:32:16] "GET /assets/scss/soft-ui-dashboard/bootstrap/mixins/_alert.scss HTTP/1.1" 200 -
+34.22.205.203 - - [16/Jun/2025 06:32:16] "GET /assets/scss/soft-ui-dashboard/bootstrap/mixins/_backdrop.scss HTTP/1.1" 200 -
+34.22.205.203 - - [16/Jun/2025 06:32:16] "GET /assets/scss/soft-ui-dashboard/bootstrap/mixins/_banner.scss HTTP/1.1" 200 -
+34.22.205.203 - - [16/Jun/2025 06:32:16] "GET /assets/scss/soft-ui-dashboard/bootstrap/mixins/_border-radius.scss HTTP/1.1" 200 -
+34.22.205.203 - - [16/Jun/2025 06:32:16] "GET /assets/scss/soft-ui-dashboard/bootstrap/mixins/_box-shadow.scss HTTP/1.1" 200 -
+34.22.205.203 - - [16/Jun/2025 06:32:16] "GET /assets/scss/soft-ui-dashboard/bootstrap/mixins/_breakpoints.scss HTTP/1.1" 200 -
+34.22.205.203 - - [16/Jun/2025 06:32:16] "GET /assets/scss/soft-ui-dashboard/bootstrap/mixins/_buttons.scss HTTP/1.1" 200 -
+34.22.205.203 - - [16/Jun/2025 06:32:16] "GET /assets/scss/soft-ui-dashboard/bootstrap/mixins/_caret.scss HTTP/1.1" 200 -
+34.22.205.203 - - [16/Jun/2025 06:32:16] "GET /assets/scss/soft-ui-dashboard/bootstrap/mixins/_clearfix.scss HTTP/1.1" 200 -
+34.22.205.203 - - [16/Jun/2025 06:32:16] "GET /assets/scss/soft-ui-dashboard/bootstrap/mixins/_color-mode.scss HTTP/1.1" 200 -
+34.22.205.203 - - [16/Jun/2025 06:32:16] "GET /assets/scss/soft-ui-dashboard/bootstrap/mixins/_color-scheme.scss HTTP/1.1" 200 -
+34.22.205.203 - - [16/Jun/2025 06:32:16] "GET /assets/scss/soft-ui-dashboard/bootstrap/mixins/_container.scss HTTP/1.1" 200 -
+34.22.205.203 - - [16/Jun/2025 06:32:16] "GET /assets/scss/soft-ui-dashboard/bootstrap/mixins/_deprecate.scss HTTP/1.1" 200 -
+34.22.205.203 - - [16/Jun/2025 06:32:16] "GET /assets/scss/soft-ui-dashboard/bootstrap/mixins/_forms.scss HTTP/1.1" 200 -
+34.22.205.203 - - [16/Jun/2025 06:32:16] "GET /assets/scss/soft-ui-dashboard/bootstrap/mixins/_gradients.scss HTTP/1.1" 200 -
+34.22.205.203 - - [16/Jun/2025 06:32:16] "GET /assets/scss/soft-ui-dashboard/bootstrap/mixins/_grid.scss HTTP/1.1" 200 -
+34.22.205.203 - - [16/Jun/2025 06:32:17] "GET /assets/scss/soft-ui-dashboard/bootstrap/mixins/_image.scss HTTP/1.1" 200 -
+34.22.205.203 - - [16/Jun/2025 06:32:17] "GET /assets/scss/soft-ui-dashboard/bootstrap/mixins/_list-group.scss HTTP/1.1" 200 -
+34.22.205.203 - - [16/Jun/2025 06:32:17] "GET /assets/scss/soft-ui-dashboard/bootstrap/mixins/_lists.scss HTTP/1.1" 200 -
+34.22.205.203 - - [16/Jun/2025 06:32:17] "GET /assets/scss/soft-ui-dashboard/bootstrap/mixins/_pagination.scss HTTP/1.1" 200 -
+34.22.205.203 - - [16/Jun/2025 06:32:17] "GET /assets/scss/soft-ui-dashboard/bootstrap/mixins/_reset-text.scss HTTP/1.1" 200 -
+34.22.205.203 - - [16/Jun/2025 06:32:17] "GET /assets/scss/soft-ui-dashboard/bootstrap/mixins/_resize.scss HTTP/1.1" 200 -
+34.22.205.203 - - [16/Jun/2025 06:32:17] "GET /assets/scss/soft-ui-dashboard/bootstrap/mixins/_table-variants.scss HTTP/1.1" 200 -
+34.22.205.203 - - [16/Jun/2025 06:32:17] "GET /assets/scss/soft-ui-dashboard/bootstrap/mixins/_text-truncate.scss HTTP/1.1" 200 -
+34.22.205.203 - - [16/Jun/2025 06:32:17] "GET /assets/scss/soft-ui-dashboard/bootstrap/mixins/_transition.scss HTTP/1.1" 200 -
+34.22.205.203 - - [16/Jun/2025 06:32:17] "GET /assets/scss/soft-ui-dashboard/bootstrap/mixins/_utilities.scss HTTP/1.1" 200 -
+34.22.205.203 - - [16/Jun/2025 06:32:17] "GET /assets/scss/soft-ui-dashboard/bootstrap/mixins/_visually-hidden.scss HTTP/1.1" 200 -
+34.22.205.203 - - [16/Jun/2025 06:32:17] "GET /assets/scss/soft-ui-dashboard/bootstrap/tests/ HTTP/1.1" 200 -
+34.22.205.203 - - [16/Jun/2025 06:32:17] "GET /assets/scss/soft-ui-dashboard/bootstrap/tests/jasmine.js HTTP/1.1" 200 -
+34.22.205.203 - - [16/Jun/2025 06:32:17] "GET /assets/scss/soft-ui-dashboard/bootstrap/tests/mixins/ HTTP/1.1" 200 -
+34.22.205.203 - - [16/Jun/2025 06:32:17] "GET /assets/scss/soft-ui-dashboard/bootstrap/tests/sass-true/ HTTP/1.1" 200 -
+34.22.205.203 - - [16/Jun/2025 06:32:17] "GET /assets/scss/soft-ui-dashboard/bootstrap/tests/utilities/ HTTP/1.1" 200 -
+34.22.205.203 - - [16/Jun/2025 06:32:18] "GET /assets/scss/soft-ui-dashboard/bootstrap/tests/mixins/ HTTP/1.1" 200 -
+34.22.205.203 - - [16/Jun/2025 06:32:18] "GET /assets/scss/soft-ui-dashboard/bootstrap/tests/mixins/_auto-import-of-variables-dark.test.scss HTTP/1.1" 200 -
+34.22.205.203 - - [16/Jun/2025 06:32:18] "GET /assets/scss/soft-ui-dashboard/bootstrap/tests/mixins/_color-modes.test.scss HTTP/1.1" 200 -
+34.22.205.203 - - [16/Jun/2025 06:32:18] "GET /assets/scss/soft-ui-dashboard/bootstrap/tests/mixins/_media-query-color-mode-full.test.scss HTTP/1.1" 200 -
+34.22.205.203 - - [16/Jun/2025 06:32:18] "GET /assets/scss/soft-ui-dashboard/bootstrap/tests/mixins/_utilities.test.scss HTTP/1.1" 200 -
+34.22.205.203 - - [16/Jun/2025 06:32:18] "GET /assets/scss/soft-ui-dashboard/bootstrap/tests/sass-true/ HTTP/1.1" 200 -
+34.22.205.203 - - [16/Jun/2025 06:32:18] "GET /assets/scss/soft-ui-dashboard/bootstrap/tests/sass-true/register.js HTTP/1.1" 200 -
+34.22.205.203 - - [16/Jun/2025 06:32:18] "GET /assets/scss/soft-ui-dashboard/bootstrap/tests/sass-true/runner.js HTTP/1.1" 200 -
+34.22.205.203 - - [16/Jun/2025 06:32:18] "GET /assets/scss/soft-ui-dashboard/bootstrap/tests/utilities/ HTTP/1.1" 200 -
+34.22.205.203 - - [16/Jun/2025 06:32:18] "GET /assets/scss/soft-ui-dashboard/bootstrap/tests/utilities/_api.test.scss HTTP/1.1" 200 -
+34.22.205.203 - - [16/Jun/2025 06:32:18] "GET /assets/scss/soft-ui-dashboard/bootstrap/utilities/ HTTP/1.1" 200 -
+34.22.205.203 - - [16/Jun/2025 06:32:18] "GET /assets/scss/soft-ui-dashboard/bootstrap/utilities/_api.scss HTTP/1.1" 200 -
+34.22.205.203 - - [16/Jun/2025 06:32:18] "GET /assets/scss/soft-ui-dashboard/bootstrap/vendor/ HTTP/1.1" 200 -
+34.22.205.203 - - [16/Jun/2025 06:32:18] "GET /assets/scss/soft-ui-dashboard/bootstrap/vendor/_rfs.scss HTTP/1.1" 200 -
+34.22.205.203 - - [16/Jun/2025 06:32:18] "GET /assets/scss/soft-ui-dashboard/cards/ HTTP/1.1" 200 -
+34.22.205.203 - - [16/Jun/2025 06:32:19] "GET /assets/scss/soft-ui-dashboard/cards/card-background.scss HTTP/1.1" 200 -
+34.22.205.203 - - [16/Jun/2025 06:32:19] "GET /assets/scss/soft-ui-dashboard/custom/ HTTP/1.1" 200 -
+34.22.205.203 - - [16/Jun/2025 06:32:19] "GET /assets/scss/soft-ui-dashboard/custom/_styles.scss HTTP/1.1" 200 -
+34.22.205.203 - - [16/Jun/2025 06:32:19] "GET /assets/scss/soft-ui-dashboard/custom/_variables.scss HTTP/1.1" 200 -
+34.22.205.203 - - [16/Jun/2025 06:32:19] "GET /assets/scss/soft-ui-dashboard/forms/ HTTP/1.1" 200 -
+34.22.205.203 - - [16/Jun/2025 06:32:19] "GET /assets/scss/soft-ui-dashboard/forms/_form-check.scss HTTP/1.1" 200 -
+34.22.205.203 - - [16/Jun/2025 06:32:19] "GET /assets/scss/soft-ui-dashboard/forms/_form-select.scss HTTP/1.1" 200 -
+34.22.205.203 - - [16/Jun/2025 06:32:19] "GET /assets/scss/soft-ui-dashboard/forms/_form-switch.scss HTTP/1.1" 200 -
+34.22.205.203 - - [16/Jun/2025 06:32:19] "GET /assets/scss/soft-ui-dashboard/forms/_forms.scss HTTP/1.1" 200 -
+34.22.205.203 - - [16/Jun/2025 06:32:19] "GET /assets/scss/soft-ui-dashboard/forms/_input-group.scss HTTP/1.1" 200 -
+34.22.205.203 - - [16/Jun/2025 06:32:19] "GET /assets/scss/soft-ui-dashboard/forms/_inputs.scss HTTP/1.1" 200 -
+34.22.205.203 - - [16/Jun/2025 06:32:19] "GET /assets/scss/soft-ui-dashboard/forms/_labels.scss HTTP/1.1" 200 -
+34.22.205.203 - - [16/Jun/2025 06:32:19] "GET /assets/scss/soft-ui-dashboard/mixins/ HTTP/1.1" 200 -
+34.22.205.203 - - [16/Jun/2025 06:32:19] "GET /assets/scss/soft-ui-dashboard/mixins/_badge.scss HTTP/1.1" 200 -
+34.22.205.203 - - [16/Jun/2025 06:32:19] "GET /assets/scss/soft-ui-dashboard/mixins/_colored-shadows.scss HTTP/1.1" 200 -
+34.22.205.203 - - [16/Jun/2025 06:32:19] "GET /assets/scss/soft-ui-dashboard/mixins/_container.scss HTTP/1.1" 200 -
+34.22.205.203 - - [16/Jun/2025 06:32:20] "GET /assets/scss/soft-ui-dashboard/mixins/_hover.scss HTTP/1.1" 200 -
+34.22.205.203 - - [16/Jun/2025 06:32:20] "GET /assets/scss/soft-ui-dashboard/mixins/_social-buttons.scss HTTP/1.1" 200 -
+34.22.205.203 - - [16/Jun/2025 06:32:20] "GET /assets/scss/soft-ui-dashboard/mixins/mixins.scss HTTP/1.1" 200 -
+34.22.205.203 - - [16/Jun/2025 06:32:20] "GET /assets/scss/soft-ui-dashboard/plugins/ HTTP/1.1" 200 -
+34.22.205.203 - - [16/Jun/2025 06:32:20] "GET /assets/scss/soft-ui-dashboard/plugins/free/ HTTP/1.1" 200 -
+34.22.205.203 - - [16/Jun/2025 06:32:20] "GET /assets/scss/soft-ui-dashboard/plugins/free/ HTTP/1.1" 200 -
+34.22.205.203 - - [16/Jun/2025 06:32:20] "GET /assets/scss/soft-ui-dashboard/plugins/free/_flatpickr.scss HTTP/1.1" 200 -
+34.22.205.203 - - [16/Jun/2025 06:32:20] "GET /assets/scss/soft-ui-dashboard/plugins/free/_nouislider.scss HTTP/1.1" 200 -
+34.22.205.203 - - [16/Jun/2025 06:32:20] "GET /assets/scss/soft-ui-dashboard/plugins/free/_perfect-scrollbar.scss HTTP/1.1" 200 -
+34.22.205.203 - - [16/Jun/2025 06:32:20] "GET /assets/scss/soft-ui-dashboard/plugins/free/_prism.scss HTTP/1.1" 200 -
+34.22.205.203 - - [16/Jun/2025 06:32:20] "GET /assets/scss/soft-ui-dashboard/plugins/free/plugins.scss HTTP/1.1" 200 -
+34.22.205.203 - - [16/Jun/2025 06:32:20] "GET /assets/scss/soft-ui-dashboard/variables/ HTTP/1.1" 200 -
+34.22.205.203 - - [16/Jun/2025 06:32:20] "GET /assets/scss/soft-ui-dashboard/variables/_animations.scss HTTP/1.1" 200 -
+34.22.205.203 - - [16/Jun/2025 06:32:20] "GET /assets/scss/soft-ui-dashboard/variables/_avatars.scss HTTP/1.1" 200 -
+34.22.205.203 - - [16/Jun/2025 06:32:20] "GET /assets/scss/soft-ui-dashboard/variables/_badge.scss HTTP/1.1" 200 -
+34.22.205.203 - - [16/Jun/2025 06:32:20] "GET /assets/scss/soft-ui-dashboard/variables/_breadcrumb.scss HTTP/1.1" 200 -
+34.22.205.203 - - [16/Jun/2025 06:32:21] "GET /assets/scss/soft-ui-dashboard/variables/_cards-extend.scss HTTP/1.1" 200 -
+34.22.205.203 - - [16/Jun/2025 06:32:21] "GET /assets/scss/soft-ui-dashboard/variables/_cards.scss HTTP/1.1" 200 -
+34.22.205.203 - - [16/Jun/2025 06:32:21] "GET /assets/scss/soft-ui-dashboard/variables/_choices.scss HTTP/1.1" 200 -
+34.22.205.203 - - [16/Jun/2025 06:32:21] "GET /assets/scss/soft-ui-dashboard/variables/_dark-version.scss HTTP/1.1" 200 -
+34.22.205.203 - - [16/Jun/2025 06:32:21] "GET /assets/scss/soft-ui-dashboard/variables/_dropdowns.scss HTTP/1.1" 200 -
+34.22.205.203 - - [16/Jun/2025 06:32:21] "GET /assets/scss/soft-ui-dashboard/variables/_fixed-plugin.scss HTTP/1.1" 200 -
+34.22.205.203 - - [16/Jun/2025 06:32:21] "GET /assets/scss/soft-ui-dashboard/variables/_form-switch.scss HTTP/1.1" 200 -
+34.22.205.203 - - [16/Jun/2025 06:32:21] "GET /assets/scss/soft-ui-dashboard/variables/_full-calendar.scss HTTP/1.1" 200 -
+34.22.205.203 - - [16/Jun/2025 06:32:21] "GET /assets/scss/soft-ui-dashboard/variables/_header.scss HTTP/1.1" 200 -
+34.22.205.203 - - [16/Jun/2025 06:32:21] "GET /assets/scss/soft-ui-dashboard/variables/_info-areas.scss HTTP/1.1" 200 -
+34.22.205.203 - - [16/Jun/2025 06:32:21] "GET /assets/scss/soft-ui-dashboard/variables/_misc-extend.scss HTTP/1.1" 200 -
+34.22.205.203 - - [16/Jun/2025 06:32:21] "GET /assets/scss/soft-ui-dashboard/variables/_misc.scss HTTP/1.1" 200 -
+34.22.205.203 - - [16/Jun/2025 06:32:21] "GET /assets/scss/soft-ui-dashboard/variables/_navbar-vertical.scss HTTP/1.1" 200 -
+34.22.205.203 - - [16/Jun/2025 06:32:21] "GET /assets/scss/soft-ui-dashboard/variables/_navbar.scss HTTP/1.1" 200 -
+34.22.205.203 - - [16/Jun/2025 06:32:21] "GET /assets/scss/soft-ui-dashboard/variables/_pagination.scss HTTP/1.1" 200 -
+34.22.205.203 - - [16/Jun/2025 06:32:22] "GET /assets/scss/soft-ui-dashboard/variables/_rtl.scss HTTP/1.1" 200 -
+34.22.205.203 - - [16/Jun/2025 06:32:22] "GET /assets/scss/soft-ui-dashboard/variables/_social-buttons.scss HTTP/1.1" 200 -
+34.22.205.203 - - [16/Jun/2025 06:32:22] "GET /assets/scss/soft-ui-dashboard/variables/_table.scss HTTP/1.1" 200 -
+34.22.205.203 - - [16/Jun/2025 06:32:22] "GET /assets/scss/soft-ui-dashboard/variables/_timeline.scss HTTP/1.1" 200 -
+34.22.205.203 - - [16/Jun/2025 06:32:22] "GET /assets/scss/soft-ui-dashboard/variables/_utilities-extend.scss HTTP/1.1" 200 -
+34.22.205.203 - - [16/Jun/2025 06:32:22] "GET /assets/scss/soft-ui-dashboard/variables/_utilities.scss HTTP/1.1" 200 -
+34.22.205.203 - - [16/Jun/2025 06:32:22] "GET /assets/scss/soft-ui-dashboard/variables/_virtual-reality.scss HTTP/1.1" 200 -
+34.22.205.203 - - [16/Jun/2025 06:32:22] "GET /fronted/ HTTP/1.1" 200 -
+34.22.205.203 - - [16/Jun/2025 06:32:22] "GET /fronted/crud.html HTTP/1.1" 200 -
+34.22.205.203 - - [16/Jun/2025 06:32:22] "GET /fronted/dashboard.html HTTP/1.1" 200 -
+34.22.205.203 - - [16/Jun/2025 06:32:22] "GET /fronted/Dockerfile.fronted HTTP/1.1" 200 -
+34.22.205.203 - - [16/Jun/2025 06:32:22] "GET /fronted/nohup.out HTTP/1.1" 200 -
+34.22.205.203 - - [16/Jun/2025 06:32:22] "GET /fronted/scripts.js HTTP/1.1" 200 -
+34.22.205.203 - - [16/Jun/2025 06:32:22] "GET /fronted/sign-in.html HTTP/1.1" 200 -
+34.22.205.203 - - [16/Jun/2025 06:32:22] "GET /pages/ HTTP/1.1" 200 -
+34.22.205.203 - - [16/Jun/2025 06:32:23] "GET /pages/billing.html HTTP/1.1" 200 -
+34.22.205.203 - - [16/Jun/2025 06:32:23] "GET /pages/crud.html HTTP/1.1" 200 -
+34.22.205.203 - - [16/Jun/2025 06:32:23] "GET /pages/dashboard.html HTTP/1.1" 200 -
+34.22.205.203 - - [16/Jun/2025 06:32:23] "GET /pages/profile.html HTTP/1.1" 200 -
+34.22.205.203 - - [16/Jun/2025 06:32:23] "GET /pages/rtl.html HTTP/1.1" 200 -
+34.22.205.203 - - [16/Jun/2025 06:32:23] "GET /pages/scripts.js HTTP/1.1" 200 -
+34.22.205.203 - - [16/Jun/2025 06:32:23] "GET /pages/scripts_table.js HTTP/1.1" 200 -
+34.22.205.203 - - [16/Jun/2025 06:32:23] "GET /pages/sign-in.html HTTP/1.1" 200 -
+34.22.205.203 - - [16/Jun/2025 06:32:23] "GET /pages/tables.html HTTP/1.1" 200 -
+34.22.205.203 - - [16/Jun/2025 06:32:23] "GET /pages/virtual-reality.html HTTP/1.1" 200 -
+35.203.211.144 - - [16/Jun/2025 17:13:35] "GET / HTTP/1.1" 200 -
+91.196.152.210 - - [17/Jun/2025 05:42:44] code 400, message Bad request version ('À#À¬À®À+À')
+91.196.152.210 - - [17/Jun/2025 05:42:44] "\x16\x03\x03\x01¤\x01\x00\x01 \x03\x03\x98¯ÿÁ\x89É\x16Ç4¼í2Q\x12»&Û\x1c.\x1f\x8f\x88½#ñ\x9dý½¿"ØÛ 5\x19ÝÇ0áF\x11ÞÑ\x97\x89?43\x9a³?\x03ì\x80Ã*\x8dkþ~ÉÂ9\x9a3\x00\x8a\x00\x16\x003\x00gÀ\x9eÀ¢\x00\x9e\x009\x00kÀ\x9fÀ£\x00\x9f\x00E\x00¾\x00\x88\x00Ä\x00\x9aÀ\x08À\x09À#À¬À®À+À" 400 -
+64.227.99.138 - - [17/Jun/2025 05:59:03] "GET / HTTP/1.1" 200 -
+147.185.132.80 - - [17/Jun/2025 15:16:15] "GET / HTTP/1.1" 200 -
+35.203.211.171 - - [17/Jun/2025 19:24:21] "GET / HTTP/1.1" 200 -
+----------------------------------------
+Exception occurred during processing of request from ('172.104.210.105', 41140)
+Traceback (most recent call last):
+  File "/usr/lib/python3.12/socketserver.py", line 692, in process_request_thread
+    self.finish_request(request, client_address)
+  File "/usr/lib/python3.12/http/server.py", line 1311, in finish_request
+    self.RequestHandlerClass(request, client_address, self,
+  File "/usr/lib/python3.12/http/server.py", line 672, in __init__
+    super().__init__(*args, **kwargs)
+  File "/usr/lib/python3.12/socketserver.py", line 761, in __init__
+    self.handle()
+  File "/usr/lib/python3.12/http/server.py", line 436, in handle
+    self.handle_one_request()
+  File "/usr/lib/python3.12/http/server.py", line 404, in handle_one_request
+    self.raw_requestline = self.rfile.readline(65537)
+                           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/socket.py", line 707, in readinto
+    return self._sock.recv_into(b)
+           ^^^^^^^^^^^^^^^^^^^^^^^
+ConnectionResetError: [Errno 104] Connection reset by peer
+----------------------------------------
+172.104.210.105 - - [18/Jun/2025 07:33:53] "GET / HTTP/1.1" 200 -
+172.236.228.222 - - [18/Jun/2025 07:34:00] "GET / HTTP/1.1" 200 -
